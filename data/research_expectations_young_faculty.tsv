@@ -1,0 +1,810 @@
+discipline	desnorm_wchild	desnorm_wnochild	desnorm_mchild	desnorm_mnochild	injnorm_wchild	injnorm_wnochild	injnorm_mchild	injnorm_mnochild	aim_avg	resp_gender	hasunder10
+Business	0.0	0.0	0.0	0.0	2.0	2.0	2.0	2.0	2.5	M	True
+Business	1.0	3.0	3.0	4.0	4.0	4.0	4.0	4.0	3.0	F	True
+Business	1.0	2.0	1.5	2.0	2.0	2.0	2.0	2.0	2.0	M	False
+Business	2.0	3.0	3.0	3.0	3.0	3.0	3.0	3.0	4.5	M	False
+Business	1.5	1.5	1.5	1.5	2.0	2.0	2.0	2.0	2.5	M	False
+Business	2.0	3.0	2.0	3.0	2.0	2.0	2.0	2.0	7.0	M	True
+Business	2.0	2.0	2.0	2.0	2.0	2.0	2.0	2.0	7.0	M	True
+Business	2.0	2.0	3.0	4.0	2.0	2.0	3.0	5.0	5.0	F	False
+Business	5.0	5.0	5.0	5.0	4.0	4.0	4.0	4.0	10.5	M	False
+Business	2.0	3.0	2.0	3.0	2.0	3.0	2.0	3.0	2.5	F	False
+Business	2.0	4.0	3.0	4.0	2.0	2.0	2.0	2.0	3.0	F	True
+Business	1.0	1.0	1.0	1.0	2.0	2.0	2.0	2.0	2.5	F	False
+Business	3.0	3.0	3.0	3.0	5.0	5.0	5.0	5.0	7.5	F	False
+Business	1.0	2.0	1.0	2.0	2.0	3.0	2.0	3.0	2.0	M	True
+Business	2.0	2.0	2.0	2.0	2.0	2.0	2.0	2.0	2.0	M	True
+Business	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	2.0	M	True
+Business										M	True
+Business	1.0	2.0	2.0	2.0	2.0	2.0	2.0	2.0	2.0	F	True
+Business	2.0	2.0	2.0	2.0	2.0	2.0	2.0	2.0	3.0	M	True
+Business	2.0	2.0	2.0	2.0	4.0	3.0	4.0	3.0	6.0	M	True
+Business	1.0	2.0	2.0	3.0	2.0	3.0	2.0	3.0	4.0	F	False
+Business	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	2.5	M	False
+Business	3.0	4.0	3.0	4.0	4.0	5.0	4.0	5.0	4.5	F	True
+Business	3.0	4.0	4.0	4.0	6.0	6.0	6.0	6.0	9.5	F	True
+Business	3.0	5.0	4.0	5.0	3.0	5.0	4.0	5.0	4.5	M	True
+Business	1.0	2.0	3.0	3.0	3.0	3.0	3.0	3.0	2.5	F	False
+Business	2.0	2.0	3.0	3.0	2.0	2.0	2.0	2.0	4.0	F	True
+Business										F	False
+Business									2.5	F	False
+Business	1.0	1.0	1.0	1.0	2.0	2.0	2.0	2.0	2.0	M	False
+Business	1.0	2.0	1.0	2.0	2.0	2.0	2.0	2.0	3.0	M	True
+Business	1.0	1.0	1.0	1.0	2.0	2.0	2.0	2.0	2.5	M	True
+Business	0.5	0.75	0.75	1.0	1.0	1.0	1.0	1.0	3.0	M	False
+Business	0.0	0.0	1.0	1.0	2.0	2.0	2.0	2.0	2.0	F	False
+Business	2.0	3.0	3.0	3.0	3.0	3.0	3.0	3.0	3.0	F	False
+Business	3.0	4.0	3.0	4.0	4.0	4.0	4.0	4.0	6.0	F	True
+Business	1.0	2.0	2.0	2.0	3.0	3.0	3.0	3.0	3.0	F	False
+Business	4.0	4.0	4.0	4.0	5.0	5.0	5.0	5.0	4.5	M	False
+Business										M	True
+Business	1.0	2.0	3.0	3.0	3.0	3.0	3.0	3.0	3.0	F	True
+Business	1.0	1.0	1.0	1.0	2.0	2.0	2.0	2.0	2.5	M	False
+Business	1.0	2.0	2.0	2.0	2.0	2.0	2.0	2.0	3.0	F	False
+Business	1.0	2.0	2.0	2.0	2.0	2.0	2.0	2.0	3.0	F	False
+Business										M	False
+Business	2.0	4.0	3.0	4.0	3.0	3.0	3.0	3.0	3.0	M	True
+Business	2.0	2.0	2.0	2.0	2.0	2.0	2.0	2.0	4.0	M	False
+Business	1.0	1.0	1.0	1.0	2.0	2.0	2.0	2.0	1.5	M	True
+Business	1.5	2.0	1.75	2.0	2.0	2.0	2.0	2.0	4.0	M	True
+Business	1.0	2.0	2.0	2.0	2.0	2.0	2.0	2.0	3.5	M	False
+Business										F	True
+Business	2.0	2.0	2.0	2.0	3.0	3.0	2.0	2.0	3.5	F	True
+Business										F	True
+Business	1.0	1.0	1.0	1.0	1.0	2.0	2.0	2.0	2.0	M	False
+Business	1.0	1.0	1.0	1.0	2.0	2.0	2.0	2.0	2.0	M	True
+Business	2.0	2.0	2.0	2.0	4.0	4.0	4.0	4.0	4.5	M	False
+Business	1.0	2.0	1.0	3.0	3.0	3.0	3.0	3.0	2.0	F	False
+Business										M	True
+Business	1.0	2.0	1.0	2.0	1.0	2.0	2.0	2.0	3.0	M	True
+Business	1.0	1.0	1.0	1.0	2.0	2.0	2.0	2.0	1.0	M	False
+Business	2.0	3.0	2.0	3.0	3.0	4.0	3.0	4.0	7.5	F	False
+Business	1.0	1.0	1.0	1.0	2.0	2.0	2.0	2.0	4.0	F	False
+Business	0.0	0.0	0.0	0.0	1.0	1.0	1.0	1.0	2.0	M	True
+Business										M	True
+Business	2.0	2.0	4.0	4.0	2.0	2.0	2.0	2.0	2.0	F	True
+Business	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	2.5	M	False
+Business	2.0	2.0	2.0	2.0	3.0	3.0	3.0	3.0	4.5	M	True
+Business	2.0	3.0	3.0	4.0	2.0	2.0	2.0	2.0	3.5	F	False
+Business	1.0	1.0	1.0	1.0	2.0	2.0	2.0	2.0	3.0	M	False
+Business	2.0	2.0	2.0	2.0	2.0	2.0	2.0	2.0	3.5	M	True
+Business	3.0	3.0	3.0	3.0	3.0	3.0	3.0	3.0	5.5	F	False
+Business	2.0	1.0	2.0	1.0	2.0	1.0	2.0	1.0	3.0	M	False
+Business	1.0	1.0	1.0	1.0	2.0	2.0	2.0	2.0	4.5	M	True
+Business	2.0		3.0		3.0	3.0	3.0	3.0	3.0	F	True
+Business	2.0	3.0	2.0	3.0	3.0	3.0	3.0	3.0	3.0	M	True
+Business										M	True
+Business	3.0	6.0	7.0	7.0	4.0	8.0	7.0	9.0	3.5	F	True
+Business	1.0	1.0	1.0	1.0	2.0	2.0	2.0	2.0	4.5	M	True
+Business										F	True
+Business	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	3.0	F	True
+Business	1.0	2.0	2.0	2.0	2.0	2.0	2.0	2.0	3.0	F	False
+Business										F	True
+Business	0.0	1.0	1.0	1.0	2.0	2.0	2.0	2.0	2.0	F	True
+Business	1.0	2.0	3.0	4.0	2.0	2.0	3.0	4.0	3.0	F	False
+Business	1.0	1.0	1.0	1.0	2.0	2.0	2.0	2.0	2.5	F	False
+Business	5.0	5.0	5.0	5.0	5.0	5.0	5.0	5.0	4.5	M	False
+Business										M	False
+Business	1.0	2.0	1.0	2.0	1.0	1.0	1.0	1.0	2.0	M	True
+Business	2.0	3.0	3.0	3.0	3.0	3.0	3.0	3.0	3.0	F	True
+Business	1.0	1.0	1.0	1.0	2.0	2.0	2.0	2.0	2.0	M	True
+Business	1.0	3.0	3.0	3.0	3.0	3.0	3.0	3.0	3.0	F	True
+Business	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	2.0	M	False
+Business	1.0	3.0	2.0	3.0	2.0	2.0	2.0	2.0	5.0	M	False
+Business	1.5	1.5	1.5	1.5	2.0	2.0	2.0	2.0	3.0	M	True
+Business	1.0	1.0	1.0	1.0	2.0	2.0	2.0	2.0	3.0	M	True
+Business	2.0	2.0	2.0	2.0	2.0	2.0	2.0	2.0	2.5	M	False
+Business									3.0	F	False
+Business	2.0	3.0	2.0	3.0	3.0	3.0	3.0	3.0	6.0	M	True
+Business	1.0	1.0	1.0	1.0	3.0	3.0	3.0	3.0	3.0	M	False
+Business	1.0	3.0	1.0	3.0	1.0	2.0	1.0	2.0	3.5	M	True
+Business	0.0	1.0	2.0	2.0	2.0	2.0	2.0	2.0	2.0	F	True
+Business	1.0	1.0	2.0	2.0	2.0	2.0	2.0	2.0	2.0	F	False
+Business	2.0	4.0	2.0	4.0	2.0	3.0	2.0	3.0	3.0	F	True
+Business	1.0	2.0	2.0	2.0	2.0	2.0	2.0	2.0	2.0	F	True
+Business	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	2.0	M	True
+Business	2.0	2.0	2.0	2.0	6.0	6.0	6.0	6.0	7.5	M	True
+Business	2.0	3.0	3.0	4.0	3.0	3.0	3.0	3.0	3.0	M	False
+Business	1.0	2.0	2.0	2.0	2.0	2.0	2.0	2.0	3.0	F	False
+Business	5.0	8.0	5.0	8.0	8.0	8.0	8.0	8.0	10.0	M	False
+Business	2.0	2.0	2.0	2.0	2.0	2.0	2.0	2.0	3.5	M	True
+Business	8.0	5.0	15.0	15.0	10.0	10.0	3.0	3.0	8.0	F	False
+Business	3.0	3.0	3.0	3.0	3.0	3.0	3.0	3.0	4.0	M	False
+Business	0.0	0.0	0.0	0.0	2.0	2.0	2.0	2.0	3.0	M	True
+Business										F	True
+Business	2.0	2.0	2.0	2.0	2.0	2.0	2.0	2.0	6.5	M	True
+Business	2.0	2.0	2.0	2.0	2.0	2.0	2.0	2.0	3.0	M	True
+Business									4.0	M	False
+Business	1.0	2.0	2.0	2.0	2.0	2.0	2.0	2.0	2.0	F	False
+Business	1.0	1.0	1.0	1.0	3.0	3.0	3.0	3.0	3.0	M	True
+Business	0.0	0.0	0.0	0.0	1.0	1.0	1.0	1.0	3.0	M	True
+Business	1.0	2.0	0.0	1.0	1.0	1.0	1.0	1.0	2.5	M	True
+Business	1.0	1.0	1.0	1.0	2.0	2.0	2.0	2.0	3.0	M	False
+Business									3.0	M	True
+Business									1.5	F	False
+Business										M	False
+Business	2.0	2.0	2.0	2.0	2.0	2.0	2.0	2.0	2.5	M	True
+Business	2.0	2.0	2.0	2.0	2.0	2.0	2.0	2.0	2.0	M	True
+Business									4.0	F	False
+Business										F	False
+Business	3.0	3.0	3.0	3.0	4.0	4.0	4.0	4.0	5.0	F	False
+Business	1.0	3.0	3.0	3.0	3.0	3.0	3.0	3.0	4.0	F	False
+Business										M	False
+Business	2.0	2.0	2.0	2.0	4.0	4.0	4.0	4.0	6.0	F	False
+Business	1.0	1.0	2.0	2.0	1.0	1.0	2.0	2.0	2.5	M	True
+Business	3.0	3.0	3.0	3.0	3.0	3.0	3.0	3.0	4.0	M	False
+Business	2.0	2.0	2.0	2.0	3.0	3.0	3.0	3.0	7.0	M	False
+Business	1.0	2.0	2.0	2.0	1.0	2.0	2.0	2.0	2.0	F	True
+Business									5.5	F	False
+Business	1.0	2.0	3.0	3.0	3.0	3.0	3.0	3.0	5.0	F	False
+Business										M	True
+Business	1.0	1.0	1.0	1.0	2.0	2.0	2.0	2.0	2.5	M	True
+Business									3.0	F	False
+Business	2.0	3.0	2.0	3.0	3.0	3.0	3.0	3.0	5.0	F	True
+Business	2.0	4.0	4.0	5.0	4.0	4.0	4.0	4.0	5.0	F	False
+Business	1.0	1.0	1.0	1.0	2.0	2.0	2.0	2.0	2.0	M	True
+Business	3.0	3.0	3.0	3.0	3.0	3.0	3.0	3.0	4.0	M	False
+Business	4.0	4.0	4.0	4.0	4.0	4.0	4.0	4.0	5.5	M	True
+Business	1.0	2.0	2.0	2.0	2.0	2.0	2.0	2.0	3.0	F	True
+Business	2.0	2.0	2.0	2.0	3.0	3.0	3.0	3.0	3.0	M	False
+Business	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	4.0	M	False
+Business	1.0	1.0	1.0	1.0	2.0	2.0	2.0	2.0	3.5	M	True
+Business	2.0	2.0	3.0	3.0	2.0	2.0	3.0	3.0	2.5	M	False
+Business										M	True
+Business	3.0	3.0	10.0	10.0	10.0	10.0	10.0	10.0	9.0	F	False
+Business									2.0	F	False
+Business	0.0	2.0	2.0	3.0	2.0	2.0	2.0	2.0	3.5	M	False
+Business	2.0	2.0	2.0	2.0	2.0	2.0	2.0	2.0	2.0	M	False
+Business	1.0	3.0	1.0	3.0	3.0	3.0	3.0	3.0	4.5	M	True
+Business	4.0	4.0	4.0	4.0	4.0	5.0	4.0	5.0	7.5	M	False
+Business	2.0	2.0	2.0	2.0	2.0	2.0	2.0	2.0	3.5	F	True
+Business					3.0	3.0	3.0	3.0	4.0	M	True
+Business	1.0	2.0	3.0	3.0	2.0	2.0	2.0	2.0	4.0	F	True
+Business	1.0	2.0	2.0	2.0	2.0	2.0	2.0	2.0	3.0	M	False
+Business	2.0	2.0	2.0	2.0	3.0	3.0	3.0	3.0	2.5	F	False
+Business	2.0	4.0	4.0	6.0	4.0	4.0	4.0	4.0	9.0	F	True
+Business										F	False
+Business	1.0	2.0	2.0	3.0	2.0	2.0	2.0	2.0	2.5	F	True
+Business	3.0	3.0	3.0	3.0	4.0	4.0	4.0	4.0	6.0	M	True
+Business	1.0	1.0	1.0	1.0	2.0	2.0	2.0	2.0	4.0	M	True
+Business	1.0	1.0	1.0	1.0	2.0	2.0	2.0	2.0	3.0	F	True
+Business	1.0	3.0	2.0	3.0	2.0	2.0	2.0	2.0	6.0	M	False
+Business	0.0	1.0	1.0	2.0	2.0	3.0	2.0	3.0	5.0	F	False
+Business	2.0	3.0	3.0	4.0	1.0	2.0	2.0	2.0	2.5	M	True
+Business	2.0	2.0	2.0	2.0	2.0	2.0	2.0	2.0	4.5	M	True
+Business	2.0	3.0	3.0	3.0	2.0	3.0	3.0	3.0	3.0	F	True
+Business	2.0	3.0	3.0	3.0	2.0	2.0	2.0	2.0	3.0	M	False
+Business	3.0	4.0	3.0	4.0	3.0	3.0	3.0	3.0	4.0	M	False
+Business	3.0	5.0	5.0	6.0	4.0	6.0	6.0	8.0	6.0	F	False
+Business	1.0	1.0	2.0	2.0	2.0	4.0	3.0	3.0	3.5	F	False
+Business	3.0	5.0	4.0	5.0	4.0	5.0	5.0	5.0	6.0	M	False
+Business	2.0	2.0	2.0	2.0	2.0	3.0	2.0	2.0	3.0	F	False
+Business	1.0	1.0	1.0	1.0	2.0	2.0	2.0	2.0	3.0	M	True
+Business	2.0	3.0	3.0	3.0	2.0	2.0	2.0	2.0	3.0	F	False
+Business	2.0	2.0	2.0	2.0	3.0	3.0	3.0	3.0	2.0	M	True
+Business	2.0	2.0	2.0	2.0	2.0	2.0	2.0	2.0	3.0	M	True
+Business	5.0	5.0	5.0	5.0	5.0	5.0	5.0	5.0	4.0	M	False
+Business	3.0	3.0	3.0	3.0	3.0	3.0	3.0	3.0	3.0	F	True
+Business	2.0	4.0	2.0	4.0	3.0	3.0	3.0	3.0	3.0	M	True
+Business	1.0	2.0	2.0	2.0	2.0	2.0	2.0	2.0	1.5	F	False
+Business	1.0	2.0	1.0	2.0	2.0	2.0	2.0	2.0	4.0	M	True
+Business	1.0	1.0	1.0	1.0	2.0	2.0	2.0	2.0	2.5	M	True
+Business	2.0	2.0	2.0	2.0	3.0	3.0	3.0	3.0	3.5	F	True
+Business										M	False
+Business	2.0	3.0	3.0	3.0	3.0	3.0	3.0	3.0	2.0	F	True
+Business	0.0	1.0	1.0	1.0	2.0	2.0	2.0	2.0	2.0	F	True
+Business	1.0	1.0	1.0	1.0	2.0	2.0	2.0	2.0	3.0	M	True
+Business	1.0	2.0	2.0	4.0	2.0	2.0	2.0	2.0	3.5	F	False
+Business	0.0	2.0	1.0	2.0	1.0	2.0	2.0	3.0	2.0	F	True
+Business	2.0	2.0	2.0	2.0	2.0	2.0	2.0	2.0	11.5	M	True
+Business	0.0	1.0	2.0	2.0	2.0	2.0	2.0	2.0	6.0	F	True
+Business	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	2.0	M	True
+Business	1.0	2.0	2.0	2.0	2.0	2.0	2.0	2.0	3.0	M	False
+Business	2.0	2.0	2.0	2.0	4.0	4.0	4.0	4.0	5.5	M	True
+Business										M	True
+Business	1.0	1.5	2.0	2.0	2.0	2.0	2.0	2.0	4.0	M	False
+Business	2.0	2.0	2.0	2.0	3.0	3.0	3.0	3.0	5.0	M	True
+Business	1.0	1.0	1.0	1.0	2.0	2.0	2.0	2.0	3.0	M	False
+Business	1.0	1.0	1.0	1.0	2.0	2.0	2.0	2.0	6.0	M	True
+Business	2.0	2.0	2.0	2.0	2.0	2.0	2.0	2.0	27.5	M	True
+Business					3.0	3.0	3.0	3.0	3.0	M	False
+Business	2.0	2.0	2.0	2.0	2.0	2.0	2.0	2.0	2.0	M	False
+Business										F	True
+Business	1.0	2.0	2.0	2.0	2.0	2.0	2.0	2.0	2.0	F	True
+Business									2.5	M	False
+Business	2.0	3.0	3.0	3.0	3.0	3.0	3.0	3.0	3.5	F	True
+Business									5.0	F	True
+Business	1.0	2.0	2.0	3.0	2.0	2.0	2.0	2.0	3.0	F	True
+Business	1.0	1.5	1.0	1.5	2.0	2.0	2.0	2.0	2.5	M	False
+Business	0.0	0.0	0.0	0.0	1.0	1.0	1.0	1.0	2.0	F	True
+Business	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	3.0	M	False
+Business									4.5	M	False
+Business	2.0	2.0	2.0	2.0	2.0	3.0	3.0	3.0	2.5	F	True
+Business	1.0	3.0	2.0	3.0	3.0	3.0	3.0	3.0	9.0	F	True
+Business	1.0	1.0	1.0	1.0	1.0	2.0	2.0	2.0	2.5	M	True
+Business	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	2.5	M	True
+Business									3.5	F	True
+Business	1.0	3.0	2.0	3.0	1.0	2.0	1.0	2.0	1.5	F	False
+Business	1.0	1.0	1.0	1.0	2.0	2.0	2.0	2.0	2.0	F	False
+Business	1.0	1.0	1.0	1.0	2.0	2.0	2.0	2.0	2.5	F	True
+Business										F	True
+Business	2.0	2.0	2.0	2.0	2.0	2.0	2.0	2.0		F	False
+Business	2.0	4.0	4.0	4.0	4.0	4.0	4.0	4.0	4.5	F	False
+Business	2.0	2.0	2.0	2.0	2.0	2.0	2.0	2.0	3.0	M	False
+Business	2.0	3.0	2.0	3.0	2.0	3.0	2.0	3.0	3.5	M	False
+Business	2.0	2.0	2.0	2.0	2.0	2.0	2.0	2.0	5.5	M	True
+Business	1.0	2.0	2.0	2.0	2.0	4.0	3.0	3.0	4.0	F	True
+Business	2.0	2.0	4.0	4.0	1.0	2.0	3.0	3.0	3.0	F	False
+Business	2.0	2.0	2.0	2.0	2.0	2.0	2.0	2.0	3.0	M	False
+Business	1.0	2.0	2.0	2.0	2.0	2.0	2.0	2.0	3.0	F	False
+Business	3.0	3.0	3.0	3.0	4.0	4.0	4.0	4.0	5.5	F	False
+Business	1.0	1.0	1.0	1.0	2.0	2.0	3.0	3.0	4.0	M	True
+Business	2.0	2.0	2.0	2.0	2.0	2.0	2.0	2.0	3.0	M	False
+Business	1.0	1.0	1.0	1.0	2.0	2.0	2.0	2.0	2.5	M	True
+Business	2.0	2.0	2.0	2.0	2.0	2.0	2.0	2.0	4.0	M	True
+Business	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	3.0	M	True
+Business	1.0	2.0	2.0	2.0	2.0	2.0	2.0	2.0	2.0	M	True
+Business	0.0	1.0	0.0	1.0	1.0	2.0	1.0	2.0	3.5	M	False
+Business	6.0	7.0	8.0	9.0	3.0	5.0	7.0	9.0	5.0	M	False
+Business	1.0	2.0	1.0	2.0	2.0	3.0	2.0	3.0	3.5	F	True
+Business	1.0	1.5	1.5	1.5	2.0	2.0	2.0	2.0	3.0	M	True
+Business	2.0	2.0	2.0	2.0	3.0	3.0	3.0	3.0	12.5	M	True
+Business	2.0	3.0	2.0	3.0	2.0	2.0	2.0	2.0	3.5	M	True
+Business	2.0	2.0	2.0	2.0	2.0	2.0	2.0	2.0	4.5	F	False
+Business	0.0	1.0	2.0	2.0	2.0	2.0	2.0	2.0	3.0	F	True
+Business	3.0	3.0	5.0	5.0	3.0	3.0	3.0	3.0	3.0	F	True
+Business	2.0	3.0	2.0	3.0	3.0	3.0	3.0	3.0	3.0	M	True
+Business	1.0	1.0	1.0	1.0	2.0	2.0	2.0	2.0	4.0	M	True
+Business	2.0	4.0	4.0	4.0	3.0	4.0	4.0	4.0	6.0	F	False
+Business	6.0	8.0	6.0	8.0	8.0	8.0	8.0	8.0	10.5	M	True
+Business	1.0	1.0	1.0	1.0	2.0	2.0	2.0	2.0	2.5	M	True
+Business	1.0	2.0	1.0	2.0	2.0	3.0	2.0	3.0	6.0	M	False
+Business										M	True
+Business	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	3.5	M	True
+Business										M	True
+Business	2.0	2.0	2.0	2.0	3.0	3.0	3.0	3.0	3.0	M	False
+Business										F	True
+Business	1.0	2.0	2.0	2.0	3.0	3.0	3.0	3.0	2.5	F	True
+Business					2.0	2.0	2.0	2.0	4.0	M	True
+Business	1.0	1.0	1.0	1.0	2.0	2.0	2.0	2.0	4.5	M	False
+Business	2.0	2.0	2.0	2.0	2.0	2.0	2.0	2.0	3.0	M	True
+Business	1.0	2.0	3.0	3.0	1.0	2.0	3.0	3.0	2.0	F	False
+Business										M	False
+Business	2.0	2.0	2.0	2.0	3.0	3.0	3.0	3.0	4.0	M	True
+Business	2.0	3.0	2.0	3.0	2.0	2.0	2.0	2.0	2.0	F	True
+Business	2.0	2.0	2.0	2.0	1.0	1.0	1.0	1.0	2.0	M	True
+Business	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	2.0	M	True
+Business	1.0	2.0	2.0	2.0	2.0	2.0	2.0	2.0	2.5	F	False
+Business	3.0	4.0	4.0	5.0	3.0	5.0	4.0	6.0	6.5	F	True
+Business	0.0	2.0	2.0	2.0	2.0	2.0	2.0	2.0	2.0	F	True
+Business	1.5	2.0	1.5	2.0	1.0	2.0	2.0	2.0	3.0	M	True
+Business	1.0	2.0	2.0	2.0	2.0	3.0	3.0	4.0	4.5	F	False
+Business	2.0	2.0	2.0	2.0	2.0	2.0	2.0	2.0	7.0	M	False
+Business										M	True
+Business	1.5	1.5	1.5	1.5	1.5	1.5	1.5	1.5	2.5	M	False
+Business	2.0	3.0	3.0	3.0	2.0	4.0	4.0	4.0	3.0	M	False
+Business	1.0	2.0	4.0	4.0	2.0	4.0	4.0	4.0	6.0	F	True
+Business										M	False
+Business	1.0	3.0	4.0	4.0	2.0	2.0	2.0	2.0	7.0	F	True
+Business	2.0	3.0	3.0	3.0	3.0	3.0	3.0	3.0	4.0	M	False
+Business	0.5	1.0	2.0	1.0	1.0	1.0	2.0	4.0	2.5	M	True
+Business	1.0	1.0	2.0	2.0	3.0	3.0	4.0	4.0	4.0	M	True
+Business	2.0	3.0	2.0	3.0	2.0	2.0	2.0	2.0	4.5	M	True
+Business										F	True
+Business	2.0	2.0	2.0	3.0	3.0	3.0	3.0	3.0	3.5	F	True
+Business	1.0	4.0	3.0	4.0	4.0	4.0	4.0	4.0		F	True
+Business									5.0	M	True
+Business										M	True
+Business	2.0	2.0	2.0	2.0	2.0	2.0	2.0	2.0	3.0	M	True
+Business									3.0	M	True
+Business	1.0	2.0	2.0	3.0	2.0	2.0	2.0	2.0	3.0	F	True
+Business	1.0	2.0	3.0	3.0	3.0	3.0	3.0	3.0	3.5	F	False
+Business									2.5	F	False
+Business	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	3.0	M	True
+Business	1.0	1.0	1.0	1.0	2.0	2.0	2.0	2.0	3.0	F	False
+Business	2.0	3.0	4.0	4.0	3.0	3.0	3.0	3.0	3.5	F	False
+Business	1.0	1.0	1.0	1.0	2.0	2.0	2.0	2.0	3.0	M	True
+Business	1.0	2.0	2.0	2.0	2.0	2.0	2.0	2.0	3.0	F	False
+Business	0.0	0.0	0.0	0.0	2.0	2.0	2.0	2.0	3.0	M	True
+Business	0.5	1.0	0.75	1.0	2.0	2.0	2.0	2.0	2.0	M	True
+Business	1.0	2.0	3.0	3.0	2.0	4.0	4.0	5.0	4.0	F	True
+Business	4.0	4.0	4.0	4.0	4.0	4.0	4.0	4.0	6.0	M	False
+Business	1.0	1.0	1.0	1.0	1.0	2.0	2.0	2.0	4.5	F	False
+Business	2.0	3.0	2.0	3.0	3.0	3.0	3.0	3.0	3.0	M	False
+Business	2.0	2.0	2.0	2.0	2.0	2.0	2.0	2.0	3.0	M	False
+Business									7.0	M	True
+Business	2.0	2.0	2.0	2.0	2.0	2.0	2.0	2.0	2.5	M	False
+Business										M	True
+Business										F	False
+Business	1.0	3.0	3.0	3.0	3.0	3.0	3.0	3.0	2.0	F	False
+Business	1.0	1.5	1.5	2.0	1.5	1.5	1.5	1.5	2.0	M	True
+Business	1.0	1.0	1.0	1.0	2.0	2.0	2.0	2.0	2.0	M	True
+Business	1.0	1.0	1.0	1.0	2.0	2.0	2.0	2.0	2.0	M	True
+Business	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	F	False
+Business										F	False
+Business	2.0	3.0	4.0	4.0	4.0	4.0	4.0	4.0	4.0	F	False
+Business	2.0	2.0	3.0	3.0	3.0	3.0	3.0	3.0	2.5	F	True
+Business	3.0	3.0	3.0	3.0	3.0	3.0	3.0	3.0		F	True
+Business	2.0	2.0	2.0	2.0	2.0	2.0	2.0	2.0	3.5	F	True
+Business	1.5	1.5	1.5	1.5	2.0	2.0	2.0	2.0	4.5	M	True
+Business	1.0	1.0	1.0	1.0	2.0	2.0	2.0	2.0	3.0	M	False
+Business	1.0	2.0	4.0	4.0	2.0	2.0	2.0	2.0	2.0	F	True
+Business	1.0	2.0	3.0	3.0	2.0	3.0	3.0	3.0	2.0	F	False
+Business	1.0	1.0	1.0	1.0	1.0	2.0	2.0	2.0	2.0	F	True
+Business	2.0	2.0	2.0	2.0	2.0	2.0	2.0	2.0	2.5	F	True
+Business										M	True
+History	2.0	2.0	2.0	2.0	2.0	2.0	2.0	2.0	3.5	M	False
+History	2.0	3.0	2.0	3.0	3.0	4.0	3.0	4.0	4.5	F	False
+History	0.0	1.0	1.0	2.0	1.0	1.0	1.0	1.0	1.5	F	False
+History	2.0	3.0	3.0	3.0	2.0	2.0	2.0	2.0	3.5	F	False
+History	2.0	3.0	2.0	3.0	2.0	3.0	2.0	3.0	2.0	F	False
+History	1.0	1.0	1.0	1.0	2.0	2.0	2.0	2.0	2.5	M	False
+History	1.0	2.0	2.0	3.0	2.0	2.0	2.0	2.0	4.5	M	True
+History	1.0	3.0	2.0	3.0	3.0	3.0	3.0	3.0	4.5	F	False
+History	2.0	2.0	2.0	2.0	2.0	3.0	2.0	3.0	3.0	M	False
+History										F	False
+History	2.0	3.0	2.0	3.0	3.0	5.0	3.0	5.0	5.5	F	False
+History	5.0	5.0	5.0	5.0	4.0	6.0	4.0	6.0	6.5	M	False
+History										F	False
+History	2.0	4.0	2.0	4.0	4.0	4.0	4.0	4.0	5.0	M	True
+History	0.5	0.5	0.5	0.5	0.5	0.5	0.5	0.5	0.5	M	True
+History	1.0	2.0	2.0	3.0	3.0	3.0	3.0	3.0	4.0	F	True
+History	2.0	2.0	2.0	2.0	2.0	2.0	2.0	2.0	3.0	M	True
+History	1.0	2.0	1.0	2.0	2.0	3.0	2.0	3.0	2.5	F	True
+History	2.0	2.0	3.0	3.0	2.0	2.0	2.0	2.0	1.5	F	True
+History	1.0	2.0	2.0	2.0	2.0	2.0	2.0	2.0	1.5	F	True
+History	1.0	3.0	2.0	4.0	3.0	3.0	3.0	3.0	3.5	M	False
+History	0.0	1.0	1.0	3.0	1.0	1.0	1.0		2.0	F	True
+History	0.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	3.0	F	False
+History	1.0	2.0	1.0	2.0	1.0	2.0	2.0	2.0	1.5	M	True
+History	1.0	2.0	1.0	2.0	1.0	1.0	1.0	1.0	4.0	M	False
+History	1.0	2.0	2.0	2.0	1.0	3.0	3.0	3.0	3.5	M	True
+History	2.0	3.0	3.0	3.0	3.0	3.0	3.0	3.0	4.0	M	False
+History	2.0	3.0	3.0	3.0	2.0	2.0	2.0	2.0	3.0	F	True
+History	1.0	3.0	2.0	3.0	3.0	3.0	3.0	3.0	3.5	M	True
+History										M	False
+History	1.0	1.0	2.0	2.0	1.0	1.0	1.0	1.0	1.0	F	False
+History	1.0	1.0	1.0	1.0	2.0	2.0	2.0	2.0		M	False
+History	1.0	1.0	1.0	2.0	2.0	2.0	2.0	2.0	3.0	M	False
+History	1.0	2.0	3.0	4.0	2.0	3.0	4.0	4.0	2.5	F	True
+History	2.0	2.0	2.0	2.0	2.0	2.0	2.0	2.0	3.0	F	False
+History	1.0	2.0	2.0	2.0	2.0	2.0	2.0	2.0	1.5	F	False
+History	2.0	3.0	2.0	3.0	3.0	3.0	3.0	3.0	3.0	M	False
+History										M	True
+History	1.0	2.0	2.0	2.0	2.0	2.0	2.0	2.0	2.5	F	True
+History	2.0	2.0	2.0	2.0	2.0	2.0	2.0	2.0	3.0	M	True
+History	2.0	3.0	3.0	3.0	3.0	3.0	3.0	3.0	3.5	F	False
+History	1.0	2.0	2.0	2.0	1.0	2.0	2.0	2.0	2.0	F	False
+History	2.0	2.0	2.0	2.0	2.0	2.0	2.0	2.0	3.0	M	False
+History	0.0	1.0	2.0	2.0	2.0	2.0	2.0	2.0	3.0	M	False
+History	1.0	3.0	5.0	5.0	2.0	4.0	5.0	5.0	2.5	F	True
+History									4.0	M	False
+History			2.0	2.0	2.0	2.0	2.0	2.0	2.5	F	True
+History										M	True
+History	1.0	2.0	2.0	2.0	2.0	3.0	3.0	3.0	3.0	M	False
+History	1.0	2.0	3.0	3.0	2.0	2.0	2.0	2.0	2.5	F	False
+History	3.0	3.0	3.0	3.0	3.0	3.0	3.0	3.0	7.0	M	True
+History	2.0	3.0	3.0	3.0	4.0	5.0	5.0	5.0	5.0	F	True
+History	0.0	0.5	0.5	1.0	0.5	1.0	1.0	2.0	1.5	F	True
+History	2.0	2.0	2.0	2.0	3.0	3.0	3.0	3.0	3.0	M	False
+History	1.0	1.0	1.0	1.0	2.0	2.0	2.0	2.0	2.0	M	True
+History	1.0	1.0	1.0	1.0	3.0	4.0	2.0	3.0	3.0	F	False
+History		1.0	1.0	2.0	1.0	1.0	1.0	1.0	1.5	F	True
+History	2.0	2.0	3.0	3.0	3.0	3.0	3.0	3.0	2.5	M	False
+History	1.0	1.0	1.0	1.0	1.0	2.0	1.0	2.0	4.0	F	False
+History	1.0	1.0	1.0	2.0	1.0	2.0	2.0	2.0	3.0	F	False
+History	2.0	2.0	2.0	2.0	2.0	2.0	2.0	2.0	4.0	M	False
+History	1.0	1.0	1.0	0.0	2.0	1.0	1.0	1.0	3.0	F	False
+History									2.0	F	False
+History	1.0	1.0	1.0	1.0	2.0	2.0	2.0	2.0	5.5	M	True
+History	2.0	3.0	3.0	3.0	2.0	3.0	3.0	3.0	3.0	M	True
+History	1.0	2.0	1.0	2.0	1.0	2.0	1.0	2.0	1.5	F	True
+History	1.0	1.0	1.0	1.0	2.0	2.0	2.0	2.0	3.0	F	True
+History	2.0	2.0	2.0	2.0	2.0	3.0	2.0	3.0	3.5	M	True
+History										F	False
+History	2.0	3.0	4.0	5.0	3.0	3.0	3.0	3.0	4.0	F	False
+History	2.0	2.0	2.0	2.0	2.0	2.0	2.0	2.0	2.5	M	True
+History	3.0	4.0	4.0	5.0	4.0	4.0	4.0	4.0	3.0	F	True
+History	1.0	1.0	2.0	2.0	2.0	2.0	3.0	3.0	1.5	F	True
+History									2.5	M	False
+History	1.0	3.0	3.0	3.0	3.0	3.0	3.0	3.0	4.0	F	False
+History	4.0		5.0						5.0	F	True
+History	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.5	F	True
+History										M	False
+History	2.0	3.0	3.0	4.0	3.0	4.0	3.0	4.0	5.5	F	False
+History	1.0	1.0	1.0	1.0	1.0	2.0	1.0	2.0	4.0	M	True
+History	0.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	2.5	M	True
+History	1.0	1.0	1.0	1.0	2.0	2.0	2.0	2.0	1.0	M	True
+History	1.0	2.0	2.0	2.0	2.0	2.0	2.0	2.0	1.5	M	False
+History	1.0	2.0	2.0	3.0	3.0	3.0	3.0	3.0	2.0	F	True
+History	2.0	2.0	4.0	4.0	2.0	2.0	4.0	4.0	3.0	F	True
+History	1.0	2.0	1.0	2.0	1.0	2.0	1.0	2.0		M	False
+History	0.0	1.0	2.0	2.0	2.0	2.0	2.0	2.0	3.0	F	False
+History	1.0	2.0	2.0	2.0	2.0	2.0	2.0	2.0	3.0	F	True
+History	1.0	3.0	3.0	4.0	1.0	3.0	2.0	4.0	2.0	F	False
+History	2.0	2.0	2.0	2.0	2.0	2.0	3.0	2.0	3.0	M	True
+History	3.0	6.0	5.0	7.0	3.0	6.0	7.0	7.0	4.0	F	True
+History	1.0	1.0	1.0	1.0	2.0	2.0	2.0	2.0	2.0	M	False
+History										M	False
+History	0.0	3.0	3.0	3.0	1.0	2.0	2.0	2.0	6.0	F	False
+History									4.0	F	True
+History									3.0	F	False
+History	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	2.0	M	False
+History										M	False
+History	1.0	2.0	2.0	2.0	2.0	2.0	2.0	2.0	2.5	F	False
+History	1.0	1.0	1.0	2.0	2.0	2.0	2.0	2.0	2.5	M	False
+History	0.5	1.0	1.5	2.0	1.0	1.0	1.0	1.0	2.0	M	False
+History	2.0	2.0	3.0	3.0	3.0	3.0	3.0	3.0	3.0	M	True
+History	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.5	M	True
+History										M	True
+History	2.0	2.0	2.0	2.0	2.0	2.0	2.0	2.0	2.5	F	False
+History	1.0	2.0	2.0	2.0	2.0	2.0	2.0	2.0	3.0	M	False
+History	2.0	3.0	3.0	4.0	4.0	4.0	4.0	4.0	2.5	M	True
+History	1.0	2.0	2.0	2.0	2.0	2.0	2.0	2.0	2.5	F	False
+History	1.0	1.0	2.0	2.0	1.0	1.0	1.0	1.0	1.5	F	False
+History	1.0	1.0	1.0	1.0	2.0	4.0	3.0	4.0	3.0	M	False
+History	2.0	5.0	4.0	5.0	3.0	3.0	3.0	3.0	6.5	F	True
+History	1.0	2.0	2.0	4.0	2.0	2.0	2.0	2.0	3.0	F	True
+History	1.0	2.0	2.0	2.0	2.0	2.0	2.0	2.0	3.0	M	False
+History	2.0	4.0	2.0	4.0	1.0	2.0	1.0	2.0	3.0	M	True
+History	2.0	3.0	2.0	3.0	2.0	3.0	2.0	3.0	7.0	F	False
+History	0.0	1.0	1.0	1.0	0.0	1.0	1.0	2.0	3.0	M	False
+History	1.0	2.0	2.0	3.0	2.0	2.0	2.0	2.0	1.5	F	True
+History	1.0	2.0	3.0	3.0	3.0	3.0	3.0	3.0	2.5	M	False
+History	2.0	3.0	2.0	3.0	2.0	3.0	2.0	3.0	3.0	F	False
+History	2.0	3.0	2.0	3.0	5.0	5.0	5.0	5.0	4.5	F	False
+History	0.0	2.0	2.0	3.0	3.0	3.0	3.0	3.0	2.5	F	False
+History	1.0	2.0	1.0	2.0	2.0	3.0	2.0	3.0	3.0	M	True
+History	1.0	2.0	1.0	3.0	2.0	2.0	2.0	2.0	2.0	M	True
+History	1.0	2.0	2.0	3.0	2.0	2.0	2.0	2.0	4.5	M	False
+History	1.0	2.0	1.0	2.0	2.0	3.0	2.0	3.0	3.0	F	True
+History									3.5	M	False
+History	1.0	1.0	1.0	1.0	2.0	2.0	2.0	2.0	2.5	F	False
+History	1.0	2.0	1.0	2.0	2.0	4.0	2.0	4.0	6.0	M	False
+History	1.0	2.0	2.0	2.0	2.0	2.0	2.0	2.0	2.0	F	True
+History	1.0	1.0	3.0	2.0	2.0	2.0	2.0	2.0	4.0	M	False
+History	0.0	1.0	2.0	2.0	2.0	2.0	2.0	2.0	2.0	F	False
+History	1.0	1.0	2.0	3.0	2.0	2.0	2.0	2.0	1.5	F	False
+History									3.0	F	False
+History	1.0	3.0	3.0	3.0	6.0	8.0	7.0	8.0	3.0	F	True
+History	1.6	2.0	1.8	2.0	2.0	2.0	2.0	2.0	3.5	M	True
+History	1.0	3.0	2.0	3.0	2.0	3.0	3.0	3.0		M	True
+History	1.0	2.0	3.0	3.0	2.0	3.0	3.0	3.0	2.5	F	True
+History	0.0	1.0	2.0	4.0	1.0	2.0	1.0	3.0	2.0	F	False
+History	2.0	2.0	2.0	2.0	2.0	2.0	2.0	2.0	4.0	F	True
+History	0.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0		F	True
+History	1.0	1.0	1.0	1.0	2.0	2.0	2.0	2.0	3.0	F	True
+History										F	True
+History	1.5	2.5	2.0	3.0	3.0	3.0	3.0	3.0	2.0	M	True
+History	1.0	1.0	2.0	2.0	2.0	2.0	4.0	4.0	4.5	M	True
+History	0.0	1.0	2.0	2.0	1.0	1.0	1.0	1.0	1.5	F	False
+History	0.0	2.0	1.0	2.0	1.0	2.0	1.0	2.0	3.5	M	False
+History	2.0	3.0	3.0	3.0	3.0	3.0	3.0	3.0	4.0	M	False
+Computer Science	3.0	6.0	4.0	6.0	6.0	6.0	6.0	6.0	9.0	M	True
+Computer Science	4.0	6.0	6.0	6.0	4.0	4.0	4.0	4.0	7.0	F	False
+Computer Science	8.0	8.0	8.0	8.0	8.0	8.0	8.0	8.0	9.0	F	False
+Computer Science									9.0	M	False
+Computer Science	10.0	10.0	10.0	10.0	8.0	8.0	8.0	8.0	11.5	M	True
+Computer Science	6.0	6.0	6.0	6.0	6.0	6.0	6.0	6.0	8.0	M	False
+Computer Science	3.0	6.0	5.0	6.0	4.0	4.0	4.0	4.0	6.0	M	True
+Computer Science	4.0	4.0	4.0	4.0	4.0	4.0	4.0	4.0	7.0	M	True
+Computer Science	4.0	4.0	4.0	4.0	6.0	6.0	6.0	6.0	6.0	M	False
+Computer Science	4.0	5.0	4.0	5.0	3.0	3.0	3.0	3.0	6.5	F	False
+Computer Science										F	False
+Computer Science	4.0	6.0	4.0	6.0	4.0	6.0	4.0	6.0	4.5	M	True
+Computer Science	4.0	4.0	4.0	4.0	4.0	4.0	3.0	3.0	7.5	F	True
+Computer Science	3.0	3.0	3.0	3.0	3.0	3.0	3.0	3.0	3.5	M	True
+Computer Science	5.0	6.0	6.0	7.0	6.0	6.0	6.0	6.0	9.0	M	True
+Computer Science	6.0	8.0	10.0	10.0	10.0	10.0	10.0	10.0	8.0	F	True
+Computer Science	8.0	8.0	8.0	8.0	10.0	10.0	10.0	10.0	8.0	M	True
+Computer Science	6.0	6.0	6.0	6.0	6.0	6.0	6.0	6.0	6.5	M	False
+Computer Science	8.0	8.0	8.0	8.0	8.0	8.0	8.0	8.0	11.0	M	True
+Computer Science	5.0	5.0	5.0	5.0	8.0	8.0	8.0	8.0	6.0	M	True
+Computer Science	10.0	10.0	10.0	10.0	10.0	10.0	10.0	10.0	13.0	F	False
+Computer Science	4.0	5.0	5.0	5.0	6.0	6.0	6.0	6.0	4.0	M	False
+Computer Science	8.0	8.0	8.0	8.0	5.0	5.0	5.0	5.0	7.5	M	True
+Computer Science	5.0	5.0	5.0	8.0	5.0	5.0	5.0	10.0	8.5	M	True
+Computer Science	8.0	8.0	8.0	8.0	6.0	6.0	6.0	6.0	14.0	M	True
+Computer Science									12.5	M	True
+Computer Science	6.0	8.0	6.0	8.0	6.0	6.0	8.0	8.0	8.0	M	False
+Computer Science	10.0	15.0	10.0	15.0	15.0	15.0	15.0	15.0	17.5	M	True
+Computer Science	15.0	30.0	50.0	80.0	10.0	20.0	30.0	40.0	35.0	F	False
+Computer Science	10.0	15.0	15.0	15.0	15.0	15.0	15.0	15.0	15.0	F	False
+Computer Science	2.0	4.0	4.0	6.0	4.0	4.0	4.0	4.0	5.0	F	True
+Computer Science									13.0	M	True
+Computer Science	2.0	4.0	6.0	8.0	4.0	6.0	6.0	8.0	10.0	M	False
+Computer Science	6.0	10.0	7.0	10.0	10.0	10.0	10.0	10.0	9.0	M	True
+Computer Science	3.0	4.0	4.0	4.0	4.0	4.0	4.0	4.0	6.0	M	False
+Computer Science	2.0	5.0	5.0	5.0	4.0	5.0	6.0	6.0	7.5	M	True
+Computer Science	6.0	6.0	6.0	6.0	8.0	8.0	8.0	8.0	10.0	M	True
+Computer Science	5.0	5.0	5.0	5.0	6.0	6.0	6.0	6.0	9.0	M	False
+Computer Science	5.0	7.0	5.0	7.0	6.0	6.0	6.0	6.0	6.5	M	True
+Computer Science	8.0	8.0	8.0	8.0	8.0	8.0	8.0	8.0	15.0	M	True
+Computer Science	10.0	10.0	10.0	10.0	10.0	10.0	10.0	10.0	11.5	M	True
+Computer Science	6.0	10.0	10.0	10.0	10.0	10.0	10.0	10.0	8.0	F	True
+Computer Science	14.0	18.0	12.0	16.0	15.0	15.0	15.0	15.0	7.5	M	False
+Computer Science	6.0	8.0	6.0	8.0	8.0	8.0	8.0	8.0	5.0	M	True
+Computer Science	5.0	10.0	8.0	10.0	10.0	10.0	10.0	10.0	12.5	M	True
+Computer Science									10.0	M	True
+Computer Science	6.0	10.0	6.0	10.0	6.0	10.0	6.0	19.0	7.5	F	True
+Computer Science	7.0	10.0	8.0	10.0	10.0	10.0	10.0	10.0	10.0	M	True
+Computer Science	2.0	4.0	3.0	4.0	5.0	5.0	5.0	5.0	4.0	M	True
+Computer Science	5.0	10.0	8.0	10.0	5.0	10.0	8.0	10.0	10.0	M	False
+Computer Science	6.0	6.0	6.0	6.0	6.0	6.0	6.0	6.0	6.0	M	True
+Computer Science	8.0	10.0	12.0	12.0	10.0	10.0	10.0	10.0	12.0	M	True
+Computer Science	7.0	7.0	10.0	10.0	7.0	7.0	10.0	10.0	7.5	M	True
+Computer Science	8.0	8.0	8.0	8.0	8.0	8.0	8.0	8.0	14.0	M	True
+Computer Science	6.0	4.0	6.0	4.0	2.0	3.0	4.0	5.0	5.5	M	True
+Computer Science	2.0	3.0	3.0	3.0	3.0	3.0	3.0	3.0	3.0	M	False
+Computer Science	6.0	14.0	14.0	14.0	14.0	14.0	14.0	14.0	7.0	F	True
+Computer Science	6.0	8.0	8.0	10.0	10.0	10.0	10.0	10.0	8.0	M	True
+Computer Science	2.0	4.0	3.0	4.0	2.0	4.0	4.0	4.0	6.0	M	True
+Computer Science	10.0	10.0	10.0	15.0	10.0	10.0	10.0	15.0	15.0	F	True
+Computer Science	6.0	6.0	6.0	6.0	6.0	6.0	6.0	6.0	10.5	M	True
+Computer Science	12.0	12.0	12.0	12.0	12.0	12.0	12.0	12.0	14.0	M	True
+Computer Science	4.0	6.0	6.0	8.0	8.0	8.0	8.0	10.0	7.5	F	False
+Computer Science	8.0	8.0	8.0	8.0	5.0	5.0	5.0	5.0	10.0	F	False
+Computer Science	4.0	6.0	5.0	6.0	8.0	8.0	8.0	8.0	7.5	M	True
+Computer Science	2.0	3.0	2.0	3.0	2.0	2.0	2.0	2.0	10.0	M	False
+Computer Science	6.0	8.0	7.0	8.0	8.0	8.0	8.0	8.0	9.0	M	False
+Computer Science	5.0	5.0	5.0	5.0	5.0	5.0	5.0	5.0	12.5	M	True
+Computer Science	2.0	2.0	2.0	2.0	2.0	2.0	2.0	2.0	6.0	F	True
+Computer Science	5.0	5.0	5.0	5.0	5.0	5.0	5.0	5.0	8.0	M	True
+Computer Science	4.0	4.0	5.0	6.0	4.0	5.0	6.0	6.0	5.5	M	False
+Computer Science	6.0	8.0	8.0	10.0	4.0	6.0	6.0	8.0	9.0	M	True
+Computer Science	10.0	15.0	15.0	15.0	10.0	15.0	15.0	15.0	20.0	M	True
+Computer Science	2.0	4.0	2.0	4.0	4.0	8.0	6.0	8.0	6.0	M	True
+Computer Science	8.0	8.0	8.0	8.0	8.0	8.0	8.0	8.0	8.5	M	False
+Computer Science	3.0	13.0	13.0	13.0	13.0	13.0	13.0	13.0	8.5	F	True
+Computer Science	4.0	4.0	4.0	4.0	5.0	5.0	5.0	5.0	12.0	M	True
+Computer Science	8.0	8.0	8.0	8.0	10.0	10.0	10.0	10.0	8.5	M	True
+Computer Science	7.0	7.0	7.0	7.0	5.0	5.0	5.0	5.0	7.0	M	False
+Computer Science	2.0	4.0	2.0	4.0	3.0	5.0	3.0	5.0	3.5	M	True
+Computer Science	6.0	7.0	8.0	8.0	8.0	8.0	8.0	8.0	8.5	M	False
+Computer Science	8.0	8.0	8.0	8.0	8.0	8.0	8.0	8.0	10.5	F	True
+Computer Science	3.0	4.0	4.0	6.0	4.0	4.0	4.0	4.0	4.5	F	True
+Computer Science	5.0	8.0	6.0	8.0	6.0	8.0	6.0	8.0	14.0	M	True
+Computer Science	8.0	8.0	8.0	8.0	8.0	8.0	8.0	8.0	10.0	M	False
+Computer Science	4.0	6.0	5.0	6.0	6.0	6.0	6.0	6.0	8.0	M	True
+Computer Science	5.0	7.0	7.0	8.0	6.0	8.0	8.0	10.0	15.0	M	True
+Computer Science	5.0	6.0	5.0	6.0	4.0	4.0	4.0	4.0	12.0	M	True
+Computer Science	8.0	8.0	8.0	8.0	5.0	5.0	5.0	5.0	25.0	M	False
+Computer Science	5.0	5.0	5.0	5.0	5.0	5.0	5.0	5.0	8.0	F	False
+Computer Science	5.0	6.0	5.0	6.0	6.0	6.0	6.0	6.0	9.0	M	True
+Computer Science	2.0	5.0	3.0	5.0	4.0	4.0	4.0	4.0	6.0	M	False
+Computer Science	15.0	15.0	15.0	15.0	15.0	15.0	15.0	15.0	20.0	M	False
+Computer Science	10.0	10.0	10.0	10.0	10.0	10.0	10.0	10.0	8.0	M	False
+Computer Science	5.0	7.5	10.0	15.0	10.0	10.0	10.0	10.0	15.0	F	False
+Computer Science	7.0	7.0	7.0	7.0	5.0	5.0	5.0	5.0	7.5	M	False
+Computer Science	10.0	10.0	10.0	10.0	10.0	10.0	10.0	10.0	11.0	M	True
+Computer Science	15.0	15.0	15.0	15.0	10.0	10.0	10.0	10.0	7.5	M	True
+Computer Science	6.0	8.0	6.0	8.0					5.0	F	False
+Computer Science	3.0	3.0	3.0	3.0	5.0	5.0	5.0	5.0	6.0	M	True
+Computer Science	8.0	10.0	10.0	10.0	10.0	10.0	10.0	10.0	10.5	F	True
+Computer Science	4.0	4.0	4.0	4.0	8.0	8.0	8.0	8.0	12.5	M	True
+Computer Science	5.0	5.0	5.0	5.0	5.0	5.0	5.0	5.0	5.0	M	False
+Computer Science	4.0	6.0	6.0	6.0	6.0	6.0	6.0	6.0	14.0	F	False
+Computer Science	4.0	4.0	4.0	4.0	6.0	6.0	6.0	6.0	8.0	M	True
+Computer Science	10.0	10.0	10.0	10.0	10.0	10.0	10.0	10.0	15.0	M	False
+Computer Science	10.0	10.0	10.0	10.0	10.0	10.0	10.0	10.0	9.0	M	True
+Computer Science	5.0	10.0	8.0	10.0	10.0	10.0	10.0	10.0	15.0	M	False
+Computer Science	2.0	8.0	2.0	8.0	4.0	8.0	6.0	8.0	7.0	M	False
+Computer Science	5.0	5.0	5.0	5.0	3.0	3.0	10.0	10.0	15.0	M	True
+Computer Science	2.0	4.0	4.0	4.0	4.0	4.0	4.0	4.0	6.0	M	True
+Computer Science									5.5	F	False
+Computer Science	6.0	6.0	6.0	6.0	6.0	6.0	6.0	6.0	9.0	M	False
+Computer Science	6.0	6.0	6.0	6.0	6.0	6.0	6.0	6.0	7.0	M	False
+Computer Science	4.0	4.0	4.0	4.0	5.0	5.0	5.0	5.0	6.0	M	True
+Computer Science	6.0	8.0	8.0	7.0	8.0	8.0	8.0	8.0	7.0	F	False
+Computer Science	2.0	5.0	3.0	5.0	5.0	5.0	5.0	5.0	3.5	M	True
+Computer Science	4.0	4.0	4.0	4.0	4.0	4.0	4.0	4.0	5.5	M	True
+Computer Science	1.0	3.0	1.0	3.0	2.0	3.0	2.0	3.0	3.0	M	False
+Computer Science	3.0	5.0	5.0	7.0	4.0	6.0	6.0	8.0	7.5	M	False
+Computer Science	8.0	8.0	8.0	8.0	8.0	8.0	8.0	8.0	9.0	M	True
+Computer Science	6.0	6.0	6.0	6.0	6.0	6.0	6.0	6.0	12.0	M	True
+Computer Science	6.0	6.0	6.0	6.0	6.0	6.0	6.0	6.0	6.0	M	True
+Computer Science	4.0	5.0	5.0	6.0	6.0	6.0	6.0	6.0	7.0	M	False
+Computer Science	2.0	2.0	5.0	5.0	3.0	4.0	6.0	6.0	3.5	F	False
+Computer Science	2.0	2.0	6.0	6.0	2.0	2.0	4.0	4.0	7.0	M	False
+Computer Science	4.0	6.0	4.0	6.0	4.0	4.0	4.0	4.0	6.0	F	True
+Computer Science	8.0	8.0	8.0	8.0	8.0	8.0	8.0	8.0	10.0	M	False
+Computer Science	3.0	5.0	3.0	5.0	4.0	4.0	4.0	4.0	4.5	M	False
+Computer Science	8.0	8.0	8.0	8.0	5.0	5.0	5.0	5.0	18.5	M	True
+Computer Science	2.0	5.0	2.0	5.0	2.0	5.0	2.0	5.0	10.0	M	False
+Computer Science	5.0	8.0	8.0	8.0	10.0	10.0	10.0	10.0	12.5	F	False
+Computer Science	1.0	3.0	3.0	5.0	2.0	4.0	3.0	5.0	3.5	F	False
+Computer Science	7.0	7.0	7.0	7.0	6.0	6.0	6.0	6.0	10.0	M	True
+Computer Science	5.0	10.0	10.0	10.0	10.0	10.0	10.0	10.0	7.5	F	False
+Computer Science	3.0	4.0	4.0	6.0	3.0	4.0	4.0	6.0	5.0	M	False
+Computer Science	1.0	2.0	3.0	4.0	2.0	2.0	2.0	2.0	3.5	F	False
+Computer Science									5.0	M	True
+Computer Science	10.0	10.0	10.0	10.0	10.0	10.0	10.0	10.0	15.0	M	True
+Computer Science	1.0	1.0	1.0	1.0	3.0	3.0	3.0	3.0	3.0	M	False
+Computer Science	3.0	3.0	3.0	3.0	4.0	4.0	4.0	4.0	3.0	M	True
+Computer Science									5.0	F	True
+Computer Science	5.0	5.0	5.0	5.0	5.0	5.0	5.0	5.0	1.5	M	True
+Computer Science	2.0	4.0	4.0	4.0	4.0	6.0	5.0	6.0	6.0	M	True
+Computer Science	3.0	4.0	3.0	4.0	4.0	4.0	4.0	4.0	7.0	M	True
+Computer Science	6.0	8.0	7.0	8.0	4.0	4.0	4.0	4.0	2.0	M	False
+Computer Science	6.0	6.0	6.0	6.0	6.0	6.0	6.0	6.0	7.0	M	True
+Computer Science	3.0	5.0	4.0	5.0	3.0	3.0	3.0	3.0	7.0	M	False
+Computer Science	6.0	8.0	7.0	8.0	8.0	8.0	8.0	8.0	9.0	F	True
+Computer Science	12.0	12.0	12.0	12.0	12.0	12.0	12.0	12.0	9.5	M	True
+Computer Science	10.0	10.0	10.0	10.0	6.0	6.0	6.0	6.0	15.0	M	True
+Computer Science	6.0	6.0	8.0	8.0	6.0	6.0	7.0	7.0	7.5	M	False
+Computer Science	3.0	4.0	5.0	6.0	6.0	6.0	6.0	6.0	8.5	F	False
+Computer Science	10.0	10.0	10.0	10.0	10.0	10.0	10.0	10.0	12.0	M	True
+Computer Science									9.0	F	True
+Computer Science	5.0	5.0	5.0	5.0	6.0	6.0	6.0	6.0	8.5	M	True
+Computer Science	4.0	6.0	5.0	6.0	6.0	6.0	6.0	6.0	7.5	M	True
+Computer Science	5.0	5.0	5.0	5.0	5.0	5.0	5.0	5.0	7.5	M	True
+Computer Science	4.0	5.0	5.0	5.0	4.0	4.0	4.0	4.0	9.0	M	False
+Computer Science	2.0	3.0	3.0	4.0	2.0	3.0	3.0	4.0	5.5	M	False
+Computer Science	5.0	5.0	5.0	5.0	3.0	3.0	3.0	3.0	4.5	M	False
+Computer Science	1.0	5.0	3.0	3.0	3.0	3.0	3.0	3.0	6.0	M	False
+Computer Science	4.0	6.0	6.0	6.0	6.0	6.0	6.0	6.0	6.5	F	True
+Computer Science	8.0	8.0	10.0	10.0	10.0	10.0	10.0	10.0	7.5	M	True
+Computer Science	2.0	4.0	3.0	4.0	4.0	4.0	4.0	4.0	6.0	M	True
+Computer Science	3.0	4.0	3.0	4.0	4.0	5.0	4.0	5.0	6.5	M	True
+Computer Science									6.0	M	True
+Computer Science	4.0	4.0	4.0	4.0	4.0	4.0	4.0	4.0		F	False
+Computer Science	5.0	10.0	8.0	10.0	10.0	15.0	15.0	15.0	10.0	M	True
+Computer Science	3.0	3.0	3.0	3.0	6.0	6.0	6.0	6.0	3.5	M	False
+Computer Science	4.0	4.0	4.0	4.0	4.0	4.0	4.0	4.0	4.5	F	False
+Computer Science	3.0	4.0	5.0	5.0	4.0	5.0	5.0	5.0	10.0	F	False
+Computer Science	2.0	2.0	2.0	2.0	4.0	4.0	4.0	4.0	4.0	M	False
+Computer Science	2.0	5.0	2.0	5.0	3.0	6.0	3.0	6.0	7.5	M	False
+Computer Science									5.0	M	False
+Computer Science					5.0	8.0	5.0	10.0	17.0	M	True
+Computer Science	3.0	8.0	15.0	15.0	10.0	10.0	10.0	10.0	6.0	F	False
+Computer Science	10.0	10.0	10.0	10.0	10.0	10.0	10.0	10.0	6.5	M	False
+Computer Science	2.0	4.0	2.0	4.0	4.0	4.0	4.0	4.0	6.0	M	False
+Computer Science	10.0	20.0	15.0	20.0	15.0	20.0	15.0	20.0	15.0	M	True
+Computer Science	3.0	5.0	7.0	10.0	7.0	7.0	7.0	7.0	7.5	M	True
+Computer Science	8.0	8.0	8.0	8.0	8.0	8.0	8.0	8.0	9.0	M	False
+Computer Science	8.0	10.0	10.0	14.0	8.0	10.0	10.0	14.0	9.0	M	True
+Computer Science	6.0	8.0	6.0	8.0	6.0	8.0	6.0	8.0	6.0	M	True
+Computer Science	5.0	7.0	7.0	7.0	5.0	7.0	7.0	7.0	7.0	F	True
+Computer Science										M	False
+Computer Science	10.0	10.0	10.0	10.0	10.0	10.0	10.0	10.0	7.0	F	False
+Computer Science	6.0	6.0	6.0	6.0	6.0	6.0	6.0	6.0	9.0	M	True
+Computer Science	4.0	6.0	5.0	6.0	2.0	4.0	3.0	4.0	6.5	F	False
+Computer Science	3.0	5.0	3.0	5.0	8.0	10.0	8.0	10.0	12.5	M	False
+Computer Science	2.0	4.0	3.0	4.0	4.0	4.0	4.0	4.0	4.5	M	False
+Computer Science									7.0	M	False
+Computer Science	4.0	4.0	4.0	4.0	4.0	4.0	4.0	4.0	5.0	M	True
+Computer Science					10.0	10.0	10.0	10.0	15.0	F	True
+Computer Science					6.0	10.0	10.0	10.0	6.0	M	True
+Computer Science	6.0	7.0	7.0	8.0	6.0	7.0	7.0	8.0	7.5	M	False
+Computer Science	30.0	30.0	30.0	30.0	30.0	30.0	30.0	30.0	30.0	M	True
+Computer Science	10.0	10.0	10.0	10.0	4.0	4.0	4.0	4.0	13.0	M	True
+Computer Science	3.0	3.0	3.0	3.0	3.0	3.0	3.0	3.0	6.0	M	False
+Computer Science	8.0	8.0	8.0	8.0	8.0	8.0	8.0	8.0	7.5	M	True
+Computer Science	4.0	6.0	4.0	6.0	6.0	7.0	7.0	7.0	7.5	M	False
+Computer Science	12.0	12.0	12.0	12.0	12.0	12.0	12.0	12.0	11.5	F	False
+Computer Science	4.0	4.0	4.0	4.0	4.0	4.0	4.0	4.0	4.0	M	True
+Computer Science	4.0	4.0	6.0	6.0	4.0	4.0	6.0	6.0		M	False
+Computer Science	3.0	4.0	4.0	6.0	4.0	5.0	5.0	7.0	6.5	M	False
+Computer Science	20.0	20.0	20.0	20.0	20.0	20.0	20.0	20.0	15.0	F	False
+Computer Science	2.0	6.0	3.0	6.0	4.0	8.0	4.0	8.0	6.0	M	True
+Computer Science	10.0	12.0	12.0	12.0	12.0	12.0	12.0	12.0	14.0	M	True
+Computer Science	4.0	5.0	6.0	8.0	6.0	6.0	6.0	6.0	9.0	M	False
+Computer Science	4.0	6.0	4.0	6.0	6.0	6.0	6.0	6.0	6.0	M	False
+Computer Science	4.0	6.0	8.0	8.0	4.0	6.0	8.0	8.0	15.0	M	False
+Computer Science	6.0	8.0	7.0	9.0	10.0	10.0	10.0	10.0	8.5	M	True
+Computer Science	6.0	8.0	8.0	8.0	8.0	8.0	8.0	8.0	12.5	F	False
+Computer Science	5.0	6.0	6.0	6.0	6.0	8.0	8.0	8.0	6.0	F	False
+Computer Science	2.0	4.0	2.0	4.0	2.0	4.0	2.0	4.0	5.0	M	False
+Computer Science	5.0	10.0	6.0	20.0	5.0	10.0	8.0	20.0	15.0	M	False
+Computer Science	6.0	6.0	6.0	6.0	5.0	5.0	5.0	5.0	6.5	M	False
+Computer Science	5.0	10.0	5.0	10.0	5.0	10.0	5.0	10.0	15.0	M	True
+Computer Science	3.0	4.0	4.0	4.0	4.0	5.0	5.0	5.0	6.0	M	False
+Computer Science	8.0	8.0	8.0	8.0	8.0	8.0	8.0	8.0	9.0	M	False
+Computer Science	5.0	4.0	5.0	5.0	4.0	4.0	4.0	4.0	5.0	M	False
+Computer Science	9.0	9.0	9.0	9.0	6.0	6.0	6.0	6.0	10.0	M	False
+Computer Science									10.5	F	False
+Computer Science	2.0	2.0	2.0	2.0	6.0	6.0	6.0	6.0	6.0	F	True
+Computer Science	4.0	8.0	8.0	10.0	6.0	8.0	6.0	8.0	7.0	M	False
+Computer Science	3.0	6.0	3.0	6.0	3.0	3.0	3.0	3.0	4.5	M	True
+Computer Science	8.0	4.0	8.0	4.0	5.0	5.0	5.0	5.0	10.0	M	False
+Computer Science	15.0	15.0	15.0	15.0	20.0	20.0	20.0	20.0	22.5	M	False
+Computer Science	3.0	5.0	4.0	5.0	5.0	5.0	5.0	5.0	6.5	M	False
+Computer Science	6.0	6.0	6.0	6.0	6.0	6.0	6.0	6.0	6.0	M	False
+Computer Science	6.0	6.0	6.0	6.0	4.0	6.0	5.0	5.0	7.0	M	True
+Computer Science	0.0	1.0	1.0	3.0	2.0	5.0	5.0	10.0	8.0	M	False
+Computer Science	4.0	6.0	6.0	8.0	4.0	6.0	6.0	8.0	7.5	M	True
+Computer Science	4.0	6.0	4.0	6.0	4.0	4.0	4.0	4.0	8.0	M	False
+Computer Science									4.0	M	True
+Computer Science	12.0	12.0	12.0	12.0	12.0	12.0	12.0	12.0	18.0	M	True
+Computer Science	6.0	6.0	6.0	6.0	6.0	6.0	6.0	6.0	7.0	M	False
+Computer Science	10.0	15.0	10.0	15.0	15.0	20.0	15.0	20.0	20.0	M	False
+Computer Science	4.0	4.0	4.0	4.0	4.0	4.0	4.0	4.0	3.5	M	True
+Computer Science	10.0	10.0	10.0	10.0	5.0	5.0	5.0	5.0	12.0	M	False
+Computer Science									6.0	F	True
+Computer Science	6.0	6.0	6.0	6.0	6.0	6.0	6.0	6.0	9.0	M	False
+Computer Science	8.0	10.0	12.0	15.0	8.0	10.0	12.0	15.0	17.5	M	True
+Computer Science	5.0	5.0	5.0	5.0	4.0	4.0	4.0	4.0	11.0	M	False
+Computer Science									9.0	M	False
+Computer Science									2.5	M	False
+Computer Science	4.0	6.0	5.0	7.0	5.0	7.0	5.0	7.0	6.0	M	False
+Computer Science	5.0	5.0	5.0	5.0	5.0	5.0	5.0	5.0	3.5	M	False
+Computer Science	6.0	8.0	6.0	10.0	6.0	6.0	6.0	6.0	8.0	M	False
+Computer Science	4.0	4.0	4.0	4.0	10.0	10.0	10.0	10.0	15.0	M	False
+Computer Science	6.0	8.0	8.0	10.0	6.0	6.0	6.0	6.0	11.5	M	True
+Computer Science	4.0	6.0	4.0	6.0	5.0	5.0	5.0	5.0	8.5	M	False
+Computer Science	3.0	5.0	4.0	5.0	3.0	4.0	5.0	7.0	6.5	M	True
+Computer Science	10.0	10.0	10.0	10.0	10.0	10.0	10.0	10.0	14.0	F	False
+Computer Science	8.0	10.0	10.0	12.0	10.0	10.0	12.0	12.0	8.0	M	False
+Computer Science	3.0	4.0	6.0	9.0	3.0	6.0	6.0	9.0	6.0	F	True
+Computer Science	7.0	10.0	10.0	10.0	10.0	10.0	10.0	10.0	12.0	M	True
+Computer Science	4.0	4.0	4.0	4.0	4.0	4.0	4.0	4.0	6.0	M	False
+Computer Science	2.0	5.0	4.0	5.0	4.0	6.0	4.0	6.0	7.0	M	False
+Computer Science	5.0	5.0	5.0	5.0	8.0	8.0	8.0	8.0	16.5	M	False
+Computer Science	5.0	10.0	5.0	10.0	10.0	10.0	10.0	10.0	12.0	M	False
+Computer Science	5.0	5.0	5.0	5.0	4.0	4.0	4.0	4.0	5.0	M	False
+Computer Science	12.0	12.0	12.0	12.0	12.0	12.0	12.0	12.0	14.0	M	False
+Computer Science	12.0	12.0	12.0	12.0	12.0	12.0	12.0	12.0	15.0	M	False
+Computer Science	5.0	11.0	14.0	15.0	6.0	12.0	14.0	14.0	12.0	M	False
+Computer Science	4.0	6.0	5.0	7.0	4.0	6.0	5.0	7.0	5.0	F	False
+Computer Science	5.0	5.0	5.0	5.0	5.0	5.0	5.0	5.0	4.0	F	False
+Computer Science	8.0	8.0	8.0	8.0	8.0	8.0	8.0	8.0	15.0	M	True
+Computer Science	10.0	10.0	10.0	10.0	10.0	10.0	10.0	10.0	15.0	M	False
+Computer Science	2.0	4.0	5.0	6.0	5.0	5.0	5.0	5.0	3.0	F	False
+Computer Science	8.0	8.0	8.0	8.0	8.0	8.0	8.0	8.0	20.0	M	False
+Computer Science										M	False
+Computer Science	2.0	2.0	2.0	2.0	2.0	2.0	2.0	2.0	3.5	M	False
+Computer Science	9.0	9.0	9.0	9.0	9.0	9.0	9.0	9.0	9.0	M	False
+Computer Science	5.0	7.0	5.0	7.0	2.0	4.0	2.0	4.0	7.0	M	False
+Computer Science	8.0	10.0	10.0	12.0	12.0	12.0	12.0	12.0	15.0	M	True
+Computer Science	2.0	2.0	2.0	2.0	2.0	2.0	2.0	2.0	2.0	M	False
+Computer Science	4.0	7.0	5.0	7.0	4.0	6.0	4.0	6.0	6.0	M	False
+Computer Science	10.0	15.0	10.0	15.0	5.0	5.0	5.0	5.0	17.5	M	False
+Computer Science	5.0	8.0	7.0	8.0	8.0	8.0	8.0	8.0	12.0	F	False
+Computer Science	4.0	8.0	5.0	8.0	8.0	8.0	8.0	8.0	9.0	M	False
+Computer Science	3.0	3.0	3.0	3.0	5.0	5.0	5.0	5.0	7.0	M	False
+Computer Science	20.0	20.0	30.0	30.0	10.0	10.0	10.0	10.0	15.0	M	False
+Computer Science	2.0	2.0	2.0	2.0	2.0	2.0	3.0	3.0		M	False
+Computer Science									7.5	M	False
+Computer Science	6.0	8.0	6.0	8.0	10.0	10.0	10.0	10.0	7.0	M	False
+Computer Science	5.0	8.0	8.0	8.0	5.0	8.0	8.0	8.0	11.0	M	False
+Computer Science	6.0	10.0	10.0	10.0	10.0	10.0	10.0	10.0	10.0	F	False
+Computer Science					10.0	10.0	10.0	10.0	11.0	F	False
+Computer Science	5.0	5.0	6.0	7.0	5.0	5.0	5.0	5.0	7.5	M	False
+Computer Science	4.0	4.0	4.0	4.0	4.0	4.0	4.0	4.0	6.0	M	False
+Computer Science	10.0	10.0	10.0	10.0	10.0	10.0	10.0	10.0	10.0	M	False
+Computer Science	4.0	4.0	4.0	4.0	2.0	2.0	2.0	2.0	3.5	M	False
+Computer Science	5.0	6.0	5.0	6.0	6.0	6.0	6.0	6.0	6.0	M	False
+Computer Science	10.0	10.0	10.0	10.0	8.0	8.0	8.0	8.0	12.0	M	False
+Computer Science	12.0	12.0	12.0	12.0	12.0	12.0	12.0	12.0	13.0	F	True
+Computer Science	5.0	5.0	5.0	5.0	5.0	5.0	5.0	5.0	7.5	M	False
+Computer Science	5.0	7.0	5.0	7.0	5.0	7.0	5.0	7.0	7.5	M	False
+Computer Science										F	True
+Computer Science										M	True
+Computer Science										M	True
+Computer Science										M	True
+Computer Science										M	False
+Computer Science	6.0	6.0	6.0	6.0	6.0	6.0	6.0	6.0	8.0	M	False
+Computer Science										M	True
+Computer Science										M	False
+Computer Science										M	True
+Computer Science										F	False
+Computer Science										M	False
+Computer Science										F	False
+Computer Science										M	False
+Computer Science										M	False
+Computer Science										F	False
+Computer Science										M	True
+Computer Science										M	True
+Computer Science										M	False
+Computer Science										M	False
+Computer Science										M	True
+Computer Science										M	False
+Computer Science										M	False
+Computer Science										M	False
+Computer Science										M	False
+Computer Science	5.0	7.0	12.0	12.0	8.0	10.0	12.0	12.0	5.0	F	False
+Computer Science	2.0	2.0	2.0	2.0	2.0	2.0	2.0	2.0	4.0	M	False
+Computer Science	10.0	10.0	10.0	10.0	10.0	10.0	10.0	10.0	11.0	F	True
+Computer Science	2.0	5.0	5.0	10.0	4.0	6.0	6.0	10.0	7.0	F	True
+Computer Science	3.0	7.0	6.0	8.0	5.0	5.0	5.0	5.0	9.5	M	False
+Computer Science	5.0	5.0	6.0	6.0	6.0	6.0	6.0	6.0	7.0	M	False

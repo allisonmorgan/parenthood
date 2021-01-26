@@ -1,0 +1,194 @@
+Business oct8
+WARNING *** file size (1595918) not 512 + multiple of sector size (512)
+WARNING *** OLE2 inconsistency: SSCS size is 0 but SSAT size is non-zero
+WARNING *** file size (3460610) not 512 + multiple of sector size (512)
+WARNING *** OLE2 inconsistency: SSCS size is 0 but SSAT size is non-zero
+(525, 60) (1321, 60)
+Completed merging frame and responses!
+Gender representation in our sample.
+(337, 60) 0.49258160237388726
+(703, 60) 0.4992887624466572
+What fraction of our survey respondents who are age 40+, report having       no kids?
+Total:	 2.0    0.846695
+1.0    0.146273
+0.0    0.007032
+Name: children, dtype: float64
+Men:	 2.0    0.872047
+1.0    0.124016
+0.0    0.003937
+Name: children, dtype: float64
+Women:	 2.0    0.78534
+1.0    0.21466
+Name: children, dtype: float64
+Z-test:	 (2.9795326217410123, 0.002886884888389165)
+Among those that had kids -- men & women -- what were the median number       of kids?
+Men:	 2.0 	Women:	 2.0
+KS-test:	 KstestResult(statistic=0.1412222169640181, pvalue=0.0028442638680051813)
+Mann Whitney test:	 MannwhitneyuResult(statistic=50892.5, pvalue=1.306787323491995e-06)
+Chi^2:	 (22.882772259698847, 0.00035543653884648885, 5, array([[ 46.55172414, 115.8045977 ,  42.81609195,  14.94252874,
+          3.73563218,   1.14942529],
+       [115.44827586, 287.1954023 , 106.18390805,  37.05747126,
+          9.26436782,   2.85057471]]))
+(22.882772259698847, 0.00035543653884648885, 5, array([[ 46.55172414, 115.8045977 ,  42.81609195,  14.94252874,
+          3.73563218,   1.14942529],
+       [115.44827586, 287.1954023 , 106.18390805,  37.05747126,
+          9.26436782,   2.85057471]]))
+Number of observations with publication data:  796 1321
+Number of women:	 (337, 60) 	Number of men:	 (703, 60)
+(2448, 10) (5408, 10)
+t
+-5      0.088757
+-4      0.218935
+-3      0.443787
+-2      0.786982
+-1      1.254438
+ 0      1.837278
+ 1      2.594675
+ 2      3.612426
+ 3      5.029586
+ 4      6.564815
+ 5      8.350649
+ 6     10.137931
+ 7     12.279412
+ 8     14.383399
+ 9     16.269710
+ 10    17.865217
+Name: cumulative, dtype: float64 t
+-5      0.071895
+-4      0.189542
+-3      0.392157
+-2      0.784314
+-1      1.287582
+ 0      1.928105
+ 1      2.673203
+ 2      3.640523
+ 3      4.810458
+ 4      6.034722
+ 5      7.812030
+ 6      9.553719
+ 7     10.500000
+ 8     12.158416
+ 9     13.622449
+ 10    14.795699
+Name: cumulative, dtype: float64
+Total 1040 491
+Long-run W/M (Total) 0.8281846562881898 3.0695184665731663
+Not Parents 276 115
+Long-run W/M (Not Parents) 0.9561246418338109 0.8059210526315788
+Parent 764 376
+Long-run W/M (Parents) 0.800466024740431 3.544845779220779
+Men:  17.765625 Women:  14.220779220779221
+Lost years? 1.8606563237291773 1.5541952821737834 10
+Parents with one child (N = 162.000000) 2.5760869565217384 15.826086956521738 13.25
+Parents with two or more children (N = 625.000000) 1.9689655172413794 13.568965517241379 11.6
+                            OLS Regression Results                            
+==============================================================================
+Dep. Variable:                   pubs   R-squared:                       0.017
+Model:                            OLS   Adj. R-squared:                  0.014
+Method:                 Least Squares   F-statistic:                     7.369
+Date:                Thu, 08 Oct 2020   Prob (F-statistic):            0.00690
+Time:                        20:12:27   Log-Likelihood:                -598.77
+No. Observations:                 441   AIC:                             1202.
+Df Residuals:                     439   BIC:                             1210.
+Df Model:                           1                                         
+Covariance Type:            nonrobust                                         
+==============================================================================
+                 coef    std err          t      P>|t|      [0.025      0.975]
+------------------------------------------------------------------------------
+Intercept     20.1971      7.049      2.865      0.004       6.343      34.051
+t             -0.0096      0.004     -2.715      0.007      -0.017      -0.003
+==============================================================================
+Omnibus:                      284.918   Durbin-Watson:                   1.899
+Prob(Omnibus):                  0.000   Jarque-Bera (JB):             3252.893
+Skew:                           2.642   Prob(JB):                         0.00
+Kurtosis:                      15.211   Cond. No.                     3.14e+05
+==============================================================================
+
+Notes:
+[1] Standard Errors assume that the covariance matrix of the errors is correctly specified.
+[2] The condition number is large, 3.14e+05. This might indicate that there are
+strong multicollinearity or other numerical problems.
+MEN:  [0.3515625, 0.875, 1.3828125, 1.92578125, 2.71484375, 3.6015625, 4.46875, 5.6171875, 6.75390625, 8.23076923076923, 9.652892561983471, 11.08974358974359, 12.484444444444444, 14.055555555555555, 15.774038461538462, 17.563451776649746] 
+
+WOMEN:  [0.42727272727272725, 0.9181818181818182, 1.4090909090909092, 2.118181818181818, 2.9454545454545453, 3.827272727272727, 4.845454545454546, 5.836363636363636, 6.7272727272727275, 7.638888888888889, 8.377551020408163, 9.83695652173913, 11.208791208791208, 12.5, 13.868421052631579, 15.732394366197184] 
+
+Proportions of parents and non-parents?
+Number of non-parents: 546, Number of parents: 775 (0.586677)
+Number of non-mothers: 113, Number of mothers: 224 (0.664688)
+Number of non-fathers: 162, Number of fathers: 541 (0.769559)
+Z-test:	 (-3.5889383096061174, 0.00016601369581856367)
+Age at which fathers and mothers become parents?
+787 226 561
+32.11695137976347
+31.986547085201792
+32.17100371747212
+Ttest_indResult(statistic=-0.41848589347110227, pvalue=0.6757102823270893)
+Age of parenthood and prestige of current institution?
+(787, 60) (298, 60) (444, 60)
+                            OLS Regression Results                            
+==============================================================================
+Dep. Variable:                    age   R-squared:                       0.005
+Model:                            OLS   Adj. R-squared:                  0.004
+Method:                 Least Squares   F-statistic:                     4.063
+Date:                Thu, 08 Oct 2020   Prob (F-statistic):             0.0442
+Time:                        20:12:30   Log-Likelihood:                -2372.0
+No. Observations:                 759   AIC:                             4748.
+Df Residuals:                     757   BIC:                             4757.
+Df Model:                           1                                         
+Covariance Type:            nonrobust                                         
+=================================================================================
+                    coef    std err          t      P>|t|      [0.025      0.975]
+---------------------------------------------------------------------------------
+Intercept        32.7440      0.376     86.987      0.000      32.005      33.483
+prestige_rank    -0.0122      0.006     -2.016      0.044      -0.024      -0.000
+==============================================================================
+Omnibus:                       50.048   Durbin-Watson:                   2.185
+Prob(Omnibus):                  0.000   Jarque-Bera (JB):              111.431
+Skew:                           0.383   Prob(JB):                     6.36e-25
+Kurtosis:                       4.714   Cond. No.                         117.
+==============================================================================
+
+Notes:
+[1] Standard Errors assume that the covariance matrix of the errors is correctly specified.
+Average & std age of parents:	 32.10144927536232 5.526523764112446
+Non-parents prestige:	 50.95016574585636
+Parents prestige:	 52.65730918499352
+KS-test:	 KstestResult(statistic=0.09600501882057716, pvalue=0.05537383832563059)
+Mann-Whitney:	 MannwhitneyuResult(statistic=89740.5, pvalue=0.008902977794570308)
+How many women & men are at institutions that offered leave?
+0.5707964601769911 (129, 226) (59, 113)
+0.46345811051693403 (260, 561) (47, 113)
+Z-test:	 (2.7249691717176785, 0.006430749124713325)
+No differences in the ages at which men and women become parents.
+Women:	 31.986547085201792 	Men:	 32.149253731343286
+T-test:	 Ttest_indResult(statistic=-0.36924926030294136, pvalue=0.7120452004390139)
+366
+Relationship between child birth year and parent birth year.
+                            OLS Regression Results                            
+==============================================================================
+Dep. Variable:           k_birth_year   R-squared:                       0.845
+Model:                            OLS   Adj. R-squared:                  0.845
+Method:                 Least Squares   F-statistic:                     1988.
+Date:                Thu, 08 Oct 2020   Prob (F-statistic):          1.49e-149
+Time:                        20:12:30   Log-Likelihood:                -1093.3
+No. Observations:                 366   AIC:                             2191.
+Df Residuals:                     364   BIC:                             2198.
+Df Model:                           1                                         
+Covariance Type:            nonrobust                                         
+================================================================================
+                   coef    std err          t      P>|t|      [0.025      0.975]
+--------------------------------------------------------------------------------
+Intercept      161.6216     41.214      3.921      0.000      80.574     242.669
+p_birth_year     0.9342      0.021     44.588      0.000       0.893       0.975
+==============================================================================
+Omnibus:                       20.637   Durbin-Watson:                   2.097
+Prob(Omnibus):                  0.000   Jarque-Bera (JB):               45.947
+Skew:                           0.260   Prob(JB):                     1.05e-10
+Kurtosis:                       4.656   Cond. No.                     3.22e+05
+==============================================================================
+
+Notes:
+[1] Standard Errors assume that the covariance matrix of the errors is correctly specified.
+[2] The condition number is large, 3.22e+05. This might indicate that there are
+strong multicollinearity or other numerical problems.
+Allocation is false. Stopping here.

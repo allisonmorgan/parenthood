@@ -1,0 +1,2 @@
+.*_bin.tsv filter=lfs diff=lfs merge=lfs -text
+*bin.tsv filter=lfs diff=lfs merge=lfs -text

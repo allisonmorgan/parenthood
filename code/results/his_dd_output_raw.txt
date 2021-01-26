@@ -1,0 +1,187 @@
+History apr29_raw 3
+42 111
+34 74
+
+Differences between parents / non-parents respect to productivity?
+Ttest_indResult(statistic=1.11973165941336, pvalue=0.2642867539013199)
+185 380000 184.11098536201095
+(0.5513513513513514, 1.0574840993823658) (0.46428157894736843, 0.8322542098328688)
+
+Differences between fathers / non-fathers respect to productivity?
+Ttest_indResult(statistic=1.2366455453184138, pvalue=0.21885097370680623)
+111 210000 110.06547944469737
+(0.6576576576576577, 1.2321119746597375) (0.5130142857142858, 0.9245006030503787)
+
+Differences between mothers / non-mothers respect to productivity?
+Ttest_indResult(statistic=-0.1500597256237459, pvalue=0.8811309781512857)
+74 170000 73.06327449373288
+(0.3918918918918919, 0.6986791367271113) (0.40408235294117645, 0.6970714064005227)
+
+FATHERS
+Indistinguishable with respect to age at first birth?
+Ttest_indResult(statistic=-1.8914140851648815, pvalue=0.06119708197008799) ((32.071866666666665, 5.040874262173932), (33.090090090090094, 5.670577250637395))
+Indistinguishable with respect to career age at first birth?
+Ttest_indResult(statistic=-2.3574987462879657, pvalue=0.02016363709025766) ((-1.0709904761904763, 7.003330745207863), (0.32432432432432434, 6.233577933859001))
+Indistinguishable with respect to prestige?
+MannwhitneyuResult(statistic=2328.5, pvalue=0.4967375590675539) ((64.70071428571428, 39.391224935464706), (64.48099099099099, 39.352906695346476))
+
+MOTHERS
+Indistinguishable with respect to age at first birth?
+Ttest_indResult(statistic=0.3455600479566551, pvalue=0.7306661978919582) ((34.09029411764706, 4.832908844153198), (34.270270270270274, 4.479167294484628))
+Indistinguishable with respect to career age at first birth?
+Ttest_indResult(statistic=0.985469193875399, pvalue=0.32764632209358235) ((-0.43911764705882356, 5.9164103144698394), (0.2972972972972973, 6.427103844517511))
+Indistinguishable with respect to prestige?
+MannwhitneyuResult(statistic=4852500.0, pvalue=0.0003285376989861493) ((68.29117647058824, 35.95075579844875), (54.953513513513506, 33.95032113683662))
+
+Parallel trends?
+Women w/o kids:	 0.30205735294117647 0.35460680941596356
+Women w/ kids:	 0.35135135135135137 0.4289343310298345
+Ttest_indResult(statistic=0.5791385523901043, pvalue=0.5637243943710329)
+
+Men w/o kids:	 0.41077976190476195 0.5264669777845162
+Men w/ kids:	 0.3716216216216216 0.5471721578656176
+Ttest_indResult(statistic=-0.3965088368744273, pvalue=0.6922894738709087)
+
+Trends in the difference in difference plots
+(67, 28) (44, 46)
+185
+Post-2000
+Long-run W/M (Parents) 0.7570621468926554 2.866666666666667
+Men:  11.8 Women:  8.933333333333334
+Lost years? 2.8666666666666663 4.886363636363636 10
+Pre-2000
+Long-run W/M (Parents) 0.6152177925433739 4.445095948827292
+Men:  11.552238805970148 Women:  7.107142857142857
+Lost years? 3.256396588486141 5.526006331976482 10
+
+Comparative interrupted time series
+Modeling men with children versus men without children
+Loaded tasks asynchronously
+beta_0
+0.755 (std: 0.101, sem: 0.001, CI: [0.583, 0.971])
+Ttest_1sampResult(statistic=528.5097904725401, pvalue=0.0)
+beta_1
+0.047 (std: 0.023, sem: 0.000, CI: [0.010, 0.099])
+Ttest_1sampResult(statistic=142.62676770894583, pvalue=0.0)
+beta_2
+0.226 (std: 0.117, sem: 0.002, CI: [-0.032, 0.415])
+Ttest_1sampResult(statistic=136.68500037658058, pvalue=0.0)
+beta_3
+-0.036 (std: 0.026, sem: 0.000, CI: [-0.091, 0.011])
+Ttest_1sampResult(statistic=-99.23116450762943, pvalue=0.0)
+beta_4
+0.008 (std: 0.093, sem: 0.001, CI: [-0.195, 0.164])
+Ttest_1sampResult(statistic=6.016626966125082, pvalue=1.9077007996399405e-09)
+beta_5
+0.016 (std: 0.023, sem: 0.000, CI: [-0.036, 0.054])
+Ttest_1sampResult(statistic=49.187566936044476, pvalue=0.0)
+beta_6
+-0.114 (std: 0.117, sem: 0.002, CI: [-0.302, 0.144])
+Ttest_1sampResult(statistic=-68.79884484932256, pvalue=0.0)
+beta_7
+0.005 (std: 0.026, sem: 0.000, CI: [-0.043, 0.060])
+Ttest_1sampResult(statistic=14.239037748069082, pvalue=3.960044070439269e-45)
+beta_8
+-0.003 (std: 0.000, sem: 0.000, CI: [-0.003, -0.002])
+Ttest_1sampResult(statistic=-633.1298380762394, pvalue=0.0)
+
+Modeling women with children versus women without children
+Loaded tasks asynchronously
+beta_0
+0.576 (std: 0.058, sem: 0.001, CI: [0.460, 0.688])
+Ttest_1sampResult(statistic=701.0187870564147, pvalue=0.0)
+beta_1
+0.049 (std: 0.016, sem: 0.000, CI: [0.018, 0.079])
+Ttest_1sampResult(statistic=219.97983263330593, pvalue=0.0)
+beta_2
+0.279 (std: 0.091, sem: 0.001, CI: [0.110, 0.464])
+Ttest_1sampResult(statistic=217.065589988467, pvalue=0.0)
+beta_3
+-0.058 (std: 0.018, sem: 0.000, CI: [-0.093, -0.023])
+Ttest_1sampResult(statistic=-222.70098767580492, pvalue=0.0)
+beta_4
+0.024 (std: 0.056, sem: 0.001, CI: [-0.084, 0.136])
+Ttest_1sampResult(statistic=30.435727016324662, pvalue=8.274560407811116e-187)
+beta_5
+0.004 (std: 0.016, sem: 0.000, CI: [-0.026, 0.035])
+Ttest_1sampResult(statistic=15.886080693592817, pvalue=1.767611285673502e-55)
+beta_6
+-0.250 (std: 0.091, sem: 0.001, CI: [-0.435, -0.080])
+Ttest_1sampResult(statistic=-194.3226693200932, pvalue=0.0)
+beta_7
+0.022 (std: 0.018, sem: 0.000, CI: [-0.013, 0.058])
+Ttest_1sampResult(statistic=85.42466892461717, pvalue=0.0)
+beta_8
+-0.002 (std: 0.000, sem: 0.000, CI: [-0.002, -0.001])
+Ttest_1sampResult(statistic=-362.1312758104632, pvalue=0.0)
+
+Modeling women without children versus men without children
+Loaded tasks asynchronously
+beta_0
+0.693 (std: 0.116, sem: 0.002, CI: [0.491, 0.927])
+Ttest_1sampResult(statistic=420.7582076921358, pvalue=0.0)
+beta_1
+0.047 (std: 0.023, sem: 0.000, CI: [0.010, 0.099])
+Ttest_1sampResult(statistic=142.62676770894763, pvalue=0.0)
+beta_2
+0.225 (std: 0.117, sem: 0.002, CI: [-0.033, 0.414])
+Ttest_1sampResult(statistic=136.38149608865496, pvalue=0.0)
+beta_3
+-0.036 (std: 0.026, sem: 0.000, CI: [-0.091, 0.012])
+Ttest_1sampResult(statistic=-98.62485980303138, pvalue=0.0)
+beta_4
+-0.100 (std: 0.108, sem: 0.002, CI: [-0.324, 0.097])
+Ttest_1sampResult(statistic=-65.64525416934956, pvalue=0.0)
+beta_5
+0.002 (std: 0.028, sem: 0.000, CI: [-0.057, 0.053])
+Ttest_1sampResult(statistic=5.601094528329764, pvalue=2.243950611696719e-08)
+beta_6
+0.054 (std: 0.149, sem: 0.002, CI: [-0.221, 0.361])
+Ttest_1sampResult(statistic=25.52125078821691, pvalue=3.715676026880078e-135)
+beta_7
+-0.022 (std: 0.032, sem: 0.000, CI: [-0.082, 0.042])
+Ttest_1sampResult(statistic=-47.733922265759894, pvalue=0.0)
+beta_8
+-0.002 (std: 0.001, sem: 0.000, CI: [-0.003, -0.000])
+Ttest_1sampResult(statistic=-166.00881393017949, pvalue=0.0)
+
+Modeling women with children versus men with children
+beta_0
+0.750 (sem: 0.080, CI: [0.592, 0.908])
+2.2124066699169908e-20
+beta_1
+0.063 (sem: 0.024, CI: [0.016, 0.110])
+0.008421541106961859
+beta_2
+0.112 (sem: 0.100, CI: [-0.085, 0.309])
+0.2641392287787422
+beta_3
+-0.031 (sem: 0.027, CI: [-0.083, 0.021])
+0.23977112973168083
+beta_4
+-0.094 (sem: 0.115, CI: [-0.320, 0.131])
+0.41241576630580434
+beta_5
+-0.010 (sem: 0.038, CI: [-0.085, 0.064])
+0.7837017696790575
+beta_6
+-0.083 (sem: 0.159, CI: [-0.395, 0.229])
+0.6021055973673901
+beta_7
+-0.004 (sem: 0.042, CI: [-0.087, 0.078])
+0.916178507412319
+beta_8
+-0.003 (sem: 0.001, CI: [-0.004, -0.001])
+2.5638313223565126e-06
+Expected values under model:
+{'men_w_kid': 0.5877305877305873, 'women_w_kid_vs_women_wo_kid': 0.5173745173745155, 'women_w_kid_vs_men_w_kid': 0.5173745173745021, 'women_wo_kid': 0.4729170868347263}
+Percentage changes to productivity (immediately):
+Relative to assistant professor role
+[0.02702703 0.04504505 0.08108108 0.02702703 0.09009009 0.10810811
+ 0.0990991  0.08108108 0.08108108 0.03603604 0.         0.05405405
+ 0.         0.03603604 0.01801802 0.03603604]
+[0.04054054 0.04054054 0.04054054 0.05405405 0.05405405 0.01351351
+ 0.06756757 0.10810811 0.06756757 0.06756757 0.06756757 0.10810811
+ 0.02702703 0.01351351 0.04054054 0.02702703]
+Effects within control groups
+Effect within treated groups

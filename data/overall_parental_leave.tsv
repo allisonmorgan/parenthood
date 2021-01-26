@@ -1,0 +1,3054 @@
+discipline	resp_gender	younger_than_40	count_eligible	took_some_leave	current_parleave	parleave_elig_first_child	had_children
+Business	M	False	0	False	1.0	1.0	True
+Business	F	False	0	False	0.0	1.0	True
+Business	M	False	0	False	1.0	1.0	True
+Business	M	False	0	False	1.0	0.0	True
+Business	M	False	1	False	1.0	0.0	True
+Business	M	False	0	False	4.0	-77.0	False
+Business	M	False	0	False	-77.0	-77.0	True
+Business	M	True	1	False	1.0	1.0	True
+Business	M	False	3	False	1.0	2.0	True
+Business	M	False	0	False	1.0	0.0	True
+Business	F	False	2	True	2.0	2.0	True
+Business	M	False	2	False	1.0	2.0	True
+Business	F	True	1	True	-77.0	2.0	True
+Business	M	False	0	False	4.0	-77.0	False
+Business	M	True	0	False	1.0	-77.0	False
+Business	F	False	1	True	4.0	2.0	True
+Business	M	True	0	False	1.0	-77.0	False
+Business	M	False	0	False	1.0	0.0	True
+Business	M	False	0	False	1.0	1.0	True
+Business	M	True	0	False	3.0	-77.0	False
+Business	F	False	3	True	1.0	2.0	True
+Business	M	False	0	False	1.0	1.0	True
+Business	M	False	1	False	1.0	2.0	True
+Business	M	False	0	False	1.0	1.0	True
+Business	M	True	1	True	1.0	2.0	True
+Business	M	False	2	False	1.0	2.0	True
+Business	M	False	0	False	1.0	1.0	True
+Business	F	False	0	False	1.0	1.0	True
+Business	F	False	0	False	1.0	1.0	True
+Business	M	True	4	True	1.0	2.0	True
+Business	F	False	0	False	1.0	1.0	True
+Business	M	False	0	False	4.0	0.0	True
+Business	F	True	0	False	2.0	-77.0	False
+Business	M	True	0	False	2.0	-77.0	False
+Business	F	True	0	False	2.0	-77.0	False
+Business	F	True	2	False	4.0	2.0	True
+Business	M	False	0	False	1.0	1.0	True
+Business	F	False	0	False	4.0	1.0	True
+Business	M	False	2	True	1.0	2.0	True
+Business	F	True	0	False	4.0	-77.0	False
+Business	F	False	0	False	4.0	1.0	True
+Business	M	False	0	False	1.0	1.0	True
+Business	F	True	0	False	2.0	-77.0	False
+Business	M	False	0	False	4.0	0.0	True
+Business	M	False	2	False	1.0	1.0	True
+Business	M	False	0	False	1.0	1.0	True
+Business	M	True	1	True	1.0	2.0	True
+Business	F	False	0	False	4.0	1.0	True
+Business	M	False	1	False	4.0	1.0	True
+Business	F	False	0	False	1.0	-77.0	False
+Business	M	True	0	False	1.0	1.0	True
+Business	M	False	0	False	1.0	1.0	True
+Business	M	False	0	False	1.0	1.0	True
+Business	M	True	1	True	1.0	2.0	True
+Business	M	True	1	True	3.0	1.0	True
+Business	F	True	2	True	1.0	2.0	True
+Business	M	False	0	False	1.0	1.0	True
+Business	M	False	0	False	1.0	1.0	True
+Business	M	False	0	False	1.0	-77.0	False
+Business	F	False	0	False	-77.0	-77.0	False
+Business	M	True	2	True	1.0	2.0	True
+Business	M	True	0	False	1.0	0.0	True
+Business	F	True	0	False	2.0	-77.0	False
+Business	M	False	0	False	1.0	1.0	True
+Business	M	False	0	False	1.0	1.0	True
+Business	M	False	0	False	-77.0	1.0	True
+Business	M	False	0	False	4.0	-77.0	False
+Business	M	False	0	False	1.0	0.0	True
+Business	M	True	0	False	1.0	-77.0	False
+Business	F	False	0	False	3.0	1.0	True
+Business	M	False	0	False	1.0	1.0	True
+Business	M	False	0	False	1.0	1.0	True
+Business	F	True	1	True	1.0	2.0	True
+Business	M	False	0	False	4.0	1.0	True
+Business	F	False	0	False	4.0	-77.0	False
+Business	F	True	1	True	2.0	2.0	True
+Business	F	False	0	False	4.0	0.0	True
+Business	M	True	0	False	2.0	1.0	True
+Business	F	True	0	False	2.0	-77.0	False
+Business	M	False	0	False	-77.0	1.0	True
+Business	M	False	0	False	4.0	1.0	True
+Business	F	True	1	True	1.0	0.0	True
+Business	F	True	0	False	-77.0	-77.0	False
+Business	M	False	0	False	1.0	1.0	True
+Business	M	False	0	False	1.0	1.0	True
+Business	M	False	0	False	4.0	-77.0	False
+Business	M	False	2	True	2.0	2.0	True
+Business	M	False	0	False	4.0	0.0	True
+Business	F	False	2	True	4.0	2.0	True
+Business	F	False	0	False	1.0	1.0	True
+Business	F	False	0	False	2.0	1.0	True
+Business	F	True	0	False	4.0	-77.0	False
+Business	M	True	0	False	1.0	-77.0	False
+Business	F	False	1	True	2.0	1.0	True
+Business	M	False	1	False	1.0	1.0	True
+Business	M	False	0	False	4.0	1.0	True
+Business	M	True	0	False	1.0	1.0	True
+Business	M	False	2	True	1.0	2.0	True
+Business	M	True	1	True	1.0	2.0	True
+Business	M	True	0	False	1.0	-77.0	False
+Business	F	False	0	False	-77.0	-77.0	False
+Business	M	False	1	True	1.0	2.0	True
+Business	M	False	0	False	4.0	1.0	True
+Business	F	True	0	False	1.0	-77.0	False
+Business	M	False	0	False	4.0	1.0	True
+Business	F	True	0	False	1.0	-77.0	False
+Business	F	True	1	True	1.0	1.0	True
+Business	M	False	0	False	4.0	0.0	True
+Business	M	False	0	False	1.0	1.0	True
+Business	F	True	0	False	2.0	-77.0	False
+Business	M	False	0	False	1.0	1.0	True
+Business	M	True	0	False	4.0	-77.0	False
+Business	M	False	0	False	1.0	1.0	True
+Business	M	True	2	True	-77.0	2.0	True
+Business	M	False	0	False	4.0	1.0	True
+Business	F	True	2	True	2.0	2.0	True
+Business	M	False	0	False	1.0	1.0	True
+Business	M	False	0	False	1.0	0.0	True
+Business	M	False	0	False	1.0	1.0	True
+Business	M	False	0	False	1.0	0.0	True
+Business	M	True	0	False	1.0	-77.0	False
+Business	F	False	2	True	4.0	2.0	True
+Business	F	True	0	False	1.0	-77.0	False
+Business	F	True	0	False	2.0	-77.0	False
+Business	M	False	0	False	4.0	1.0	True
+Business	M	False	0	False	-77.0	-77.0	False
+Business	M	True	0	False	-77.0	-77.0	False
+Business	M	False	0	False	1.0	1.0	True
+Business	M	False	0	False	-77.0	1.0	True
+Business	M	True	0	False	4.0	1.0	True
+Business	F	False	0	False	4.0	-77.0	False
+Business	M	False	0	False	4.0	-77.0	False
+Business	F	False	3	True	3.0	2.0	True
+Business	M	False	0	False	1.0	0.0	True
+Business	M	False	0	False	0.0	1.0	True
+Business	M	True	0	False	3.0	-77.0	False
+Business	F	False	0	False	1.0	1.0	True
+Business	M	True	0	False	2.0	0.0	True
+Business	M	True	0	False	1.0	1.0	True
+Business	M	True	0	False	1.0	-77.0	False
+Business	F	False	2	True	2.0	2.0	True
+Business	M	False	0	False	1.0	1.0	True
+Business	F	False	0	False	4.0	-77.0	False
+Business	M	False	0	False	-77.0	-77.0	True
+Business	F	True	1	True	0.0	2.0	True
+Business	M	False	0	False	1.0	1.0	True
+Business	M	False	0	False	4.0	1.0	True
+Business	F	False	1	True	1.0	2.0	True
+Business	M	False	0	False	4.0	-77.0	False
+Business	M	False	0	False	1.0	1.0	True
+Business	M	False	0	False	2.0	1.0	True
+Business	M	False	0	False	4.0	1.0	True
+Business	F	True	2	True	3.0	2.0	True
+Business	F	True	1	True	-77.0	1.0	True
+Business	M	False	0	False	4.0	1.0	True
+Business	M	True	0	False	4.0	-77.0	False
+Business	M	False	0	False	-77.0	-77.0	True
+Business	M	True	1	True	1.0	1.0	True
+Business	M	False	0	False	4.0	-77.0	False
+Business	M	True	0	False	4.0	-77.0	False
+Business	F	True	0	False	4.0	-77.0	False
+Business	M	False	0	False	1.0	1.0	True
+Business	M	False	0	False	1.0	1.0	True
+Business	M	False	0	False	4.0	1.0	True
+Business	M	True	0	False	-77.0	0.0	True
+Business	M	False	0	False	1.0	0.0	True
+Business	F	False	3	False	-77.0	2.0	True
+Business	F	False	0	False	1.0	0.0	True
+Business	M	True	0	False	2.0	0.0	True
+Business	M	False	0	False	1.0	1.0	True
+Business	M	False	0	False	1.0	1.0	True
+Business	M	True	0	False	4.0	-77.0	False
+Business	M	False	0	False	1.0	1.0	True
+Business	F	True	0	False	4.0	-77.0	False
+Business	M	False	0	False	1.0	-77.0	False
+Business	M	False	0	False	4.0	1.0	True
+Business	F	False	0	False	4.0	1.0	True
+Business	F	False	0	False	0.0	1.0	True
+Business	F	False	0	False	4.0	-77.0	False
+Business	M	False	0	False	4.0	1.0	True
+Business	M	False	0	False	1.0	0.0	True
+Business	M	False	0	False	1.0	1.0	True
+Business	M	False	0	False	1.0	1.0	True
+Business	M	False	4	False	1.0	2.0	True
+Business	F	True	0	False	2.0	-77.0	False
+Business	M	False	0	False	1.0	1.0	True
+Business	M	True	0	False	1.0	1.0	True
+Business	M	False	0	False	1.0	1.0	True
+Business	M	True	0	False	-77.0	-77.0	True
+Business	F	False	0	False	4.0	-77.0	False
+Business	M	False	0	False	4.0	1.0	True
+Business	M	False	0	False	-77.0	-77.0	True
+Business	M	False	2	True	2.0	2.0	True
+Business	M	False	1	False	1.0	2.0	True
+Business	F	False	2	True	2.0	2.0	True
+Business	M	False	0	False	3.0	1.0	True
+Business	F	False	0	False	1.0	1.0	True
+Business	F	True	0	False	4.0	1.0	True
+Business	M	False	0	False	-77.0	-77.0	False
+Business	M	False	0	False	0.0	1.0	True
+Business	M	True	0	False	4.0	-77.0	False
+Business	M	False	0	False	1.0	1.0	True
+Business	M	False	0	False	1.0	0.0	True
+Business	M	False	0	False	4.0	1.0	True
+Business	M	True	0	False	1.0	1.0	True
+Business	M	False	1	False	1.0	2.0	True
+Business	F	True	0	False	1.0	-77.0	False
+Business	M	False	0	False	4.0	-77.0	False
+Business	M	False	0	False	1.0	0.0	True
+Business	M	False	0	False	1.0	-77.0	False
+Business	M	False	0	False	4.0	1.0	True
+Business	F	False	0	False	4.0	-77.0	False
+Business	M	True	0	False	1.0	-77.0	False
+Business	M	False	0	False	-77.0	1.0	True
+Business	M	False	0	False	1.0	1.0	True
+Business	M	False	0	False	1.0	-77.0	False
+Business	M	False	0	False	1.0	1.0	True
+Business	F	False	0	False	1.0	0.0	True
+Business	M	False	0	False	2.0	-77.0	False
+Business	M	True	1	True	2.0	2.0	True
+Business	M	False	0	False	-77.0	-77.0	True
+Business	F	True	0	False	2.0	-77.0	False
+Business	F	False	1	True	4.0	2.0	True
+Business	M	True	0	False	1.0	-77.0	False
+Business	F	False	0	False	4.0	1.0	True
+Business	M	False	0	False	1.0	-77.0	False
+Business	F	False	3	True	2.0	2.0	True
+Business	M	False	0	False	1.0	1.0	True
+Business	F	False	0	False	4.0	1.0	True
+Business	F	False	0	False	4.0	1.0	True
+Business	M	False	1	True	1.0	0.0	True
+Business	M	False	0	False	2.0	1.0	True
+Business	M	False	0	False	4.0	1.0	True
+Business	F	False	2	True	1.0	2.0	True
+Business	M	False	0	False	1.0	-77.0	False
+Business	M	False	0	False	1.0	1.0	True
+Business	M	False	0	False	4.0	-77.0	False
+Business	M	False	0	False	1.0	1.0	True
+Business	M	False	0	False	1.0	1.0	True
+Business	M	True	0	False	2.0	1.0	True
+Business	F	False	0	False	4.0	-77.0	False
+Business	M	False	2	False	1.0	2.0	True
+Business	M	False	0	False	1.0	1.0	True
+Business	F	True	2	True	3.0	2.0	True
+Business	M	True	0	False	1.0	1.0	True
+Business	M	False	0	False	-77.0	1.0	True
+Business	M	True	1	True	4.0	1.0	True
+Business	F	True	1	True	3.0	2.0	True
+Business	M	False	0	False	1.0	1.0	True
+Business	M	False	0	False	-77.0	-77.0	True
+Business	M	True	1	False	1.0	2.0	True
+Business	F	False	0	False	4.0	-77.0	False
+Business	F	True	0	False	-77.0	0.0	True
+Business	F	False	3	True	1.0	2.0	True
+Business	M	False	1	True	1.0	1.0	True
+Business	F	True	2	False	3.0	2.0	True
+Business	M	False	0	False	1.0	-77.0	False
+Business	M	False	0	False	-77.0	-77.0	True
+Business	F	True	0	False	1.0	-77.0	False
+Business	F	False	0	False	4.0	1.0	True
+Business	F	True	0	False	-77.0	0.0	True
+Business	M	False	0	False	-77.0	-77.0	True
+Business	M	False	0	False	4.0	1.0	True
+Business	F	False	0	False	2.0	1.0	True
+Business	M	False	0	False	4.0	-77.0	False
+Business	M	False	0	False	1.0	0.0	True
+Business	F	False	4	True	4.0	2.0	True
+Business	F	True	1	True	3.0	2.0	True
+Business	F	False	0	False	4.0	-77.0	False
+Business	M	False	0	False	1.0	0.0	True
+Business	F	True	0	False	4.0	0.0	True
+Business	M	False	0	False	1.0	0.0	True
+Business	F	True	0	False	3.0	-77.0	False
+Business	M	False	0	False	4.0	1.0	True
+Business	M	True	0	False	3.0	-77.0	False
+Business	M	False	3	False	1.0	2.0	True
+Business	M	True	0	False	-77.0	-77.0	False
+Business	M	False	0	False	1.0	-77.0	False
+Business	M	False	0	False	4.0	1.0	True
+Business	M	False	0	False	4.0	1.0	True
+Business	F	False	0	False	1.0	-77.0	False
+Business	M	True	0	False	2.0	1.0	True
+Business	F	False	0	False	-77.0	-77.0	False
+Business	F	False	0	False	-77.0	-77.0	True
+Business	M	False	0	False	4.0	1.0	True
+Business	M	False	0	False	4.0	1.0	True
+Business	F	False	0	False	2.0	1.0	True
+Business	F	True	2	True	2.0	2.0	True
+Business	F	False	0	False	4.0	1.0	True
+Business	M	False	0	False	1.0	1.0	True
+Business	M	False	1	False	1.0	0.0	True
+Business	M	False	1	False	1.0	1.0	True
+Business	M	False	0	False	1.0	1.0	True
+Business	F	False	0	False	4.0	1.0	True
+Business	M	True	0	False	1.0	1.0	True
+Business	M	False	0	False	1.0	1.0	True
+Business	F	True	1	True	2.0	1.0	True
+Business	M	True	0	False	4.0	-77.0	False
+Business	M	False	0	False	1.0	1.0	True
+Business	M	False	0	False	4.0	1.0	True
+Business	M	False	0	False	1.0	1.0	True
+Business	M	True	0	False	1.0	-77.0	False
+Business	M	True	1	False	1.0	0.0	True
+Business	F	False	0	False	1.0	-77.0	False
+Business	M	False	0	False	4.0	1.0	True
+Business	M	True	0	False	4.0	1.0	True
+Business	M	False	0	False	1.0	1.0	True
+Business	M	True	0	False	4.0	-77.0	False
+Business	F	True	0	False	4.0	-77.0	False
+Business	M	False	0	False	2.0	1.0	True
+Business	M	True	1	True	2.0	1.0	True
+Business	F	False	0	False	1.0	0.0	True
+Business	M	False	0	False	4.0	1.0	True
+Business	F	False	0	False	2.0	1.0	True
+Business	M	False	0	False	4.0	1.0	True
+Business	F	False	0	False	1.0	1.0	True
+Business	M	False	0	False	1.0	1.0	True
+Business	M	False	0	False	-77.0	1.0	True
+Business	M	True	0	False	4.0	-77.0	False
+Business	M	False	0	False	1.0	0.0	True
+Business	M	False	0	False	4.0	-77.0	False
+Business	M	False	0	False	-77.0	-77.0	True
+Business	M	True	1	True	3.0	2.0	True
+Business	F	True	0	False	2.0	1.0	True
+Business	M	False	0	False	4.0	1.0	True
+Business	F	True	0	False	1.0	1.0	True
+Business	M	False	0	False	1.0	1.0	True
+Business	F	False	0	False	4.0	1.0	True
+Business	F	False	0	False	-77.0	-77.0	False
+Business	M	False	0	False	1.0	0.0	True
+Business	M	False	1	False	1.0	1.0	True
+Business	F	True	2	True	1.0	2.0	True
+Business	F	True	2	True	1.0	2.0	True
+Business	M	True	0	False	1.0	1.0	True
+Business	M	False	0	False	1.0	1.0	True
+Business	F	False	0	False	1.0	0.0	True
+Business	M	False	0	False	1.0	1.0	True
+Business	F	False	2	True	4.0	2.0	True
+Business	M	False	0	False	1.0	1.0	True
+Business	M	True	0	False	4.0	1.0	True
+Business	M	False	0	False	-77.0	-77.0	False
+Business	M	False	0	False	4.0	-77.0	False
+Business	F	False	2	True	1.0	2.0	True
+Business	M	False	0	False	1.0	1.0	True
+Business	M	True	0	False	1.0	-77.0	False
+Business	F	True	0	False	4.0	-77.0	False
+Business	M	False	0	False	4.0	-77.0	False
+Business	M	False	0	False	1.0	0.0	True
+Business	M	False	0	False	1.0	0.0	True
+Business	M	False	0	False	-77.0	-77.0	True
+Business	F	False	2	True	1.0	2.0	True
+Business	F	False	0	False	1.0	-77.0	False
+Business	M	False	0	False	1.0	1.0	True
+Business	M	True	0	False	1.0	-77.0	False
+Business	M	True	0	False	1.0	1.0	True
+Business	M	False	0	False	1.0	1.0	True
+Business	F	True	0	False	1.0	-77.0	False
+Business	F	False	1	True	1.0	2.0	True
+Business	M	False	0	False	1.0	0.0	True
+Business	M	False	0	False	4.0	1.0	True
+Business	M	False	3	False	1.0	2.0	True
+Business	M	True	0	False	4.0	1.0	True
+Business	M	False	0	False	-77.0	-77.0	True
+Business	M	True	0	False	1.0	0.0	True
+Business	F	True	0	False	-77.0	-77.0	True
+Business	M	True	1	True	1.0	2.0	True
+Business	F	False	0	False	1.0	1.0	True
+Business	M	False	0	False	1.0	-77.0	False
+Business	M	False	0	False	1.0	1.0	True
+Business	M	True	0	False	4.0	1.0	True
+Business	M	True	0	False	1.0	-77.0	False
+Business	M	False	0	False	1.0	0.0	True
+Business	M	False	0	False	4.0	1.0	True
+Business	M	False	0	False	1.0	1.0	True
+Business	F	True	0	False	2.0	-77.0	False
+Business	M	True	3	True	1.0	2.0	True
+Business	M	False	0	False	4.0	-77.0	False
+Business	M	True	0	False	1.0	1.0	True
+Business	M	True	0	False	1.0	1.0	True
+Business	F	False	2	True	1.0	2.0	True
+Business	F	False	0	False	4.0	1.0	True
+Business	M	False	0	False	1.0	1.0	True
+Business	F	False	2	True	1.0	0.0	True
+Business	M	True	0	False	4.0	-77.0	False
+Business	M	True	0	False	1.0	1.0	True
+Business	F	True	0	False	1.0	-77.0	False
+Business	M	False	0	False	1.0	1.0	True
+Business	M	False	0	False	1.0	1.0	True
+Business	M	True	0	False	-77.0	-77.0	False
+Business	M	False	0	False	1.0	1.0	True
+Business	M	False	0	False	1.0	-77.0	False
+Business	M	False	0	False	4.0	1.0	True
+Business	M	False	2	True	1.0	2.0	True
+Business	M	True	0	False	1.0	1.0	True
+Business	M	False	2	True	2.0	2.0	True
+Business	M	True	2	True	1.0	2.0	True
+Business	F	True	0	False	1.0	-77.0	False
+Business	F	True	0	False	-77.0	-77.0	False
+Business	M	False	0	False	1.0	1.0	True
+Business	F	True	0	False	3.0	-77.0	False
+Business	M	False	0	False	4.0	-77.0	False
+Business	F	False	2	True	1.0	2.0	True
+Business	F	True	0	False	1.0	-77.0	False
+Business	M	False	0	False	-77.0	0.0	True
+Business	M	False	0	False	1.0	1.0	True
+Business	F	False	0	False	-77.0	1.0	True
+Business	F	False	1	True	2.0	1.0	True
+Business	M	True	0	False	-77.0	-77.0	False
+Business	M	False	1	True	2.0	2.0	True
+Business	M	False	0	False	1.0	-77.0	False
+Business	F	True	0	False	2.0	-77.0	False
+Business	M	False	1	False	1.0	0.0	True
+Business	M	True	0	False	1.0	0.0	True
+Business	M	True	0	False	1.0	-77.0	False
+Business	M	False	0	False	2.0	1.0	True
+Business	M	False	0	False	-77.0	1.0	True
+Business	M	True	0	False	4.0	-77.0	False
+Business	F	False	0	False	-77.0	-77.0	False
+Business	M	False	0	False	1.0	0.0	True
+Business	F	True	0	False	4.0	1.0	True
+Business	F	False	2	True	1.0	2.0	True
+Business	M	False	0	False	-77.0	-77.0	True
+Business	M	False	0	False	-77.0	-77.0	True
+Business	F	False	0	False	1.0	-77.0	False
+Business	M	False	0	False	1.0	1.0	True
+Business	F	False	1	True	2.0	2.0	True
+Business	F	False	0	False	4.0	1.0	True
+Business	M	False	0	False	-77.0	-77.0	False
+Business	F	True	0	False	2.0	-77.0	False
+Business	F	True	0	False	2.0	-77.0	False
+Business	F	False	0	False	3.0	1.0	True
+Business	M	True	0	False	-77.0	1.0	True
+Business	F	False	0	False	4.0	1.0	True
+Business	M	False	0	False	0.0	1.0	True
+Business	F	False	0	False	-77.0	-77.0	True
+Business	M	False	0	False	3.0	1.0	True
+Business	M	False	1	False	1.0	1.0	True
+Business	M	True	1	True	1.0	1.0	True
+Business	F	True	0	False	4.0	-77.0	False
+Business	M	False	0	False	1.0	1.0	True
+Business	M	False	0	False	4.0	1.0	True
+Business	M	False	0	False	2.0	1.0	True
+Business	F	True	1	True	3.0	1.0	True
+Business	M	False	2	True	1.0	2.0	True
+Business	F	True	0	False	4.0	-77.0	False
+Business	F	False	0	False	-77.0	-77.0	True
+Business	M	False	0	False	4.0	1.0	True
+Business	M	False	0	False	1.0	-77.0	False
+Business	M	False	0	False	1.0	0.0	True
+Business	F	False	1	True	1.0	1.0	True
+Business	M	True	0	False	1.0	1.0	True
+Business	M	False	0	False	1.0	1.0	True
+Business	M	True	0	False	1.0	-77.0	False
+Business	M	True	0	False	1.0	1.0	True
+Business	M	False	2	True	1.0	2.0	True
+Business	F	False	2	True	1.0	2.0	True
+Business	F	True	3	True	3.0	2.0	True
+Business	F	False	0	False	0.0	-77.0	False
+Business	M	False	0	False	-77.0	-77.0	True
+Business	M	False	0	False	4.0	1.0	True
+Business	M	False	0	False	4.0	-77.0	False
+Business	M	True	0	False	1.0	-77.0	False
+Business	M	False	0	False	4.0	1.0	True
+Business	M	False	0	False	3.0	1.0	True
+Business	M	True	0	False	1.0	-77.0	False
+Business	M	True	1	False	2.0	2.0	True
+Business	M	True	0	False	4.0	-77.0	False
+Business	M	False	0	False	1.0	1.0	True
+Business	M	False	0	False	4.0	1.0	True
+Business	M	True	2	True	0.0	2.0	True
+Business	M	False	0	False	4.0	1.0	True
+Business	F	False	0	False	-77.0	-77.0	False
+Business	F	True	0	False	4.0	-77.0	False
+Business	F	True	0	False	1.0	-77.0	False
+Business	M	False	0	False	-77.0	-77.0	True
+Business	M	False	0	False	1.0	1.0	True
+Business	M	True	0	False	4.0	-77.0	False
+Business	F	False	0	False	2.0	1.0	True
+Business	M	True	0	False	1.0	-77.0	False
+Business	M	True	1	False	2.0	1.0	True
+Business	F	False	0	False	1.0	1.0	True
+Business	M	True	0	False	1.0	-77.0	False
+Business	M	False	0	False	4.0	-77.0	False
+Business	M	False	0	False	-77.0	-77.0	True
+Business	F	True	2	True	3.0	2.0	True
+Business	F	False	1	True	1.0	2.0	True
+Business	M	True	0	False	1.0	0.0	True
+Business	F	True	2	True	1.0	2.0	True
+Business	M	False	0	False	-77.0	-77.0	True
+Business	M	True	0	False	2.0	-77.0	False
+Business	M	False	0	False	4.0	1.0	True
+Business	F	True	0	False	1.0	-77.0	False
+Business	M	False	1	True	1.0	1.0	True
+Business	F	True	1	True	3.0	1.0	True
+Business	F	True	0	False	1.0	-77.0	False
+Business	M	False	2	False	1.0	2.0	True
+Business	M	False	0	False	2.0	1.0	True
+Business	F	False	3	True	4.0	2.0	True
+Business	F	False	1	True	1.0	2.0	True
+Business	F	False	1	True	0.0	1.0	True
+Business	F	False	3	True	-77.0	2.0	True
+Business	F	False	0	False	1.0	0.0	True
+Business	M	False	0	False	-77.0	-77.0	True
+Business	F	True	2	True	4.0	2.0	True
+Business	F	False	1	True	2.0	1.0	True
+Business	M	False	2	False	1.0	2.0	True
+Business	M	False	0	False	1.0	1.0	True
+Business	M	False	1	False	1.0	1.0	True
+Business	M	False	0	False	1.0	1.0	True
+Business	M	True	2	True	2.0	2.0	True
+Business	M	True	2	True	2.0	2.0	True
+Business	F	True	1	True	1.0	2.0	True
+Business	M	False	0	False	2.0	0.0	True
+Business	M	True	0	False	1.0	-77.0	False
+Business	F	True	0	False	2.0	-77.0	False
+Business	M	False	0	False	1.0	1.0	True
+Business	M	False	0	False	4.0	1.0	True
+Business	M	False	0	False	1.0	1.0	True
+Business	M	False	0	False	-77.0	-77.0	True
+Business	M	False	0	False	0.0	1.0	True
+Business	M	False	0	False	-77.0	1.0	True
+Business	M	False	0	False	4.0	0.0	True
+Business	M	False	0	False	1.0	1.0	True
+Business	M	False	1	True	1.0	1.0	True
+Business	M	False	0	False	4.0	1.0	True
+Business	M	True	1	False	1.0	2.0	True
+Business	F	False	2	True	-77.0	2.0	True
+Business	M	False	0	False	4.0	1.0	True
+Business	M	False	0	False	4.0	1.0	True
+Business	M	False	0	False	1.0	-77.0	False
+Business	M	True	3	True	1.0	2.0	True
+Business	M	False	0	False	1.0	1.0	True
+Business	M	False	0	False	1.0	1.0	True
+Business	F	False	2	True	2.0	2.0	True
+Business	M	False	0	False	-77.0	-77.0	True
+Business	M	False	0	False	1.0	1.0	True
+Business	M	False	0	False	4.0	1.0	True
+Business	F	True	0	False	1.0	1.0	True
+Business	M	True	0	False	1.0	-77.0	False
+Business	M	False	0	False	4.0	1.0	True
+Business	M	False	0	False	1.0	1.0	True
+Business	F	False	1	False	2.0	2.0	True
+Business	F	False	0	False	2.0	0.0	True
+Business	M	False	0	False	4.0	0.0	True
+Business	M	False	0	False	1.0	1.0	True
+Business	M	False	0	False	1.0	-77.0	False
+Business	M	False	0	False	1.0	1.0	True
+Business	M	False	0	False	1.0	1.0	True
+Business	M	False	1	True	2.0	2.0	True
+Business	M	False	0	False	1.0	1.0	True
+Business	M	False	0	False	1.0	1.0	True
+Business	M	False	0	False	1.0	-77.0	False
+Business	F	False	0	False	1.0	1.0	True
+Business	M	False	0	False	-77.0	1.0	True
+Business	M	False	0	False	1.0	1.0	True
+Business	M	False	0	False	1.0	-77.0	False
+Business	M	True	0	False	2.0	-77.0	False
+Business	F	False	0	False	4.0	1.0	True
+Business	F	False	0	False	1.0	1.0	True
+Business	M	False	0	False	1.0	0.0	True
+Business	F	True	0	False	1.0	-77.0	False
+Business	F	True	0	False	4.0	-77.0	False
+Business	F	False	0	False	1.0	1.0	True
+Business	M	True	0	False	1.0	-77.0	False
+Business	F	False	2	True	1.0	2.0	True
+Business	F	True	0	False	1.0	-77.0	False
+Business	M	True	1	True	1.0	1.0	True
+Business	M	False	0	False	1.0	1.0	True
+Business	F	True	0	False	1.0	-77.0	False
+Business	M	False	1	True	1.0	1.0	True
+Business	F	False	1	True	4.0	2.0	True
+Business	M	False	1	True	1.0	2.0	True
+Business	F	False	0	False	4.0	1.0	True
+Business	M	True	0	False	2.0	0.0	True
+Business	M	False	1	True	2.0	1.0	True
+Business	M	True	1	True	1.0	2.0	True
+Business	M	False	0	False	1.0	1.0	True
+Business	M	True	0	False	1.0	-77.0	False
+Business	F	True	1	True	1.0	2.0	True
+Business	M	False	0	False	-77.0	-77.0	True
+Business	M	True	1	False	1.0	2.0	True
+Business	F	True	0	False	1.0	-77.0	False
+Business	M	True	2	True	1.0	2.0	True
+Business	M	True	0	False	1.0	1.0	True
+Business	M	False	0	False	-77.0	-77.0	True
+Business	F	True	1	True	4.0	2.0	True
+Business	M	True	0	False	-77.0	-77.0	False
+Business	M	False	0	False	1.0	1.0	True
+Business	M	False	0	False	4.0	1.0	True
+Business	M	False	0	False	-77.0	-77.0	True
+Business	F	False	2	False	2.0	2.0	True
+Business	M	False	0	False	2.0	0.0	True
+Business	F	True	2	True	3.0	2.0	True
+Business	F	False	0	False	2.0	1.0	True
+Business	F	True	0	False	2.0	0.0	True
+Business	M	False	0	False	1.0	-77.0	False
+Business	M	True	1	True	1.0	2.0	True
+Business	F	False	0	False	4.0	1.0	True
+Business	F	True	1	True	4.0	2.0	True
+Business	F	False	0	False	-77.0	-77.0	False
+Business	F	False	0	False	2.0	1.0	True
+Business	F	True	0	False	2.0	1.0	True
+Business	M	True	1	True	0.0	2.0	True
+Business	M	False	0	False	1.0	1.0	True
+Business	F	True	0	False	2.0	0.0	True
+Business	F	False	0	False	-77.0	-77.0	False
+Business	M	False	0	False	4.0	1.0	True
+Business	M	False	0	False	1.0	1.0	True
+Business	M	False	0	False	0.0	-77.0	False
+Business	F	False	0	False	-77.0	0.0	True
+Business	F	False	0	False	4.0	-77.0	False
+Business	M	False	0	False	1.0	1.0	True
+Business	F	False	0	False	1.0	1.0	True
+Business	M	False	0	False	1.0	0.0	True
+Business	M	False	0	False	1.0	1.0	True
+Business	M	False	0	False	1.0	1.0	True
+Business	M	False	0	False	1.0	0.0	True
+Business	M	False	0	False	1.0	0.0	True
+Business	M	False	0	False	1.0	1.0	True
+Business	F	False	0	False	4.0	-77.0	False
+Business	M	False	0	False	2.0	0.0	True
+Business	M	True	0	False	1.0	0.0	True
+Business	M	True	0	False	1.0	-77.0	False
+Business	M	False	0	False	-77.0	1.0	True
+Business	M	False	0	False	1.0	0.0	True
+Business	M	False	0	False	-77.0	1.0	True
+Business	M	False	0	False	4.0	1.0	True
+Business	M	False	0	False	1.0	1.0	True
+Business	F	False	1	True	4.0	2.0	True
+Business	M	False	0	False	1.0	1.0	True
+Business	M	True	0	False	4.0	0.0	True
+Business	M	True	1	False	-77.0	1.0	True
+Business	M	False	0	False	-77.0	0.0	True
+Business	M	False	0	False	1.0	1.0	True
+Business	M	False	0	False	2.0	0.0	True
+Business	M	True	0	False	1.0	-77.0	False
+Business	M	False	0	False	-77.0	-77.0	False
+Business	M	False	0	False	1.0	0.0	True
+Business	M	False	0	False	-77.0	1.0	True
+Business	M	False	0	False	-77.0	-77.0	False
+Business	M	False	0	False	2.0	1.0	True
+Business	M	False	0	False	4.0	1.0	True
+Business	M	False	0	False	1.0	1.0	True
+Business	F	False	0	False	1.0	1.0	True
+Business	M	False	0	False	1.0	1.0	True
+Business	M	True	3	True	1.0	2.0	True
+Business	M	False	0	False	4.0	-77.0	False
+Business	M	False	0	False	4.0	0.0	True
+Business	M	True	0	False	1.0	-77.0	False
+Business	M	True	2	True	1.0	2.0	True
+Business	F	False	0	False	2.0	1.0	True
+Business	M	False	0	False	1.0	1.0	True
+Business	M	False	0	False	-77.0	1.0	True
+Business	M	False	0	False	1.0	1.0	True
+Business	M	True	0	False	1.0	0.0	True
+Business	M	False	0	False	0.0	0.0	True
+Business	M	False	0	False	1.0	0.0	True
+Business	M	False	0	False	-77.0	-77.0	True
+Business	M	True	0	False	1.0	-77.0	False
+Business	M	False	4	True	1.0	2.0	True
+Business	M	True	0	False	1.0	-77.0	False
+Business	M	False	0	False	1.0	0.0	True
+Business	F	True	1	True	-77.0	2.0	True
+Business	M	False	0	False	4.0	1.0	True
+Business	M	False	0	False	1.0	0.0	True
+Business	F	False	0	False	1.0	1.0	True
+Business	F	False	0	False	1.0	0.0	True
+Business	M	False	0	False	-77.0	1.0	True
+Business	F	True	1	True	3.0	2.0	True
+Business	M	False	0	False	-77.0	-77.0	True
+Business	M	False	0	False	-77.0	1.0	True
+Business	M	False	0	False	-77.0	-77.0	True
+Business	F	False	0	False	4.0	0.0	True
+Business	M	False	1	False	1.0	2.0	True
+Business	F	False	3	True	1.0	2.0	True
+Business	M	True	0	False	4.0	-77.0	False
+Business	F	False	1	False	-77.0	2.0	True
+Business	M	False	0	False	2.0	1.0	True
+Business	M	False	0	False	1.0	1.0	True
+Business	F	False	0	False	3.0	-77.0	False
+Business	M	False	1	False	4.0	2.0	True
+Business	M	False	0	False	1.0	1.0	True
+Business	F	False	0	False	4.0	0.0	True
+Business	F	False	1	True	2.0	1.0	True
+Business	F	False	1	True	1.0	0.0	True
+Business	F	True	2	True	1.0	2.0	True
+Business	F	False	0	False	4.0	-77.0	False
+Business	F	False	0	False	4.0	1.0	True
+Business	M	False	0	False	-77.0	0.0	True
+Business	M	False	0	False	-77.0	-77.0	False
+Business	F	True	1	True	2.0	1.0	True
+Business	F	True	0	False	4.0	1.0	True
+Business	F	False	0	False	4.0	1.0	True
+Business	M	True	0	False	4.0	-77.0	False
+Business	F	False	2	True	2.0	1.0	True
+Business	M	False	0	False	1.0	1.0	True
+Business	M	False	0	False	1.0	1.0	True
+Business	M	False	0	False	1.0	1.0	True
+Business	F	True	1	True	2.0	2.0	True
+Business	M	True	0	False	1.0	-77.0	False
+Business	F	False	2	True	4.0	2.0	True
+Business	M	False	0	False	4.0	1.0	True
+Business	M	True	0	False	1.0	-77.0	False
+Business	M	False	0	False	1.0	0.0	True
+Business	F	False	0	False	1.0	-77.0	False
+Business	F	True	0	False	2.0	1.0	True
+Business	F	True	3	True	3.0	2.0	True
+Business	M	False	0	False	1.0	1.0	True
+Business	M	False	0	False	1.0	1.0	True
+Business	M	True	1	False	1.0	1.0	True
+Business	M	True	0	False	1.0	1.0	True
+Business	F	False	0	False	2.0	0.0	True
+Business	F	True	1	True	3.0	1.0	True
+Business	F	True	0	False	2.0	-77.0	False
+Business	M	False	0	False	4.0	1.0	True
+Business	M	False	0	False	-77.0	0.0	True
+Business	F	True	0	False	2.0	-77.0	False
+Business	F	True	2	True	1.0	2.0	True
+Business	M	False	0	False	1.0	1.0	True
+Business	F	False	0	False	4.0	-77.0	False
+Business	F	True	0	False	-77.0	-77.0	True
+Business	F	True	0	False	4.0	-77.0	False
+Business	M	False	0	False	1.0	1.0	True
+Business	F	False	0	False	1.0	1.0	True
+Business	M	False	0	False	1.0	1.0	True
+Business	F	True	0	False	1.0	-77.0	False
+Business	M	False	0	False	2.0	1.0	True
+Business	M	False	0	False	1.0	1.0	True
+Business	F	False	0	False	1.0	-77.0	False
+Business	F	False	2	True	-77.0	2.0	True
+Business	F	False	0	False	1.0	1.0	True
+Business	F	False	0	False	0.0	-77.0	False
+Business	M	False	0	False	-77.0	0.0	True
+Business	M	False	0	False	1.0	-77.0	False
+Business	M	False	0	False	1.0	1.0	True
+Business	M	True	0	False	1.0	-77.0	False
+Business	F	False	0	False	4.0	1.0	True
+Business	M	False	0	False	1.0	0.0	True
+Business	M	False	0	False	1.0	1.0	True
+Business	M	False	0	False	3.0	-77.0	False
+Business	M	True	0	False	1.0	-77.0	False
+Business	M	False	0	False	1.0	1.0	True
+Business	M	True	2	True	1.0	2.0	True
+Business	F	True	0	False	3.0	1.0	True
+Business	F	False	0	False	-77.0	1.0	True
+Business	F	True	0	False	1.0	-77.0	False
+Business	M	True	0	False	1.0	-77.0	False
+Business	M	False	0	False	4.0	-77.0	False
+Business	M	False	1	False	1.0	1.0	True
+Business	F	False	0	False	1.0	-77.0	False
+Business	M	False	0	False	2.0	1.0	True
+Business	F	True	0	False	1.0	-77.0	False
+Business	M	False	0	False	1.0	1.0	True
+Business	M	False	1	True	3.0	2.0	True
+Business	F	False	2	True	2.0	2.0	True
+Business	M	False	0	False	4.0	1.0	True
+Business	F	True	0	False	3.0	-77.0	False
+Business	M	False	0	False	4.0	1.0	True
+Business	M	True	0	False	1.0	0.0	True
+Business	M	False	0	False	4.0	1.0	True
+Business	M	False	0	False	1.0	1.0	True
+Business	M	True	0	False	1.0	-77.0	False
+Business	M	False	2	True	1.0	2.0	True
+Business	M	False	0	False	1.0	1.0	True
+Business	M	True	1	False	1.0	1.0	True
+Business	M	False	0	False	1.0	1.0	True
+Business	M	True	0	False	1.0	1.0	True
+Business	F	False	0	False	-77.0	-77.0	True
+Business	F	False	0	False	4.0	1.0	True
+Business	M	False	0	False	-77.0	-77.0	True
+Business	F	False	0	False	1.0	1.0	True
+Business	M	False	0	False	1.0	1.0	True
+Business	M	True	1	True	1.0	0.0	True
+Business	M	False	2	False	-77.0	2.0	True
+Business	M	True	1	False	1.0	1.0	True
+Business	M	False	1	False	1.0	0.0	True
+Business	M	False	0	False	1.0	0.0	True
+Business	M	True	0	False	4.0	-77.0	False
+Business	F	False	0	False	2.0	0.0	True
+Business	M	False	0	False	-77.0	-77.0	True
+Business	M	False	0	False	4.0	0.0	True
+Business	M	False	0	False	4.0	1.0	True
+Business	M	False	0	False	4.0	-77.0	False
+Business	M	False	0	False	-77.0	-77.0	True
+Business	M	True	0	False	3.0	-77.0	False
+Business	M	False	0	False	1.0	0.0	True
+Business	M	False	0	False	4.0	1.0	True
+Business	F	False	0	False	4.0	-77.0	False
+Business	F	True	2	True	1.0	2.0	True
+Business	M	True	0	False	1.0	1.0	True
+Business	M	False	0	False	1.0	-77.0	False
+Business	M	False	0	False	-77.0	1.0	True
+Business	M	False	1	False	1.0	2.0	True
+Business	M	False	0	False	1.0	1.0	True
+Business	M	True	0	False	1.0	1.0	True
+Business	M	False	0	False	1.0	1.0	True
+Business	M	True	2	False	1.0	2.0	True
+Business	M	False	0	False	4.0	1.0	True
+Business	F	False	0	False	1.0	1.0	True
+Business	F	True	0	False	4.0	-77.0	False
+Business	M	False	0	False	1.0	1.0	True
+Business	F	True	1	True	2.0	2.0	True
+Business	F	False	0	False	4.0	1.0	True
+Business	F	True	2	True	2.0	2.0	True
+Business	M	False	0	False	1.0	1.0	True
+Business	M	True	0	False	2.0	1.0	True
+Business	M	False	0	False	4.0	1.0	True
+Business	M	False	0	False	1.0	-77.0	False
+Business	M	True	2	False	1.0	2.0	True
+Business	M	False	0	False	1.0	1.0	True
+Business	F	True	0	False	2.0	-77.0	False
+Business	M	True	2	True	2.0	2.0	True
+Business	M	True	2	True	1.0	2.0	True
+Business	F	False	0	False	1.0	1.0	True
+Business	M	True	0	False	1.0	-77.0	False
+Business	M	True	0	False	-77.0	-77.0	True
+Business	F	False	1	True	1.0	2.0	True
+Business	M	True	1	True	2.0	1.0	True
+Business	M	True	0	False	-77.0	-77.0	True
+Business	M	True	0	False	1.0	-77.0	False
+Business	F	True	1	True	-77.0	2.0	True
+Business	M	False	0	False	1.0	1.0	True
+Business	F	True	2	True	1.0	2.0	True
+Business	M	False	2	False	2.0	2.0	True
+Business	M	False	0	False	1.0	-77.0	False
+Business	M	True	0	False	0.0	1.0	True
+Business	M	False	0	False	1.0	-77.0	False
+Business	M	False	0	False	1.0	-77.0	False
+Business	F	False	0	False	1.0	-77.0	False
+Business	M	False	0	False	1.0	1.0	True
+Business	M	True	0	False	1.0	-77.0	False
+Business	M	False	0	False	1.0	-77.0	False
+Business	F	False	1	True	4.0	1.0	True
+Business	F	False	2	True	2.0	2.0	True
+Business	M	False	0	False	-77.0	-77.0	True
+Business	M	True	0	False	1.0	1.0	True
+Business	F	True	0	False	2.0	-77.0	False
+Business	M	True	0	False	-77.0	-77.0	False
+Business	M	True	1	True	1.0	2.0	True
+Business	M	False	0	False	1.0	1.0	True
+Business	M	False	0	False	1.0	1.0	True
+Business	F	True	0	False	4.0	1.0	True
+Business	M	False	0	False	4.0	-77.0	False
+Business	F	False	0	False	1.0	1.0	True
+Business	F	False	1	False	1.0	0.0	True
+Business	M	False	0	False	1.0	1.0	True
+Business	M	False	1	True	1.0	2.0	True
+Business	M	False	0	False	2.0	1.0	True
+Business	M	True	1	True	1.0	0.0	True
+Business	M	False	1	False	1.0	1.0	True
+Business	M	True	0	False	1.0	1.0	True
+Business	F	False	2	True	4.0	2.0	True
+Business	F	True	0	False	1.0	-77.0	False
+Business	F	True	1	True	2.0	2.0	True
+Business	F	True	1	True	2.0	2.0	True
+Business	M	False	0	False	1.0	1.0	True
+Business	F	False	2	True	2.0	2.0	True
+Business	F	False	0	False	-77.0	-77.0	False
+Business	M	False	1	False	4.0	2.0	True
+Business	M	False	0	False	1.0	1.0	True
+Business	F	False	0	False	4.0	-77.0	False
+Business	M	False	0	False	1.0	1.0	True
+Business	M	True	0	False	1.0	0.0	True
+Business	F	True	0	False	4.0	-77.0	False
+Business	M	False	0	False	1.0	0.0	True
+Business	M	True	0	False	1.0	-77.0	False
+Business	M	False	0	False	4.0	1.0	True
+Business	M	True	2	True	-77.0	2.0	True
+Business	M	True	0	False	1.0	-77.0	False
+Business	M	True	0	False	4.0	-77.0	False
+Business	M	False	2	True	4.0	2.0	True
+Business	M	False	0	False	-77.0	-77.0	True
+Business	M	False	0	False	-77.0	-77.0	True
+Business	M	False	0	False	2.0	-77.0	False
+Business	F	False	1	False	2.0	2.0	True
+Business	F	False	1	True	1.0	2.0	True
+Business	M	False	0	False	4.0	0.0	True
+Business	F	True	1	False	1.0	2.0	True
+Business	F	False	0	False	-77.0	0.0	True
+Business	M	False	0	False	-77.0	0.0	True
+Business	M	True	0	False	-77.0	-77.0	False
+Business	M	False	0	False	1.0	1.0	True
+Business	M	False	0	False	1.0	1.0	True
+Business	M	False	0	False	1.0	1.0	True
+Business	M	False	0	False	1.0	0.0	True
+Business	F	False	0	False	0.0	1.0	True
+Business	F	True	1	True	1.0	2.0	True
+Business	M	False	1	False	4.0	2.0	True
+Business	M	False	0	False	1.0	1.0	True
+Business	M	False	0	False	-77.0	-77.0	False
+Business	F	False	2	True	4.0	2.0	True
+Business	M	False	0	False	4.0	0.0	True
+Business	M	True	0	False	4.0	-77.0	False
+Business	M	False	0	False	1.0	1.0	True
+Business	M	False	2	True	1.0	2.0	True
+Business	M	False	0	False	4.0	1.0	True
+Business	M	False	0	False	-77.0	-77.0	True
+Business	M	False	0	False	1.0	1.0	True
+Business	M	False	2	True	1.0	2.0	True
+Business	F	False	0	False	2.0	0.0	True
+Business	M	False	0	False	4.0	1.0	True
+Business	M	True	0	False	1.0	1.0	True
+Business	M	False	0	False	1.0	1.0	True
+Business	M	False	1	True	1.0	2.0	True
+Business	F	False	1	True	4.0	2.0	True
+Business	M	True	1	False	4.0	1.0	True
+Business	M	True	0	False	1.0	1.0	True
+Business	F	False	2	True	2.0	2.0	True
+Business	F	False	1	True	1.0	2.0	True
+Business	M	False	0	False	1.0	1.0	True
+Business	F	False	0	False	1.0	1.0	True
+Business	M	False	0	False	-77.0	0.0	True
+Business	M	False	0	False	4.0	1.0	True
+Business	M	False	0	False	-77.0	-77.0	True
+Business	M	False	0	False	1.0	-77.0	False
+Business	F	True	1	True	-77.0	2.0	True
+Business	M	False	0	False	4.0	-77.0	False
+Business	M	False	1	True	1.0	2.0	True
+Business	F	True	1	True	2.0	1.0	True
+Business	M	False	1	False	1.0	2.0	True
+Business	F	False	0	False	1.0	-77.0	False
+Business	F	True	0	False	1.0	0.0	True
+Business	F	False	2	True	4.0	2.0	True
+Business	F	False	0	False	1.0	-77.0	False
+Business	M	False	1	True	1.0	1.0	True
+Business	M	True	2	True	3.0	2.0	True
+Business	M	True	0	False	-77.0	-77.0	True
+Business	M	False	0	False	1.0	1.0	True
+Business	F	False	0	False	4.0	1.0	True
+Business	M	True	2	True	3.0	2.0	True
+Business	M	True	2	False	1.0	2.0	True
+Business	F	True	1	False	1.0	2.0	True
+Business	F	True	0	False	2.0	-77.0	False
+Business	F	True	0	False	2.0	-77.0	False
+Business	M	True	1	True	1.0	2.0	True
+Business	F	False	2	True	-77.0	2.0	True
+Business	M	False	0	False	1.0	0.0	True
+Business	M	False	2	True	4.0	2.0	True
+Business	F	False	0	False	4.0	1.0	True
+Business	M	False	1	True	1.0	2.0	True
+Business	F	True	0	False	1.0	-77.0	False
+Business	M	False	0	False	2.0	1.0	True
+Business	M	False	0	False	1.0	1.0	True
+Business	F	False	0	False	0.0	1.0	True
+Business	F	False	0	False	1.0	-77.0	False
+Business	M	False	0	False	1.0	1.0	True
+Business	M	False	0	False	4.0	1.0	True
+Business	M	False	0	False	1.0	1.0	True
+Business	M	False	0	False	4.0	-77.0	False
+Business	F	True	0	False	1.0	-77.0	False
+Business	M	False	0	False	1.0	1.0	True
+Business	M	True	2	False	1.0	2.0	True
+Business	F	True	0	False	2.0	-77.0	False
+Business	M	True	0	False	4.0	1.0	True
+Business	M	False	0	False	1.0	1.0	True
+Business	M	False	0	False	4.0	1.0	True
+Business	M	False	0	False	1.0	0.0	True
+Business	F	False	0	False	1.0	-77.0	False
+Business	M	False	0	False	1.0	1.0	True
+Business	M	False	0	False	1.0	1.0	True
+Business	M	True	0	False	4.0	1.0	True
+Business	M	False	0	False	4.0	1.0	True
+Business	M	False	0	False	4.0	1.0	True
+Business	F	False	2	True	1.0	2.0	True
+Business	M	False	0	False	1.0	-77.0	False
+Business	M	False	2	True	1.0	2.0	True
+Business	F	False	0	False	2.0	1.0	True
+Business	M	False	0	False	4.0	0.0	True
+Business	M	False	0	False	1.0	-77.0	False
+Business	M	False	0	False	1.0	1.0	True
+Business	M	False	0	False	-77.0	-77.0	False
+Business	F	False	0	False	4.0	-77.0	False
+Business	F	False	2	True	2.0	2.0	True
+Business	F	True	0	False	4.0	1.0	True
+Business	M	False	3	False	4.0	2.0	True
+Business	F	False	0	False	1.0	-77.0	False
+Business	M	False	0	False	1.0	1.0	True
+Business	M	False	0	False	1.0	0.0	True
+Business	M	True	0	False	1.0	-77.0	False
+Business	F	True	0	False	1.0	-77.0	False
+Business	M	True	0	False	1.0	-77.0	False
+Business	F	False	0	False	4.0	0.0	True
+Business	M	False	1	True	2.0	2.0	True
+Business	F	False	0	False	1.0	1.0	True
+Business	M	False	0	False	1.0	-77.0	False
+Business	M	True	0	False	1.0	-77.0	False
+Business	M	False	0	False	1.0	1.0	True
+Business	M	False	0	False	-77.0	-77.0	False
+Business	M	False	0	False	1.0	1.0	True
+Business	M	False	0	False	-77.0	-77.0	True
+Business	M	True	0	False	0.0	1.0	True
+Business	M	False	0	False	-77.0	1.0	True
+Business	M	False	0	False	1.0	0.0	True
+Business	M	False	0	False	1.0	-77.0	False
+Business	M	False	0	False	4.0	-77.0	False
+Business	M	False	0	False	1.0	1.0	True
+Business	M	False	0	False	1.0	1.0	True
+Business	M	True	0	False	1.0	-77.0	False
+Business	M	False	0	False	4.0	0.0	True
+Business	M	False	0	False	1.0	1.0	True
+Business	M	True	0	False	-77.0	1.0	True
+Business	F	True	0	False	-77.0	-77.0	False
+Business	F	True	0	False	2.0	-77.0	False
+Business	M	False	2	True	4.0	2.0	True
+Business	M	False	1	False	1.0	2.0	True
+Business	M	True	1	True	1.0	2.0	True
+Business	M	False	0	False	1.0	1.0	True
+Business	F	False	0	False	1.0	1.0	True
+Business	M	True	0	False	1.0	0.0	True
+Business	M	False	0	False	-77.0	-77.0	True
+Business	M	True	2	True	2.0	2.0	True
+Business	F	True	0	False	1.0	-77.0	False
+Business	M	False	0	False	4.0	0.0	True
+Business	F	True	0	False	-77.0	-77.0	False
+Business	M	False	2	False	1.0	1.0	True
+Business	F	True	0	False	3.0	-77.0	False
+Business	F	True	1	True	2.0	2.0	True
+Business	F	True	0	False	1.0	1.0	True
+Business	M	False	0	False	-77.0	0.0	True
+Business	F	True	2	True	1.0	2.0	True
+Business	M	False	0	False	4.0	1.0	True
+Business	M	True	1	True	4.0	2.0	True
+Business	M	False	0	False	1.0	1.0	True
+Business	M	False	0	False	1.0	1.0	True
+Business	M	False	0	False	4.0	1.0	True
+Business	M	False	0	False	1.0	1.0	True
+Business	M	False	0	False	1.0	1.0	True
+Business	F	False	0	False	4.0	-77.0	False
+Business	M	False	0	False	1.0	1.0	True
+Business	M	False	2	True	2.0	1.0	True
+Business	M	False	0	False	1.0	1.0	True
+Business	M	True	0	False	4.0	-77.0	False
+Business	M	False	0	False	4.0	1.0	True
+Business	F	False	0	False	4.0	0.0	True
+Business	M	False	0	False	1.0	1.0	True
+Business	F	True	1	True	1.0	2.0	True
+Business	F	True	0	False	2.0	-77.0	False
+Business	F	True	1	True	2.0	2.0	True
+Business	F	True	0	False	3.0	0.0	True
+Business	M	True	0	False	-77.0	-77.0	True
+History	M	True	0	False	2.0	-77.0	False
+History	F	False	0	False	4.0	1.0	True
+History	M	False	0	False	4.0	-77.0	False
+History	M	False	1	False	4.0	1.0	True
+History	M	False	0	False	1.0	1.0	True
+History	F	True	0	False	3.0	-77.0	False
+History	M	False	0	False	4.0	1.0	True
+History	F	True	0	False	1.0	-77.0	False
+History	M	False	0	False	1.0	1.0	True
+History	F	True	0	False	2.0	-77.0	False
+History	F	False	1	True	1.0	2.0	True
+History	M	False	1	True	0.0	2.0	True
+History	F	True	0	False	1.0	-77.0	False
+History	M	True	0	False	1.0	-77.0	False
+History	F	False	0	False	4.0	1.0	True
+History	F	False	0	False	4.0	-77.0	False
+History	F	False	0	False	1.0	1.0	True
+History	M	False	0	False	1.0	1.0	True
+History	M	False	0	False	4.0	1.0	True
+History	M	False	0	False	4.0	1.0	True
+History	M	False	0	False	2.0	1.0	True
+History	M	False	0	False	4.0	-77.0	False
+History	F	False	2	True	1.0	2.0	True
+History	F	False	0	False	4.0	-77.0	False
+History	M	False	0	False	4.0	1.0	True
+History	M	False	0	False	4.0	-77.0	False
+History	M	False	0	False	0.0	1.0	True
+History	F	False	0	False	4.0	1.0	True
+History	M	False	1	True	4.0	2.0	True
+History	F	False	0	False	4.0	-77.0	False
+History	M	False	0	False	1.0	1.0	True
+History	F	False	0	False	-77.0	-77.0	False
+History	M	False	0	False	4.0	-77.0	False
+History	M	False	1	True	2.0	2.0	True
+History	M	False	0	False	1.0	1.0	True
+History	F	False	0	False	4.0	1.0	True
+History	M	False	1	True	1.0	1.0	True
+History	F	False	0	False	4.0	-77.0	False
+History	F	False	0	False	4.0	1.0	True
+History	F	False	1	True	1.0	2.0	True
+History	M	False	0	False	4.0	1.0	True
+History	F	False	2	True	2.0	2.0	True
+History	M	False	1	True	4.0	1.0	True
+History	F	False	0	False	4.0	-77.0	False
+History	M	False	0	False	4.0	1.0	True
+History	M	True	1	True	1.0	2.0	True
+History	F	False	2	True	4.0	2.0	True
+History	F	False	1	True	4.0	2.0	True
+History	M	False	0	False	1.0	1.0	True
+History	M	False	0	False	4.0	1.0	True
+History	F	False	0	False	4.0	-77.0	False
+History	M	False	0	False	4.0	1.0	True
+History	F	False	0	False	2.0	-77.0	False
+History	M	False	0	False	1.0	0.0	True
+History	F	True	0	False	2.0	-77.0	False
+History	M	True	0	False	1.0	-77.0	False
+History	F	False	0	False	4.0	-77.0	False
+History	M	False	0	False	1.0	1.0	True
+History	M	False	0	False	4.0	1.0	True
+History	M	False	2	True	3.0	2.0	True
+History	F	True	0	False	-77.0	-77.0	False
+History	M	False	0	False	1.0	0.0	True
+History	F	False	0	False	1.0	1.0	True
+History	M	False	0	False	1.0	1.0	True
+History	F	True	0	False	4.0	-77.0	False
+History	F	False	1	True	4.0	1.0	True
+History	M	False	0	False	4.0	1.0	True
+History	F	False	0	False	4.0	1.0	True
+History	M	False	0	False	1.0	0.0	True
+History	M	False	0	False	4.0	1.0	True
+History	M	False	0	False	1.0	1.0	True
+History	M	False	0	False	4.0	-77.0	False
+History	M	False	0	False	1.0	0.0	True
+History	M	False	0	False	1.0	1.0	True
+History	F	False	0	False	-77.0	1.0	True
+History	F	False	0	False	-77.0	-77.0	False
+History	M	False	0	False	1.0	0.0	True
+History	M	False	0	False	4.0	-77.0	False
+History	F	False	0	False	1.0	-77.0	False
+History	M	False	0	False	1.0	-77.0	False
+History	M	True	0	False	1.0	-77.0	False
+History	F	True	0	False	-77.0	-77.0	False
+History	F	False	2	True	4.0	2.0	True
+History	F	False	0	False	4.0	-77.0	False
+History	M	True	0	False	1.0	1.0	True
+History	M	True	0	False	1.0	0.0	True
+History	F	True	1	True	3.0	2.0	True
+History	F	False	0	False	4.0	-77.0	False
+History	F	False	2	False	4.0	2.0	True
+History	M	False	0	False	1.0	-77.0	False
+History	M	False	0	False	1.0	1.0	True
+History	M	False	0	False	1.0	-77.0	False
+History	F	False	0	False	4.0	-77.0	False
+History	F	False	0	False	2.0	-77.0	False
+History	M	False	0	False	4.0	-77.0	False
+History	F	False	2	True	4.0	2.0	True
+History	F	False	0	False	4.0	-77.0	False
+History	M	False	0	False	4.0	1.0	True
+History	M	False	0	False	4.0	-77.0	False
+History	F	False	0	False	1.0	-77.0	False
+History	M	True	0	False	2.0	1.0	True
+History	F	True	1	True	1.0	2.0	True
+History	M	False	0	False	1.0	1.0	True
+History	F	False	2	True	1.0	2.0	True
+History	M	False	1	True	1.0	1.0	True
+History	F	True	2	True	1.0	2.0	True
+History	F	False	0	False	4.0	-77.0	False
+History	F	False	0	False	1.0	1.0	True
+History	M	False	0	False	-77.0	-77.0	True
+History	F	False	0	False	1.0	-77.0	False
+History	M	False	3	True	2.0	2.0	True
+History	M	False	0	False	4.0	1.0	True
+History	F	True	1	True	4.0	2.0	True
+History	M	False	0	False	1.0	1.0	True
+History	F	False	0	False	4.0	1.0	True
+History	M	False	0	False	2.0	1.0	True
+History	M	False	0	False	4.0	1.0	True
+History	M	False	0	False	-77.0	-77.0	True
+History	M	False	0	False	1.0	1.0	True
+History	M	True	0	False	1.0	-77.0	False
+History	F	True	0	False	1.0	1.0	True
+History	M	False	0	False	4.0	0.0	True
+History	F	True	0	False	2.0	-77.0	False
+History	F	False	0	False	4.0	-77.0	False
+History	M	False	0	False	2.0	1.0	True
+History	M	False	0	False	1.0	1.0	True
+History	F	False	0	False	2.0	1.0	True
+History	F	False	1	False	1.0	2.0	True
+History	F	False	0	False	4.0	-77.0	False
+History	F	False	0	False	2.0	1.0	True
+History	M	True	1	False	1.0	1.0	True
+History	M	False	0	False	4.0	-77.0	False
+History	M	False	1	False	1.0	2.0	True
+History	M	False	1	True	1.0	1.0	True
+History	F	False	0	False	4.0	1.0	True
+History	F	False	0	False	3.0	1.0	True
+History	F	False	0	False	4.0	1.0	True
+History	M	False	0	False	-77.0	1.0	True
+History	M	False	0	False	1.0	1.0	True
+History	F	False	0	False	1.0	-77.0	False
+History	M	False	2	True	1.0	1.0	True
+History	M	False	0	False	4.0	-77.0	False
+History	M	False	0	False	1.0	1.0	True
+History	F	False	0	False	2.0	-77.0	False
+History	M	False	0	False	1.0	1.0	True
+History	M	True	0	False	4.0	-77.0	False
+History	M	False	1	False	1.0	1.0	True
+History	F	False	1	True	2.0	2.0	True
+History	M	True	0	False	2.0	1.0	True
+History	M	False	0	False	1.0	1.0	True
+History	F	False	0	False	-77.0	-77.0	True
+History	F	False	0	False	1.0	-77.0	False
+History	M	False	0	False	4.0	1.0	True
+History	F	False	0	False	1.0	1.0	True
+History	M	True	0	False	1.0	-77.0	False
+History	M	False	0	False	4.0	0.0	True
+History	F	False	0	False	1.0	-77.0	False
+History	F	False	1	True	1.0	1.0	True
+History	M	False	0	False	1.0	1.0	True
+History	F	False	1	True	1.0	1.0	True
+History	M	False	0	False	2.0	-77.0	False
+History	F	False	0	False	4.0	-77.0	False
+History	M	False	0	False	2.0	-77.0	False
+History	M	False	0	False	4.0	1.0	True
+History	F	False	0	False	4.0	1.0	True
+History	M	False	0	False	4.0	-77.0	False
+History	F	False	0	False	2.0	1.0	True
+History	F	True	0	False	2.0	1.0	True
+History	F	False	1	True	1.0	1.0	True
+History	M	False	2	False	1.0	2.0	True
+History	M	True	0	False	2.0	1.0	True
+History	M	False	0	False	1.0	1.0	True
+History	M	False	0	False	4.0	1.0	True
+History	M	True	0	False	-77.0	-77.0	False
+History	M	False	0	False	4.0	-77.0	False
+History	M	False	0	False	1.0	-77.0	False
+History	F	True	0	False	1.0	-77.0	False
+History	M	False	0	False	4.0	1.0	True
+History	M	False	1	True	4.0	1.0	True
+History	F	False	0	False	-77.0	-77.0	True
+History	M	False	0	False	1.0	1.0	True
+History	F	False	1	True	2.0	1.0	True
+History	F	False	2	False	1.0	2.0	True
+History	F	False	1	True	2.0	2.0	True
+History	F	False	0	False	1.0	-77.0	False
+History	F	False	2	True	4.0	2.0	True
+History	M	False	0	False	1.0	1.0	True
+History	M	False	0	False	2.0	1.0	True
+History	F	False	1	True	3.0	2.0	True
+History	M	True	0	False	4.0	-77.0	False
+History	M	True	0	False	0.0	-77.0	False
+History	M	False	0	False	0.0	0.0	True
+History	M	False	0	False	4.0	0.0	True
+History	M	False	0	False	1.0	0.0	True
+History	M	False	0	False	1.0	-77.0	False
+History	M	False	0	False	1.0	1.0	True
+History	M	False	0	False	-77.0	-77.0	True
+History	F	False	1	True	1.0	1.0	True
+History	M	False	0	False	-77.0	-77.0	False
+History	M	False	0	False	1.0	1.0	True
+History	M	False	0	False	1.0	-77.0	False
+History	F	False	0	False	1.0	-77.0	False
+History	F	False	2	True	1.0	2.0	True
+History	M	False	0	False	1.0	1.0	True
+History	M	False	1	False	4.0	1.0	True
+History	F	False	2	True	3.0	2.0	True
+History	F	False	0	False	2.0	1.0	True
+History	F	False	0	False	1.0	1.0	True
+History	F	False	1	True	2.0	1.0	True
+History	M	False	0	False	-77.0	1.0	True
+History	M	False	0	False	1.0	0.0	True
+History	F	False	2	True	4.0	2.0	True
+History	M	False	0	False	1.0	1.0	True
+History	F	False	0	False	4.0	1.0	True
+History	M	False	0	False	4.0	-77.0	False
+History	M	False	0	False	4.0	1.0	True
+History	F	False	1	True	2.0	2.0	True
+History	F	True	1	True	3.0	2.0	True
+History	F	False	1	True	1.0	1.0	True
+History	F	True	0	False	4.0	-77.0	False
+History	F	False	2	True	4.0	2.0	True
+History	F	False	0	False	-77.0	-77.0	False
+History	M	False	0	False	4.0	1.0	True
+History	M	False	2	True	1.0	2.0	True
+History	F	False	0	False	1.0	1.0	True
+History	M	False	0	False	1.0	1.0	True
+History	M	False	0	False	2.0	1.0	True
+History	M	False	0	False	4.0	1.0	True
+History	F	False	0	False	4.0	1.0	True
+History	F	True	0	False	2.0	-77.0	False
+History	F	False	0	False	-77.0	-77.0	True
+History	M	False	1	True	4.0	2.0	True
+History	M	False	0	False	2.0	1.0	True
+History	M	True	0	False	4.0	-77.0	False
+History	M	False	0	False	4.0	-77.0	False
+History	M	False	1	False	0.0	2.0	True
+History	M	True	0	False	-77.0	-77.0	True
+History	M	False	0	False	-77.0	-77.0	True
+History	F	True	2	True	2.0	2.0	True
+History	M	False	0	False	1.0	1.0	True
+History	F	False	0	False	1.0	-77.0	False
+History	M	True	1	True	1.0	2.0	True
+History	F	False	0	False	4.0	1.0	True
+History	M	False	0	False	1.0	0.0	True
+History	F	False	0	False	-77.0	0.0	True
+History	M	False	0	False	1.0	1.0	True
+History	F	True	0	False	2.0	-77.0	False
+History	F	False	0	False	4.0	1.0	True
+History	M	False	0	False	1.0	1.0	True
+History	F	False	2	True	1.0	1.0	True
+History	M	False	0	False	4.0	-77.0	False
+History	F	False	1	True	2.0	2.0	True
+History	F	True	0	False	1.0	-77.0	False
+History	M	True	0	False	2.0	-77.0	False
+History	F	False	0	False	4.0	-77.0	False
+History	M	True	0	False	4.0	-77.0	False
+History	F	False	0	False	1.0	-77.0	False
+History	F	True	0	False	2.0	1.0	True
+History	M	False	0	False	4.0	1.0	True
+History	M	False	0	False	4.0	0.0	True
+History	M	False	0	False	1.0	1.0	True
+History	M	True	0	False	1.0	-77.0	False
+History	F	True	2	True	3.0	2.0	True
+History	M	False	0	False	4.0	-77.0	False
+History	F	False	0	False	1.0	1.0	True
+History	M	False	2	True	2.0	1.0	True
+History	F	False	0	False	4.0	1.0	True
+History	F	False	1	True	3.0	1.0	True
+History	M	False	0	False	1.0	1.0	True
+History	F	False	0	False	4.0	-77.0	False
+History	F	False	2	True	1.0	2.0	True
+History	M	False	0	False	-77.0	1.0	True
+History	F	False	0	False	4.0	-77.0	False
+History	M	False	0	False	4.0	1.0	True
+History	F	False	1	True	1.0	1.0	True
+History	M	False	0	False	3.0	1.0	True
+History	F	False	0	False	2.0	-77.0	False
+History	F	False	0	False	4.0	-77.0	False
+History	M	False	0	False	4.0	1.0	True
+History	M	False	0	False	-77.0	-77.0	True
+History	M	False	0	False	4.0	1.0	True
+History	M	False	0	False	4.0	1.0	True
+History	M	True	0	False	-77.0	0.0	True
+History	M	False	0	False	1.0	1.0	True
+History	M	True	0	False	1.0	-77.0	False
+History	M	False	0	False	1.0	0.0	True
+History	F	False	0	False	4.0	-77.0	False
+History	F	False	0	False	-77.0	-77.0	False
+History	F	False	1	True	3.0	2.0	True
+History	M	False	0	False	-77.0	-77.0	False
+History	F	False	2	True	2.0	2.0	True
+History	M	False	0	False	1.0	1.0	True
+History	F	True	0	False	2.0	-77.0	False
+History	M	True	2	True	1.0	2.0	True
+History	M	False	0	False	1.0	0.0	True
+History	F	False	2	True	1.0	2.0	True
+History	F	False	0	False	-77.0	-77.0	True
+History	F	False	0	False	1.0	1.0	True
+History	F	False	0	False	4.0	1.0	True
+History	F	False	0	False	1.0	-77.0	False
+History	M	False	0	False	4.0	-77.0	False
+History	F	False	0	False	4.0	-77.0	False
+History	F	False	0	False	1.0	-77.0	False
+History	M	False	0	False	1.0	-77.0	False
+History	F	True	0	False	1.0	1.0	True
+History	M	False	0	False	1.0	-77.0	False
+History	F	True	1	True	3.0	2.0	True
+History	M	False	0	False	1.0	1.0	True
+History	M	False	0	False	4.0	-77.0	False
+History	M	False	0	False	4.0	1.0	True
+History	M	False	0	False	1.0	1.0	True
+History	F	False	0	False	1.0	-77.0	False
+History	M	False	2	True	1.0	2.0	True
+History	M	False	0	False	1.0	-77.0	False
+History	M	True	0	False	1.0	-77.0	False
+History	M	True	0	False	1.0	1.0	True
+History	M	False	0	False	1.0	-77.0	False
+History	M	False	0	False	1.0	-77.0	False
+History	F	False	2	True	2.0	2.0	True
+History	F	False	0	False	1.0	1.0	True
+History	F	True	0	False	3.0	-77.0	False
+History	M	False	1	False	1.0	2.0	True
+History	M	False	0	False	-77.0	1.0	True
+History	F	False	0	False	4.0	-77.0	False
+History	M	False	0	False	4.0	0.0	True
+History	F	False	2	False	4.0	2.0	True
+History	F	True	1	True	2.0	1.0	True
+History	F	False	0	False	1.0	1.0	True
+History	F	False	0	False	4.0	1.0	True
+History	M	False	0	False	1.0	-77.0	False
+History	M	False	0	False	1.0	1.0	True
+History	F	False	1	True	1.0	2.0	True
+History	F	False	1	True	1.0	2.0	True
+History	F	False	0	False	4.0	-77.0	False
+History	M	False	0	False	4.0	1.0	True
+History	F	False	0	False	1.0	1.0	True
+History	F	False	1	True	1.0	2.0	True
+History	F	False	0	False	4.0	-77.0	False
+History	M	True	0	False	1.0	-77.0	False
+History	F	False	2	True	2.0	2.0	True
+History	M	False	0	False	1.0	1.0	True
+History	M	False	0	False	1.0	1.0	True
+History	M	False	0	False	4.0	1.0	True
+History	F	False	0	False	4.0	0.0	True
+History	F	True	0	False	4.0	-77.0	False
+History	M	False	0	False	2.0	1.0	True
+History	M	False	2	True	1.0	2.0	True
+History	F	True	0	False	3.0	-77.0	False
+History	M	True	0	False	1.0	-77.0	False
+History	F	False	0	False	4.0	1.0	True
+History	M	False	0	False	-77.0	-77.0	True
+History	M	False	0	False	1.0	1.0	True
+History	F	True	0	False	1.0	-77.0	False
+History	F	False	0	False	1.0	-77.0	False
+History	F	False	0	False	0.0	-77.0	False
+History	M	False	1	True	1.0	1.0	True
+History	F	False	0	False	1.0	-77.0	False
+History	M	False	1	True	4.0	1.0	True
+History	F	False	0	False	1.0	1.0	True
+History	F	False	0	False	1.0	-77.0	False
+History	M	False	0	False	-77.0	1.0	True
+History	F	False	0	False	1.0	-77.0	False
+History	M	False	0	False	1.0	-77.0	False
+History	F	True	0	False	2.0	-77.0	False
+History	M	False	0	False	1.0	1.0	True
+History	M	True	1	True	4.0	1.0	True
+History	M	False	0	False	4.0	1.0	True
+History	M	False	0	False	2.0	1.0	True
+History	F	False	0	False	-77.0	-77.0	False
+History	F	False	0	False	4.0	-77.0	False
+History	M	False	0	False	1.0	1.0	True
+History	M	True	0	False	2.0	0.0	True
+History	M	False	0	False	1.0	1.0	True
+History	F	False	0	False	4.0	-77.0	False
+History	F	True	1	True	2.0	1.0	True
+History	F	False	0	False	2.0	1.0	True
+History	F	False	0	False	4.0	1.0	True
+History	M	False	2	True	2.0	2.0	True
+History	F	False	0	False	2.0	1.0	True
+History	M	False	1	True	1.0	1.0	True
+History	F	False	0	False	1.0	-77.0	False
+History	M	False	0	False	1.0	-77.0	False
+History	F	True	0	False	1.0	1.0	True
+History	F	False	0	False	1.0	-77.0	False
+History	M	False	0	False	2.0	1.0	True
+History	F	False	0	False	4.0	-77.0	False
+History	F	False	0	False	1.0	1.0	True
+History	M	False	0	False	4.0	-77.0	False
+History	M	True	0	False	1.0	1.0	True
+History	M	False	0	False	1.0	1.0	True
+History	F	False	0	False	-77.0	-77.0	False
+History	M	False	0	False	-77.0	-77.0	False
+History	F	False	0	False	-77.0	1.0	True
+History	F	False	0	False	4.0	1.0	True
+History	F	False	1	True	4.0	1.0	True
+History	M	False	0	False	-77.0	-77.0	True
+History	M	False	0	False	4.0	-77.0	False
+History	M	False	0	False	4.0	-77.0	False
+History	M	False	0	False	0.0	1.0	True
+History	F	False	2	True	4.0	2.0	True
+History	M	False	0	False	2.0	1.0	True
+History	F	False	2	True	2.0	2.0	True
+History	M	False	0	False	1.0	-77.0	False
+History	M	False	0	False	1.0	1.0	True
+History	F	False	0	False	1.0	-77.0	False
+History	M	False	0	False	1.0	1.0	True
+History	M	False	0	False	1.0	1.0	True
+History	F	False	0	False	2.0	-77.0	False
+History	F	True	0	False	-77.0	-77.0	False
+History	M	False	0	False	4.0	1.0	True
+History	F	False	2	True	1.0	2.0	True
+History	F	True	0	False	1.0	-77.0	False
+History	M	False	0	False	-77.0	1.0	True
+History	F	False	0	False	2.0	0.0	True
+History	M	False	0	False	1.0	1.0	True
+History	M	True	2	True	2.0	2.0	True
+History	M	False	0	False	0.0	-77.0	False
+History	F	False	0	False	2.0	-77.0	False
+History	M	False	0	False	4.0	1.0	True
+History	F	False	0	False	1.0	-77.0	False
+History	F	True	0	False	2.0	1.0	True
+History	M	False	0	False	-77.0	-77.0	True
+History	F	False	2	True	4.0	2.0	True
+History	F	False	0	False	2.0	0.0	True
+History	M	False	0	False	1.0	1.0	True
+History	F	False	0	False	0.0	-77.0	False
+History	M	False	0	False	1.0	-77.0	False
+History	M	False	0	False	1.0	1.0	True
+History	F	False	0	False	1.0	1.0	True
+History	M	False	1	False	2.0	0.0	True
+History	F	False	1	True	2.0	2.0	True
+History	F	False	0	False	1.0	-77.0	False
+History	M	False	0	False	1.0	-77.0	False
+History	F	False	2	True	4.0	2.0	True
+History	F	False	0	False	4.0	-77.0	False
+History	F	False	0	False	-77.0	1.0	True
+History	F	True	2	True	2.0	2.0	True
+History	F	False	0	False	1.0	1.0	True
+History	M	True	0	False	4.0	-77.0	False
+History	F	True	0	False	2.0	-77.0	False
+History	M	False	0	False	1.0	1.0	True
+History	M	False	0	False	1.0	1.0	True
+History	M	False	0	False	4.0	1.0	True
+History	M	False	0	False	1.0	-77.0	False
+History	M	False	0	False	2.0	-77.0	False
+History	F	False	2	True	2.0	2.0	True
+History	F	False	0	False	1.0	1.0	True
+History	M	False	0	False	1.0	1.0	True
+History	F	False	0	False	-77.0	-77.0	False
+History	M	False	0	False	1.0	1.0	True
+History	F	False	0	False	1.0	1.0	True
+History	F	False	0	False	1.0	-77.0	False
+History	M	False	0	False	1.0	-77.0	False
+History	F	False	0	False	4.0	1.0	True
+History	M	False	0	False	-77.0	0.0	True
+History	M	False	0	False	4.0	1.0	True
+History	M	False	0	False	4.0	-77.0	False
+History	M	False	0	False	4.0	1.0	True
+History	M	False	0	False	4.0	-77.0	False
+History	M	False	1	True	0.0	2.0	True
+History	F	True	2	True	2.0	2.0	True
+History	F	False	0	False	-77.0	-77.0	False
+History	M	False	1	True	1.0	2.0	True
+History	F	False	1	True	2.0	2.0	True
+History	M	False	0	False	1.0	1.0	True
+History	F	False	0	False	4.0	1.0	True
+History	F	True	0	False	3.0	1.0	True
+History	M	True	0	False	-77.0	-77.0	False
+History	F	True	0	False	4.0	-77.0	False
+History	F	False	0	False	4.0	1.0	True
+History	F	False	1	True	2.0	1.0	True
+History	M	False	0	False	4.0	0.0	True
+History	F	False	0	False	1.0	-77.0	False
+History	F	False	0	False	-77.0	-77.0	False
+History	F	False	0	False	4.0	-77.0	False
+History	M	False	0	False	1.0	1.0	True
+History	M	True	0	False	1.0	1.0	True
+History	F	False	0	False	4.0	-77.0	False
+History	M	False	0	False	4.0	-77.0	False
+History	M	False	3	True	1.0	2.0	True
+History	M	False	0	False	1.0	-77.0	False
+History	F	False	2	True	3.0	2.0	True
+History	M	False	1	False	4.0	2.0	True
+History	M	False	0	False	1.0	1.0	True
+History	F	False	0	False	4.0	-77.0	False
+History	F	False	2	False	2.0	2.0	True
+History	M	False	0	False	2.0	1.0	True
+History	F	False	0	False	4.0	-77.0	False
+History	M	False	1	True	2.0	2.0	True
+History	M	False	0	False	4.0	1.0	True
+History	M	False	0	False	1.0	1.0	True
+History	M	False	0	False	4.0	-77.0	False
+History	M	False	0	False	-77.0	-77.0	True
+History	F	False	1	True	4.0	1.0	True
+History	M	True	0	False	2.0	1.0	True
+History	M	False	0	False	2.0	1.0	True
+History	F	False	1	True	-77.0	1.0	True
+History	M	False	1	True	3.0	2.0	True
+History	M	False	1	False	1.0	1.0	True
+History	F	False	0	False	4.0	1.0	True
+History	M	False	0	False	-77.0	0.0	True
+History	M	False	0	False	1.0	1.0	True
+History	M	False	0	False	1.0	-77.0	False
+History	M	True	2	True	2.0	2.0	True
+History	F	False	0	False	4.0	-77.0	False
+History	M	False	0	False	4.0	1.0	True
+History	M	True	0	False	2.0	-77.0	False
+History	F	False	0	False	4.0	1.0	True
+History	M	False	0	False	1.0	1.0	True
+History	F	False	0	False	4.0	-77.0	False
+History	F	False	0	False	1.0	1.0	True
+History	M	False	0	False	1.0	-77.0	False
+History	F	False	0	False	1.0	1.0	True
+History	F	False	1	False	4.0	1.0	True
+History	F	False	0	False	1.0	-77.0	False
+History	F	False	0	False	4.0	-77.0	False
+History	F	False	0	False	1.0	-77.0	False
+History	M	False	0	False	4.0	1.0	True
+History	M	False	0	False	4.0	1.0	True
+History	M	False	0	False	1.0	1.0	True
+History	M	False	0	False	1.0	1.0	True
+History	F	False	0	False	1.0	-77.0	False
+History	F	False	0	False	1.0	-77.0	False
+History	M	False	1	False	1.0	2.0	True
+History	F	True	0	False	4.0	1.0	True
+History	F	False	0	False	1.0	1.0	True
+History	M	False	2	True	3.0	0.0	True
+History	F	True	1	True	1.0	1.0	True
+History	M	False	0	False	1.0	1.0	True
+History	F	False	2	True	3.0	2.0	True
+History	F	False	0	False	2.0	0.0	True
+History	M	False	0	False	1.0	1.0	True
+History	M	False	0	False	-77.0	-77.0	True
+History	M	False	0	False	1.0	-77.0	False
+History	M	False	0	False	4.0	-77.0	False
+History	M	False	2	True	4.0	2.0	True
+History	F	False	0	False	1.0	0.0	True
+History	F	False	0	False	1.0	-77.0	False
+History	F	False	0	False	1.0	1.0	True
+History	M	False	0	False	4.0	1.0	True
+History	M	False	0	False	4.0	1.0	True
+History	F	False	0	False	-77.0	-77.0	True
+History	M	False	0	False	4.0	1.0	True
+History	M	False	2	True	3.0	2.0	True
+History	M	False	0	False	1.0	-77.0	False
+History	F	False	0	False	4.0	0.0	True
+History	F	False	0	False	4.0	0.0	True
+History	M	False	0	False	-77.0	-77.0	False
+History	F	False	1	True	2.0	2.0	True
+History	F	False	0	False	-77.0	-77.0	True
+History	M	False	0	False	4.0	0.0	True
+History	M	False	0	False	1.0	-77.0	False
+History	M	False	0	False	4.0	-77.0	False
+History	F	False	0	False	1.0	1.0	True
+History	M	False	0	False	1.0	-77.0	False
+History	M	False	0	False	4.0	-77.0	False
+History	M	False	0	False	3.0	1.0	True
+History	F	False	1	False	1.0	2.0	True
+History	M	True	0	False	4.0	-77.0	False
+History	F	True	0	False	2.0	-77.0	False
+History	F	True	1	True	4.0	1.0	True
+History	F	False	0	False	-77.0	-77.0	False
+History	M	False	1	True	4.0	1.0	True
+History	M	False	0	False	1.0	1.0	True
+History	M	False	0	False	1.0	1.0	True
+History	M	False	0	False	4.0	1.0	True
+History	M	False	0	False	2.0	0.0	True
+History	M	False	0	False	4.0	1.0	True
+History	F	True	0	False	2.0	-77.0	False
+History	M	True	0	False	4.0	0.0	True
+History	M	False	0	False	1.0	-77.0	False
+History	F	False	1	True	2.0	2.0	True
+History	M	False	0	False	4.0	-77.0	False
+History	F	True	1	True	4.0	1.0	True
+History	M	False	0	False	1.0	1.0	True
+History	F	False	2	True	1.0	2.0	True
+History	F	False	0	False	1.0	1.0	True
+History	F	False	0	False	4.0	1.0	True
+History	F	False	1	True	0.0	1.0	True
+History	F	False	1	True	4.0	2.0	True
+History	F	False	0	False	4.0	-77.0	False
+History	M	False	1	False	4.0	0.0	True
+History	F	False	0	False	4.0	1.0	True
+History	F	False	0	False	4.0	-77.0	False
+History	F	False	1	True	4.0	2.0	True
+History	M	True	0	False	4.0	1.0	True
+History	M	False	2	False	1.0	2.0	True
+History	F	False	0	False	4.0	-77.0	False
+History	M	True	0	False	-77.0	-77.0	False
+History	M	False	0	False	1.0	0.0	True
+History	M	False	0	False	1.0	0.0	True
+History	F	True	0	False	4.0	-77.0	False
+History	F	False	0	False	4.0	1.0	True
+History	F	False	0	False	3.0	1.0	True
+History	M	False	0	False	4.0	-77.0	False
+History	M	False	0	False	1.0	-77.0	False
+History	F	False	1	True	4.0	2.0	True
+History	F	True	2	True	2.0	2.0	True
+History	F	False	0	False	4.0	-77.0	False
+History	F	True	0	False	1.0	-77.0	False
+History	M	False	0	False	4.0	1.0	True
+History	M	False	0	False	1.0	0.0	True
+History	F	False	2	True	2.0	2.0	True
+History	M	False	0	False	2.0	-77.0	False
+History	M	True	0	False	1.0	-77.0	False
+History	F	False	0	False	4.0	1.0	True
+History	F	False	0	False	2.0	1.0	True
+History	F	False	0	False	2.0	-77.0	False
+History	M	False	1	True	2.0	2.0	True
+History	M	True	0	False	-77.0	-77.0	False
+History	M	False	0	False	-77.0	-77.0	True
+History	F	False	0	False	4.0	1.0	True
+History	F	False	0	False	1.0	-77.0	False
+History	F	False	0	False	1.0	1.0	True
+History	M	False	0	False	4.0	-77.0	False
+History	F	False	0	False	1.0	1.0	True
+History	F	True	0	False	1.0	-77.0	False
+History	M	False	0	False	4.0	1.0	True
+History	M	False	0	False	4.0	-77.0	False
+History	M	False	1	False	1.0	1.0	True
+History	M	True	0	False	3.0	-77.0	False
+History	M	False	0	False	1.0	1.0	True
+History	F	False	2	True	4.0	2.0	True
+History	M	False	0	False	1.0	1.0	True
+History	F	False	0	False	1.0	-77.0	False
+History	M	True	0	False	4.0	-77.0	False
+History	M	False	0	False	1.0	1.0	True
+History	F	False	1	True	2.0	2.0	True
+History	M	False	0	False	1.0	-77.0	False
+History	F	False	0	False	4.0	1.0	True
+History	M	False	0	False	1.0	-77.0	False
+History	F	False	0	False	1.0	-77.0	False
+History	F	False	1	True	1.0	2.0	True
+History	M	True	1	True	2.0	2.0	True
+History	M	False	1	False	4.0	1.0	True
+History	M	False	0	False	4.0	1.0	True
+History	M	False	0	False	2.0	1.0	True
+History	M	False	0	False	1.0	1.0	True
+History	M	False	0	False	4.0	1.0	True
+History	M	True	0	False	4.0	1.0	True
+History	F	False	1	False	2.0	2.0	True
+History	F	False	0	False	4.0	1.0	True
+History	F	False	0	False	4.0	-77.0	False
+History	M	True	0	False	4.0	1.0	True
+History	M	False	0	False	1.0	1.0	True
+History	F	False	0	False	4.0	-77.0	False
+History	M	False	2	False	1.0	2.0	True
+History	F	False	0	False	4.0	-77.0	False
+History	M	False	0	False	4.0	1.0	True
+History	M	False	3	True	1.0	2.0	True
+History	F	False	0	False	4.0	-77.0	False
+History	F	False	0	False	4.0	-77.0	False
+History	F	False	1	True	2.0	1.0	True
+History	F	False	1	True	4.0	2.0	True
+History	F	False	0	False	4.0	-77.0	False
+History	F	False	1	True	1.0	2.0	True
+History	M	False	0	False	1.0	-77.0	False
+History	F	False	0	False	1.0	-77.0	False
+History	M	False	0	False	4.0	1.0	True
+History	F	False	0	False	2.0	1.0	True
+History	F	False	0	False	1.0	1.0	True
+History	M	False	2	False	1.0	2.0	True
+History	F	False	0	False	1.0	-77.0	False
+History	F	False	0	False	-77.0	-77.0	True
+History	M	False	0	False	-77.0	-77.0	False
+History	F	False	1	True	4.0	2.0	True
+History	F	False	0	False	-77.0	-77.0	False
+History	M	False	0	False	1.0	1.0	True
+History	F	False	0	False	4.0	-77.0	False
+History	F	False	0	False	2.0	-77.0	False
+History	F	False	1	True	1.0	1.0	True
+History	M	False	0	False	1.0	0.0	True
+History	F	False	1	True	3.0	2.0	True
+History	M	False	0	False	-77.0	-77.0	True
+History	M	False	0	False	1.0	1.0	True
+History	F	False	1	True	3.0	2.0	True
+History	F	False	0	False	4.0	0.0	True
+History	M	False	0	False	4.0	-77.0	False
+History	M	False	0	False	2.0	1.0	True
+History	M	False	0	False	1.0	1.0	True
+History	F	True	0	False	1.0	-77.0	False
+History	M	False	0	False	1.0	1.0	True
+History	M	False	0	False	2.0	1.0	True
+History	M	True	0	False	2.0	-77.0	False
+History	M	False	0	False	1.0	1.0	True
+History	F	False	0	False	-77.0	-77.0	True
+History	F	False	1	True	4.0	1.0	True
+History	M	True	0	False	1.0	1.0	True
+History	F	False	0	False	4.0	-77.0	False
+History	F	False	1	True	1.0	1.0	True
+History	F	False	2	True	1.0	1.0	True
+History	M	False	0	False	1.0	1.0	True
+History	M	False	0	False	4.0	1.0	True
+History	M	False	0	False	3.0	1.0	True
+History	M	False	0	False	1.0	1.0	True
+History	M	False	0	False	4.0	0.0	True
+History	F	True	0	False	1.0	-77.0	False
+History	M	False	0	False	1.0	-77.0	False
+History	M	False	0	False	2.0	1.0	True
+History	F	False	0	False	1.0	1.0	True
+History	F	True	0	False	1.0	-77.0	False
+History	M	False	0	False	-77.0	1.0	True
+History	F	False	0	False	4.0	1.0	True
+History	M	False	0	False	0.0	-77.0	False
+History	M	True	0	False	4.0	-77.0	False
+History	M	False	0	False	4.0	1.0	True
+History	F	False	1	True	4.0	2.0	True
+History	F	True	0	False	4.0	1.0	True
+History	M	False	0	False	1.0	1.0	True
+History	F	True	0	False	3.0	1.0	True
+History	M	False	0	False	1.0	-77.0	False
+History	M	False	0	False	1.0	1.0	True
+History	M	True	0	False	4.0	-77.0	False
+History	F	False	2	True	1.0	2.0	True
+History	M	False	0	False	4.0	0.0	True
+History	M	False	0	False	4.0	-77.0	False
+History	F	False	0	False	4.0	1.0	True
+History	M	False	2	True	1.0	2.0	True
+History	F	False	0	False	1.0	-77.0	False
+History	F	False	0	False	1.0	1.0	True
+History	M	False	0	False	1.0	0.0	True
+History	M	True	1	False	2.0	1.0	True
+History	F	False	0	False	2.0	1.0	True
+History	F	True	0	False	1.0	-77.0	False
+History	M	False	0	False	-77.0	-77.0	True
+History	M	False	0	False	0.0	1.0	True
+History	M	False	0	False	1.0	1.0	True
+History	M	False	0	False	4.0	-77.0	False
+History	F	False	0	False	1.0	-77.0	False
+History	F	False	0	False	4.0	-77.0	False
+History	F	False	0	False	4.0	-77.0	False
+History	F	False	0	False	1.0	-77.0	False
+History	F	False	0	False	1.0	-77.0	False
+History	M	False	0	False	4.0	0.0	True
+History	F	False	0	False	4.0	1.0	True
+History	M	False	0	False	1.0	-77.0	False
+History	F	False	1	True	2.0	1.0	True
+History	M	True	0	False	1.0	-77.0	False
+History	F	False	0	False	4.0	0.0	True
+History	M	False	0	False	1.0	1.0	True
+History	M	False	0	False	4.0	1.0	True
+History	M	False	0	False	4.0	1.0	True
+History	F	False	0	False	1.0	0.0	True
+History	M	False	0	False	1.0	1.0	True
+History	M	False	0	False	1.0	-77.0	False
+History	M	False	0	False	2.0	1.0	True
+History	M	False	0	False	1.0	1.0	True
+History	M	False	1	True	1.0	2.0	True
+History	F	True	0	False	3.0	1.0	True
+History	M	True	0	False	1.0	-77.0	False
+History	F	False	2	True	1.0	2.0	True
+History	M	False	0	False	1.0	0.0	True
+History	M	False	0	False	-77.0	-77.0	False
+History	M	False	0	False	1.0	1.0	True
+History	M	False	0	False	4.0	-77.0	False
+History	M	False	0	False	4.0	1.0	True
+History	F	False	0	False	4.0	-77.0	False
+History	M	False	0	False	-77.0	-77.0	True
+History	M	False	0	False	4.0	-77.0	False
+History	M	False	0	False	-77.0	-77.0	False
+History	M	False	0	False	4.0	1.0	True
+History	M	False	0	False	4.0	-77.0	False
+History	F	False	0	False	3.0	1.0	True
+History	M	False	0	False	4.0	-77.0	False
+History	F	False	0	False	4.0	0.0	True
+History	F	False	0	False	1.0	1.0	True
+History	F	False	0	False	4.0	-77.0	False
+History	M	False	0	False	4.0	-77.0	False
+History	F	True	0	False	4.0	-77.0	False
+History	F	True	0	False	2.0	-77.0	False
+History	F	False	0	False	3.0	0.0	True
+History	M	False	1	False	2.0	0.0	True
+History	F	False	0	False	4.0	1.0	True
+History	F	True	0	False	4.0	-77.0	False
+History	F	False	2	True	4.0	2.0	True
+History	M	True	0	False	2.0	1.0	True
+History	M	False	0	False	1.0	-77.0	False
+History	M	False	0	False	4.0	-77.0	False
+History	F	False	0	False	4.0	-77.0	False
+History	M	False	0	False	4.0	1.0	True
+History	M	True	2	True	4.0	2.0	True
+History	F	False	1	True	2.0	1.0	True
+History	M	True	0	False	2.0	-77.0	False
+History	F	False	0	False	1.0	1.0	True
+History	F	False	0	False	4.0	-77.0	False
+History	F	False	0	False	1.0	1.0	True
+History	F	True	3	True	4.0	2.0	True
+History	M	False	1	False	1.0	2.0	True
+History	M	False	1	False	1.0	0.0	True
+History	F	False	1	True	-77.0	2.0	True
+History	M	False	2	True	1.0	2.0	True
+History	M	False	0	False	1.0	1.0	True
+History	M	False	0	False	-77.0	-77.0	False
+History	M	True	0	False	1.0	-77.0	False
+History	M	False	0	False	4.0	-77.0	False
+History	F	True	0	False	4.0	-77.0	False
+History	M	False	0	False	2.0	1.0	True
+History	M	True	0	False	2.0	-77.0	False
+History	F	False	0	False	4.0	-77.0	False
+History	M	False	0	False	4.0	1.0	True
+History	M	False	0	False	4.0	-77.0	False
+History	M	False	0	False	4.0	-77.0	False
+History	F	False	1	True	2.0	2.0	True
+History	F	True	1	True	2.0	2.0	True
+History	F	False	2	True	0.0	2.0	True
+History	F	False	0	False	-77.0	-77.0	False
+History	M	False	0	False	1.0	1.0	True
+History	M	False	2	True	1.0	2.0	True
+History	M	False	0	False	1.0	1.0	True
+History	M	False	1	True	-77.0	2.0	True
+History	F	False	1	True	3.0	1.0	True
+History	F	False	0	False	1.0	-77.0	False
+History	M	False	0	False	-77.0	1.0	True
+History	F	False	0	False	4.0	-77.0	False
+History	M	True	0	False	1.0	-77.0	False
+History	F	True	0	False	1.0	-77.0	False
+History	F	False	0	False	1.0	1.0	True
+History	F	False	0	False	1.0	-77.0	False
+History	F	False	0	False	1.0	-77.0	False
+History	M	False	1	True	1.0	1.0	True
+History	F	False	2	True	-77.0	2.0	True
+History	M	False	0	False	1.0	1.0	True
+History	F	False	1	True	0.0	2.0	True
+History	F	False	0	False	4.0	1.0	True
+History	F	False	1	True	4.0	2.0	True
+History	F	True	0	False	4.0	-77.0	False
+History	M	False	0	False	1.0	1.0	True
+History	M	False	0	False	-77.0	1.0	True
+History	M	False	0	False	4.0	1.0	True
+History	F	False	2	True	4.0	2.0	True
+History	F	True	0	False	3.0	-77.0	False
+History	F	False	0	False	4.0	-77.0	False
+History	M	False	0	False	4.0	1.0	True
+History	F	True	1	True	1.0	2.0	True
+History	F	False	0	False	4.0	-77.0	False
+History	M	False	0	False	1.0	-77.0	False
+History	M	False	0	False	4.0	1.0	True
+History	M	False	1	True	4.0	1.0	True
+History	F	False	0	False	-77.0	-77.0	True
+History	F	False	1	True	4.0	2.0	True
+History	M	False	0	False	1.0	0.0	True
+History	M	False	0	False	-77.0	0.0	True
+History	M	False	0	False	1.0	-77.0	False
+History	F	False	0	False	1.0	1.0	True
+History	M	False	1	True	1.0	2.0	True
+History	F	False	0	False	3.0	1.0	True
+History	M	True	1	True	1.0	2.0	True
+History	M	True	2	True	2.0	2.0	True
+History	F	True	1	True	2.0	2.0	True
+History	F	False	0	False	1.0	1.0	True
+History	F	False	0	False	2.0	0.0	True
+History	F	True	0	False	3.0	-77.0	False
+History	F	False	0	False	-77.0	-77.0	False
+History	M	False	0	False	2.0	0.0	True
+History	M	False	0	False	1.0	-77.0	False
+History	M	False	0	False	4.0	1.0	True
+History	M	False	0	False	4.0	1.0	True
+History	M	False	0	False	1.0	-77.0	False
+History	F	False	0	False	1.0	1.0	True
+History	F	False	2	True	3.0	2.0	True
+History	M	False	0	False	1.0	1.0	True
+History	F	False	0	False	4.0	-77.0	False
+History	F	True	0	False	3.0	1.0	True
+History	M	False	0	False	2.0	1.0	True
+History	M	False	0	False	-77.0	1.0	True
+History	M	False	0	False	4.0	1.0	True
+History	F	True	1	True	2.0	2.0	True
+History	M	False	0	False	2.0	1.0	True
+History	F	False	1	True	1.0	2.0	True
+History	M	False	1	False	2.0	1.0	True
+History	F	False	0	False	4.0	-77.0	False
+History	F	False	1	True	4.0	2.0	True
+History	F	False	0	False	1.0	-77.0	False
+History	F	True	0	False	1.0	1.0	True
+History	M	False	0	False	1.0	-77.0	False
+History	F	True	0	False	-77.0	-77.0	True
+History	M	False	1	False	1.0	0.0	True
+History	F	False	1	True	2.0	2.0	True
+History	M	True	0	False	1.0	1.0	True
+History	F	False	1	True	1.0	2.0	True
+History	M	False	0	False	1.0	-77.0	False
+History	F	False	0	False	4.0	-77.0	False
+History	M	False	0	False	-77.0	-77.0	True
+History	M	True	1	True	2.0	1.0	True
+History	F	False	1	False	1.0	1.0	True
+History	F	False	0	False	1.0	1.0	True
+History	F	True	0	False	4.0	-77.0	False
+History	M	False	0	False	4.0	1.0	True
+History	M	True	0	False	2.0	-77.0	False
+History	M	False	0	False	1.0	1.0	True
+History	M	False	1	True	1.0	2.0	True
+History	F	False	0	False	1.0	-77.0	False
+History	M	False	0	False	-77.0	1.0	True
+History	M	True	0	False	1.0	-77.0	False
+Computer Science	M	True	2	True	1.0	2.0	True
+Computer Science	M	False	2	False	1.0	2.0	True
+Computer Science	M	False	0	False			False
+Computer Science	M	False	0	False	4.0	0.0	True
+Computer Science	F	False	0	False	3.0	1.0	True
+Computer Science	F	False	1	True	1.0	2.0	True
+Computer Science	M	False	0	False	4.0	1.0	True
+Computer Science	M	False	0	False	2.0	1.0	True
+Computer Science	M	False	0	False		0.0	True
+Computer Science	M	False	0	False	2.0	1.0	True
+Computer Science	M	False	0	False	1.0		False
+Computer Science	M	False	1	True	1.0	2.0	True
+Computer Science	M	False	0	False	4.0		False
+Computer Science	M	False	0	False	1.0	0.0	True
+Computer Science	M	False	0	False		0.0	True
+Computer Science	M	False	0	False	1.0	1.0	True
+Computer Science	M	False	0	False	1.0	0.0	True
+Computer Science	M	False	0	False	1.0	0.0	True
+Computer Science	F	False	0	False	4.0	1.0	True
+Computer Science	M	False	2	False	1.0	2.0	True
+Computer Science	M	False	0	False	4.0		False
+Computer Science	M	False	0	False	1.0	1.0	True
+Computer Science	M	False	0	False	1.0	1.0	True
+Computer Science	F	False	0	False	4.0	1.0	True
+Computer Science	M	False	0	False	1.0	0.0	True
+Computer Science	F	False	0	False	4.0	1.0	True
+Computer Science	M	False	0	False	1.0	1.0	True
+Computer Science	F	False	0	False	4.0	1.0	True
+Computer Science	M	False	0	False	2.0		False
+Computer Science	M	False	0	False	1.0	1.0	True
+Computer Science	M	False	0	False	1.0		False
+Computer Science	M	False	0	False	2.0	1.0	True
+Computer Science	F	True	0	False	2.0		False
+Computer Science	M	False	0	False	1.0	1.0	True
+Computer Science	M	False	0	False	1.0	0.0	True
+Computer Science	M	False	2	True	1.0	2.0	True
+Computer Science	M	False	0	False	4.0		False
+Computer Science	M	False	0	False			True
+Computer Science	M	False	0	False	1.0		False
+Computer Science	M	False	0	False	1.0	1.0	True
+Computer Science	M	False	1	True	4.0	2.0	True
+Computer Science	F	False	0	False	1.0	1.0	True
+Computer Science	F	True	0	False	4.0		False
+Computer Science	M	False	0	False	1.0	0.0	True
+Computer Science	M	False	0	False	4.0	0.0	True
+Computer Science	M	False	0	False			False
+Computer Science	F	False	0	False	4.0		False
+Computer Science	M	False	2	True	1.0	0.0	True
+Computer Science	M	False	0	False	4.0		False
+Computer Science	M	True	0	False	4.0		False
+Computer Science	M	False	0	False	2.0		False
+Computer Science	M	False	0	False	1.0	1.0	True
+Computer Science	F	False	0	False	4.0		False
+Computer Science	M	False	0	False	1.0	1.0	True
+Computer Science	F	False	1	True	2.0	2.0	True
+Computer Science	M	False	0	False	4.0		False
+Computer Science	M	False	0	False	1.0		False
+Computer Science	F	False	0	False	4.0	0.0	True
+Computer Science	M	False	0	False	4.0	1.0	True
+Computer Science	M	False	0	False	1.0	0.0	True
+Computer Science	M	True	0	False	1.0	0.0	True
+Computer Science	M	False	0	False			True
+Computer Science	M	False	0	False	1.0		False
+Computer Science	M	False	0	False	1.0	1.0	True
+Computer Science	M	False	2	False	4.0	2.0	True
+Computer Science	M	True	0	False	4.0		False
+Computer Science	M	False	0	False	4.0	1.0	True
+Computer Science	M	False	0	False	2.0	0.0	True
+Computer Science	M	False	0	False	1.0	0.0	True
+Computer Science	F	False	0	False	1.0	1.0	True
+Computer Science	M	False	2	False	2.0	2.0	True
+Computer Science	F	False	0	False	4.0	1.0	True
+Computer Science	M	False	1	True	1.0	2.0	True
+Computer Science	M	True	0	False	1.0	1.0	True
+Computer Science	F	False	0	False	4.0	0.0	True
+Computer Science	F	False	0	False	1.0	0.0	True
+Computer Science	M	False	0	False	1.0	1.0	True
+Computer Science	M	False	0	False	1.0	1.0	True
+Computer Science	M	False	0	False	4.0	1.0	True
+Computer Science	F	False	0	False			False
+Computer Science	F	False	0	False	1.0	0.0	True
+Computer Science	M	False	0	False	1.0	1.0	True
+Computer Science	M	False	0	False	1.0	1.0	True
+Computer Science	M	False	0	False	4.0	0.0	True
+Computer Science	M	False	0	False	1.0	0.0	True
+Computer Science	F	False	1	True	1.0	2.0	True
+Computer Science	M	True	1	True	2.0	2.0	True
+Computer Science	M	False	0	False	1.0	1.0	True
+Computer Science	M	False	2	False	4.0	2.0	True
+Computer Science	M	False	0	False	4.0		False
+Computer Science	M	False	0	False	1.0	1.0	True
+Computer Science	F	False	0	False	4.0	1.0	True
+Computer Science	M	False	0	False	1.0	1.0	True
+Computer Science	M	False	2	True	2.0	2.0	True
+Computer Science	M	False	0	False	1.0	1.0	True
+Computer Science	M	False	0	False	1.0	1.0	True
+Computer Science	M	True	0	False	1.0		False
+Computer Science	F	False	0	False	4.0		False
+Computer Science	M	False	0	False	1.0	1.0	True
+Computer Science	F	True	0	False	4.0		False
+Computer Science	M	False	0	False	1.0	1.0	True
+Computer Science	M	False	0	False	4.0	1.0	True
+Computer Science	F	False	0	False		0.0	True
+Computer Science	M	False	0	False	1.0	0.0	True
+Computer Science	F	False	0	False	4.0	1.0	True
+Computer Science	M	False	0	False	1.0	1.0	True
+Computer Science	F	False	0	False		1.0	True
+Computer Science	F	False	0	False	4.0	1.0	True
+Computer Science	F	False	2	True	4.0	2.0	True
+Computer Science	M	False	0	False			True
+Computer Science	M	False	0	False	1.0	1.0	True
+Computer Science	M	False	0	False	1.0	0.0	True
+Computer Science	M	False	2	True	4.0	1.0	True
+Computer Science	M	False	0	False	4.0		False
+Computer Science	F	False	2	True	3.0	2.0	True
+Computer Science	M	False	0	False	1.0	1.0	True
+Computer Science	M	False	2	False	1.0	2.0	True
+Computer Science	M	False	0	False	4.0	0.0	True
+Computer Science	M	False	0	False	1.0	1.0	True
+Computer Science	M	False	0	False	1.0	0.0	True
+Computer Science	M	False	0	False	1.0	1.0	True
+Computer Science	F	True	0	False	2.0		False
+Computer Science	M	False	0	False	1.0	1.0	True
+Computer Science	F	False	0	False	4.0	1.0	True
+Computer Science	M	False	0	False	1.0	0.0	True
+Computer Science	M	False	0	False	4.0	0.0	True
+Computer Science	F	False	1	True	4.0	1.0	True
+Computer Science	F	False	1	True	4.0	2.0	True
+Computer Science	M	False	0	False	2.0	1.0	True
+Computer Science	M	False	0	False	1.0	0.0	True
+Computer Science	M	False	0	False	1.0	1.0	True
+Computer Science	M	False	1	False	4.0	0.0	True
+Computer Science	F	False	1	True	2.0	2.0	True
+Computer Science	F	False	0	False	4.0		False
+Computer Science	M	False	0	False			True
+Computer Science	M	False	0	False	3.0	1.0	True
+Computer Science	M	True	2	False	2.0	2.0	True
+Computer Science	M	False	0	False	1.0	0.0	True
+Computer Science	M	False	0	False	4.0	0.0	True
+Computer Science	M	False	0	False	2.0	1.0	True
+Computer Science	M	False	2	False	1.0	2.0	True
+Computer Science	M	False	0	False	2.0		False
+Computer Science	M	False	0	False	1.0	1.0	True
+Computer Science	F	True	1	True	1.0	1.0	True
+Computer Science	M	False	0	False	3.0		False
+Computer Science	M	False	0	False	1.0	1.0	True
+Computer Science	M	False	0	False	1.0	1.0	True
+Computer Science	M	False	0	False	4.0	0.0	True
+Computer Science	M	False	0	False	1.0	1.0	True
+Computer Science	M	False	0	False	1.0	0.0	True
+Computer Science	M	False	0	False	1.0	0.0	True
+Computer Science	M	False	0	False	1.0	1.0	True
+Computer Science	M	False	0	False	4.0	1.0	True
+Computer Science	M	False	0	False	1.0	1.0	True
+Computer Science	M	False	0	False	1.0		False
+Computer Science	F	False	0	False	1.0	0.0	True
+Computer Science	M	False	0	False	1.0	1.0	True
+Computer Science	M	False	0	False	1.0	1.0	True
+Computer Science	M	False	0	False	1.0	0.0	True
+Computer Science	F	False	0	False	1.0		False
+Computer Science	M	False	0	False	2.0	1.0	True
+Computer Science	M	False	3	False	1.0	2.0	True
+Computer Science	F	False	1	True	2.0	2.0	True
+Computer Science	M	False	0	False	1.0	1.0	True
+Computer Science	M	False	1	True	1.0	2.0	True
+Computer Science	M	False	0	False	4.0	0.0	True
+Computer Science	M	False	0	False	1.0	0.0	True
+Computer Science	M	False	0	False	1.0	0.0	True
+Computer Science	M	False	1	False	1.0	1.0	True
+Computer Science	M	False	1	False	1.0	1.0	True
+Computer Science	M	False	0	False	1.0	0.0	True
+Computer Science	F	False	0	False	2.0	1.0	True
+Computer Science	M	False	3	True	1.0	2.0	True
+Computer Science	M	False	0	False	4.0		False
+Computer Science	M	False	2	False	3.0	2.0	True
+Computer Science	M	False	0	False	2.0	0.0	True
+Computer Science	M	False	1	True	1.0	2.0	True
+Computer Science	M	False	0	False	1.0		False
+Computer Science	F	False	2	True	4.0	2.0	True
+Computer Science	M	False	0	False	1.0	0.0	True
+Computer Science	M	False	2	False	1.0	2.0	True
+Computer Science	M	True	3	True	1.0	0.0	True
+Computer Science	M	True	2	True	2.0	2.0	True
+Computer Science	F	True	1	True	2.0	2.0	True
+Computer Science	M	True	1	True	1.0	1.0	True
+Computer Science	M	True	0	False	1.0		False
+Computer Science	M	True	0	False	1.0	0.0	True
+Computer Science	M	True	2	True	2.0	2.0	True
+Computer Science	F	True	0	False	1.0		False
+Computer Science	M	True	0	False	4.0		False
+Computer Science	M	True	1	False	2.0	2.0	True
+Computer Science	M	True	1	True	2.0	1.0	True
+Computer Science	M	True	1	True	1.0	2.0	True
+Computer Science	M	True	1	True	3.0	0.0	True
+Computer Science	M	True	0	False	4.0		False
+Computer Science	M	True	0	False	2.0	1.0	True
+Computer Science	F	True	0	False	2.0		False
+Computer Science	F	True	0	False	2.0		False
+Computer Science	M	False	0	False	1.0	1.0	True
+Computer Science	M	False	0	False	1.0	1.0	True
+Computer Science	M	False	0	False	1.0	1.0	True
+Computer Science	M	False	0	False	4.0	1.0	True
+Computer Science	M	False	0	False	1.0	0.0	True
+Computer Science	M	False	0	False	1.0	1.0	True
+Computer Science	M	False	0	False	4.0	1.0	True
+Computer Science	M	False	0	False	4.0	1.0	True
+Computer Science	M	False	0	False	4.0	1.0	True
+Computer Science	M	False	0	False	3.0	1.0	True
+Computer Science	M	False	0	False	1.0	1.0	True
+Computer Science	M	False	0	False	4.0		False
+Computer Science	M	False	0	False	1.0	1.0	True
+Computer Science	M	False	0	False	4.0	1.0	True
+Computer Science	M	False	0	False	4.0	1.0	True
+Computer Science	M	False	0	False	4.0		False
+Computer Science	F	False	0	False		1.0	True
+Computer Science	M	False	0	False	4.0	1.0	True
+Computer Science	M	False	0	False	1.0	0.0	True
+Computer Science	M	False	0	False	4.0		False
+Computer Science	M	False	0	False	1.0		False
+Computer Science	M	False	0	False	3.0	1.0	True
+Computer Science	M	False	0	False	1.0	1.0	True
+Computer Science	M	False	0	False			False
+Computer Science	M	False	2	False	2.0	0.0	True
+Computer Science	M	False	0	False	4.0	1.0	True
+Computer Science	M	False	0	False	4.0	1.0	True
+Computer Science	M	False	0	False	1.0	1.0	True
+Computer Science	M	False	0	False	1.0	1.0	True
+Computer Science	M	False	2	False	1.0	2.0	True
+Computer Science	M	False	0	False	4.0	0.0	True
+Computer Science	M	False	0	False	4.0		False
+Computer Science	M	False	0	False	1.0	1.0	True
+Computer Science	M	False	0	False	4.0	1.0	True
+Computer Science	F	False	0	False	2.0		False
+Computer Science	M	False	1	False	1.0	1.0	True
+Computer Science	F	False	0	False	4.0	1.0	True
+Computer Science	M	False	0	False	1.0	0.0	True
+Computer Science	M	False	0	False	4.0	1.0	True
+Computer Science	M	False	0	False	2.0	1.0	True
+Computer Science	M	False	0	False	1.0	1.0	True
+Computer Science	M	False	0	False	1.0	0.0	True
+Computer Science	M	False	0	False	1.0	1.0	True
+Computer Science	M	False	0	False	4.0		False
+Computer Science	M	False	0	False	1.0	1.0	True
+Computer Science	F	False	1	False		2.0	True
+Computer Science	M	False	0	False	1.0	1.0	True
+Computer Science	M	False	0	False	1.0	1.0	True
+Computer Science	F	False	1	True	4.0	1.0	True
+Computer Science	M	False	0	False	4.0	1.0	True
+Computer Science	F	False	0	False	1.0	1.0	True
+Computer Science	M	False	0	False	4.0	1.0	True
+Computer Science	F	False	0	False	4.0	1.0	True
+Computer Science	M	False	0	False	4.0	0.0	True
+Computer Science	M	False	0	False	1.0	1.0	True
+Computer Science	M	False	0	False	2.0	1.0	True
+Computer Science	M	False	0	False	1.0	1.0	True
+Computer Science	F	False	0	False	1.0	1.0	True
+Computer Science	F	False	0	False	1.0	1.0	True
+Computer Science	M	False	0	False	4.0		False
+Computer Science	M	False	0	False	1.0	1.0	True
+Computer Science	M	False	0	False	1.0	1.0	True
+Computer Science	M	False	0	False	1.0	1.0	True
+Computer Science	M	False	0	False	1.0	1.0	True
+Computer Science	M	False	0	False	1.0	1.0	True
+Computer Science	M	False	0	False	4.0	0.0	True
+Computer Science	M	False	0	False	1.0	0.0	True
+Computer Science	M	False	0	False	4.0		False
+Computer Science	M	False	0	False	1.0	1.0	True
+Computer Science	M	False	0	False	1.0	1.0	True
+Computer Science	M	False	0	False	1.0	1.0	True
+Computer Science	M	False	0	False	4.0	1.0	True
+Computer Science	M	False	0	False	1.0	1.0	True
+Computer Science	M	False	0	False	4.0	0.0	True
+Computer Science	M	False	0	False	1.0		False
+Computer Science	M	False	0	False	4.0		False
+Computer Science	M	False	0	False	1.0	1.0	True
+Computer Science	F	False	0	False	4.0	1.0	True
+Computer Science	M	False	0	False	4.0	0.0	True
+Computer Science	M	False	0	False	1.0	1.0	True
+Computer Science	M	False	0	False	4.0		False
+Computer Science	F	False	0	False	4.0		False
+Computer Science	M	False	0	False	1.0	1.0	True
+Computer Science	M	False	0	False	2.0	1.0	True
+Computer Science	M	False	0	False	1.0	1.0	True
+Computer Science	M	False	0	False	1.0	1.0	True
+Computer Science	M	False	0	False	1.0	1.0	True
+Computer Science	M	False	0	False	1.0	1.0	True
+Computer Science	M	False	0	False	4.0		False
+Computer Science	M	False	1	True	1.0	0.0	True
+Computer Science	M	False	0	False	2.0	1.0	True
+Computer Science	M	False	0	False	1.0	1.0	True
+Computer Science	M	False	0	False	1.0	0.0	True
+Computer Science	M	False	0	False	1.0	1.0	True
+Computer Science	M	False	2	False	1.0	2.0	True
+Computer Science	M	False	0	False	4.0	1.0	True
+Computer Science	M	False	0	False	1.0	1.0	True
+Computer Science	M	False	0	False	1.0		False
+Computer Science	M	False	0	False	1.0	1.0	True
+Computer Science	M	False	2	False	1.0	2.0	True
+Computer Science	M	False	0	False	2.0	1.0	True
+Computer Science	M	False	0	False	3.0	1.0	True
+Computer Science	M	False	0	False	2.0	1.0	True
+Computer Science	M	False	0	False	1.0	1.0	True
+Computer Science	M	False	0	False	4.0	0.0	True
+Computer Science	M	False	0	False	4.0	0.0	True
+Computer Science	F	False	0	False	4.0		False
+Computer Science	M	False	0	False	1.0	1.0	True
+Computer Science	F	False	0	False	1.0		False
+Computer Science	M	False	0	False	4.0		False
+Computer Science	M	False	0	False	1.0	0.0	True
+Computer Science	M	False	0	False	1.0	1.0	True
+Computer Science	M	False	0	False	4.0		False
+Computer Science	M	False	0	False	1.0	1.0	True
+Computer Science	M	False	0	False	4.0	0.0	True
+Computer Science	M	False	0	False	4.0		False
+Computer Science	M	False	0	False	4.0		False
+Computer Science	M	False	0	False	1.0	1.0	True
+Computer Science	M	False	0	False	1.0	0.0	True
+Computer Science	M	False	0	False	1.0	1.0	True
+Computer Science	M	False	0	False	1.0	0.0	True
+Computer Science	M	False	3	False	4.0	2.0	True
+Computer Science	M	False	0	False	1.0	1.0	True
+Computer Science	F	False	0	False	1.0		False
+Computer Science	M	False	0	False	1.0	0.0	True
+Computer Science	M	False	0	False		1.0	True
+Computer Science	M	False	0	False	4.0		False
+Computer Science	M	False	0	False	1.0		False
+Computer Science	M	False	0	False	1.0	1.0	True
+Computer Science	M	False	0	False	1.0	1.0	True
+Computer Science	M	False	0	False	4.0		False
+Computer Science	M	False	0	False	4.0	1.0	True
+Computer Science	M	False	2	False	1.0	2.0	True
+Computer Science	M	False	0	False	1.0		False
+Computer Science	M	False	0	False	4.0	1.0	True
+Computer Science	F	False	2	True	4.0	2.0	True
+Computer Science	M	False	0	False	4.0	1.0	True
+Computer Science	M	False	0	False	2.0	1.0	True
+Computer Science	F	False	0	False	4.0	0.0	True
+Computer Science	M	False	0	False	1.0		False
+Computer Science	M	False	0	False	1.0	1.0	True
+Computer Science	F	False	0	False	4.0	0.0	True
+Computer Science	F	False	0	False	1.0	1.0	True
+Computer Science	M	False	0	False	4.0	1.0	True
+Computer Science	M	False	2	False	1.0	2.0	True
+Computer Science	M	False	1	False	1.0	2.0	True
+Computer Science	M	False	0	False	4.0	1.0	True
+Computer Science	M	False	0	False	4.0	1.0	True
+Computer Science	M	False	0	False	1.0	1.0	True
+Computer Science	M	False	0	False	1.0	1.0	True
+Computer Science	M	False	0	False	4.0		False
+Computer Science	M	False	0	False	4.0	1.0	True
+Computer Science	M	False	0	False	1.0	1.0	True
+Computer Science	M	False	0	False	1.0	1.0	True
+Computer Science	F	False	0	False	4.0		False
+Computer Science	M	False	0	False	1.0	1.0	True
+Computer Science	F	False	1	True		2.0	True
+Computer Science	M	False	2	True	1.0	2.0	True
+Computer Science	M	False	0	False	1.0	1.0	True
+Computer Science	M	False	1	True	1.0	2.0	True
+Computer Science	M	False	1	False	1.0	1.0	True
+Computer Science	M	False	0	False	1.0		False
+Computer Science	M	False	0	False	1.0	1.0	True
+Computer Science	F	False	2	True	1.0	0.0	True
+Computer Science	M	False	0	False	1.0	1.0	True
+Computer Science	M	False	0	False	1.0	1.0	True
+Computer Science	F	False	0	False	4.0	1.0	True
+Computer Science	M	False	0	False	1.0		False
+Computer Science	M	False	1	False	2.0	1.0	True
+Computer Science	M	False	0	False	4.0	1.0	True
+Computer Science	M	False	0	False	1.0	1.0	True
+Computer Science	M	False	0	False	1.0	1.0	True
+Computer Science	M	False	0	False	1.0	0.0	True
+Computer Science	M	False	0	False	1.0	0.0	True
+Computer Science	M	False	0	False	1.0	1.0	True
+Computer Science	M	False	0	False	1.0	1.0	True
+Computer Science	M	False	0	False	2.0	1.0	True
+Computer Science	M	False	0	False	4.0		False
+Computer Science	M	False	0	False	4.0		False
+Computer Science	M	False	0	False	1.0	1.0	True
+Computer Science	M	False	1	True	2.0	2.0	True
+Computer Science	M	False	0	False	4.0	1.0	True
+Computer Science	M	False	0	False	1.0	1.0	True
+Computer Science	M	False	0	False	1.0	1.0	True
+Computer Science	M	False	0	False	1.0		False
+Computer Science	F	False	0	False	1.0	0.0	True
+Computer Science	M	False	0	False	1.0		False
+Computer Science	M	False	0	False	1.0	1.0	True
+Computer Science	M	False	0	False	2.0	1.0	True
+Computer Science	M	False	0	False	1.0	1.0	True
+Computer Science	F	False	0	False	2.0	1.0	True
+Computer Science	M	False	0	False	1.0	1.0	True
+Computer Science	M	False	0	False	4.0	1.0	True
+Computer Science	M	False	0	False	4.0		False
+Computer Science	M	False	0	False	1.0		False
+Computer Science	M	False	0	False	4.0	0.0	True
+Computer Science	F	False	0	False	1.0		False
+Computer Science	M	False	0	False	1.0	1.0	True
+Computer Science	M	False	0	False	2.0	0.0	True
+Computer Science	M	False	0	False	1.0	1.0	True
+Computer Science	F	False	0	False	1.0		False
+Computer Science	M	False	0	False	1.0	1.0	True
+Computer Science	M	False	2	True	1.0	2.0	True
+Computer Science	M	False	0	False	1.0	1.0	True
+Computer Science	F	False	0	False	1.0		False
+Computer Science	M	False	0	False	4.0	1.0	True
+Computer Science	M	False	0	False	1.0	0.0	True
+Computer Science	F	False	2	True	1.0	2.0	True
+Computer Science	M	False	0	False	1.0	1.0	True
+Computer Science	M	False	2	False	1.0	2.0	True
+Computer Science	M	False	1	True	1.0	2.0	True
+Computer Science	M	False	0	False	3.0	1.0	True
+Computer Science	M	False	0	False	1.0		False
+Computer Science	M	False	0	False	1.0	1.0	True
+Computer Science	M	False	0	False	1.0	0.0	True
+Computer Science	M	False	1	False	1.0	1.0	True
+Computer Science	F	False	1	False	4.0	0.0	True
+Computer Science	M	False	0	False	1.0	1.0	True
+Computer Science	M	False	0	False	1.0	1.0	True
+Computer Science	M	False	0	False	1.0	1.0	True
+Computer Science	F	False	0	False	1.0		False
+Computer Science	M	False	0	False	1.0	0.0	True
+Computer Science	M	False	0	False	1.0	1.0	True
+Computer Science	M	False	0	False	4.0	1.0	True
+Computer Science	M	False	2	False	1.0	2.0	True
+Computer Science	F	False	0	False	1.0		False
+Computer Science	M	False	0	False	1.0	1.0	True
+Computer Science	M	False	0	False	1.0	1.0	True
+Computer Science	M	False	0	False	1.0	0.0	True
+Computer Science	F	False	2	True	3.0	2.0	True
+Computer Science	M	False	0	False	1.0	1.0	True
+Computer Science	M	False	2	False	1.0	2.0	True
+Computer Science	F	False	0	False	4.0		False
+Computer Science	M	False	1	True	1.0	2.0	True
+Computer Science	M	False	0	False	1.0	0.0	True
+Computer Science	M	False	0	False	1.0		False
+Computer Science	M	False	1	True	2.0	2.0	True
+Computer Science	F	False	1	True	2.0	1.0	True
+Computer Science	F	False	0	False	4.0	0.0	True
+Computer Science	M	False	3	True		2.0	True
+Computer Science	F	False	1	True	2.0	1.0	True
+Computer Science	M	False	0	False	1.0	1.0	True
+Computer Science	M	False	0	False	1.0		False
+Computer Science	M	False	0	False	1.0	0.0	True
+Computer Science	M	False	0	False	1.0	0.0	True
+Computer Science	F	False	0	False	4.0	0.0	True
+Computer Science	F	False	2	True	1.0	2.0	True
+Computer Science	M	False	0	False	1.0	1.0	True
+Computer Science	F	False	1	True	4.0	1.0	True
+Computer Science	F	False	0	False	1.0	0.0	True
+Computer Science	M	False	0	False			False
+Computer Science	M	False	0	False	2.0	1.0	True
+Computer Science	F	False	1	True	3.0	2.0	True
+Computer Science	M	False	0	False	1.0	1.0	True
+Computer Science	F	False	0	False	3.0	0.0	True
+Computer Science	M	False	0	False		1.0	True
+Computer Science	M	False	0	False	1.0	1.0	True
+Computer Science	M	False	1	True	1.0	2.0	True
+Computer Science	M	False	0	False	1.0	0.0	True
+Computer Science	M	False	0	False	1.0	1.0	True
+Computer Science	M	False	0	False	4.0		False
+Computer Science	M	False	0	False	1.0	0.0	True
+Computer Science	F	False	0	False	1.0		False
+Computer Science	M	False	0	False	1.0		False
+Computer Science	M	False	0	False	2.0	1.0	True
+Computer Science	M	False	0	False	1.0	1.0	True
+Computer Science	M	False	0	False	1.0	1.0	True
+Computer Science	M	False	0	False	1.0	1.0	True
+Computer Science	M	False	0	False	1.0	1.0	True
+Computer Science	M	False	4	False	1.0	2.0	True
+Computer Science	M	False	0	False	1.0	1.0	True
+Computer Science	M	False	0	False	1.0		False
+Computer Science	M	False	0	False	1.0	1.0	True
+Computer Science	F	False	0	False			False
+Computer Science	M	False	1	True	2.0	2.0	True
+Computer Science	M	False	0	False	1.0	1.0	True
+Computer Science	M	False	0	False	1.0	1.0	True
+Computer Science	M	False	0	False	1.0	1.0	True
+Computer Science	F	False	1	True	1.0	1.0	True
+Computer Science	M	False	0	False	1.0	1.0	True
+Computer Science	F	False	0	False	1.0	0.0	True
+Computer Science	M	False	0	False	4.0		False
+Computer Science	M	False	2	False	1.0	2.0	True
+Computer Science	M	False	0	False	4.0	0.0	True
+Computer Science	F	False	2	True	1.0	2.0	True
+Computer Science	M	False	0	False	1.0		False
+Computer Science	F	False	3	True	2.0	2.0	True
+Computer Science	F	False	2	True	1.0	2.0	True
+Computer Science	M	False	2	True	1.0	2.0	True
+Computer Science	F	False	0	False	3.0		False
+Computer Science	F	False	0	False	4.0		False
+Computer Science	M	False	0	False	1.0	1.0	True
+Computer Science	F	False	0	False	1.0		False
+Computer Science	M	False	0	False	1.0	1.0	True
+Computer Science	F	False	2	False	3.0	2.0	True
+Computer Science	F	False	0	False	4.0	0.0	True
+Computer Science	M	False	1	True	1.0	2.0	True
+Computer Science	M	False	3	True	1.0	2.0	True
+Computer Science	M	False	0	False	1.0	1.0	True
+Computer Science	M	False	0	False	1.0	1.0	True
+Computer Science	M	False	2	False	1.0	2.0	True
+Computer Science	M	False	0	False	1.0	1.0	True
+Computer Science	F	False	0	False	1.0		False
+Computer Science	M	False	2	False	1.0	2.0	True
+Computer Science	M	False	0	False	1.0		False
+Computer Science	F	False	2	True	3.0	2.0	True
+Computer Science	M	False	0	False	4.0		False
+Computer Science	M	False	0	False	4.0		False
+Computer Science	M	False	0	False	1.0		False
+Computer Science	M	False	1	True	1.0	2.0	True
+Computer Science	M	False	0	False	2.0	1.0	True
+Computer Science	M	False	0	False	1.0		False
+Computer Science	M	False	0	False	4.0	0.0	True
+Computer Science	M	False	0	False	2.0	0.0	True
+Computer Science	M	False	0	False	1.0	0.0	True
+Computer Science	M	False	0	False	1.0		False
+Computer Science	F	False	0	False	2.0	1.0	True
+Computer Science	M	False	0	False	1.0	1.0	True
+Computer Science	M	False	0	False	1.0	1.0	True
+Computer Science	M	False	0	False	2.0	1.0	True
+Computer Science	F	False	2	True	1.0	2.0	True
+Computer Science	M	False	1	True	1.0	1.0	True
+Computer Science	M	False	0	False	2.0	0.0	True
+Computer Science	M	False	3	True	1.0	2.0	True
+Computer Science	M	False	2	False	4.0	2.0	True
+Computer Science	M	False	0	False	4.0		False
+Computer Science	M	False	2	True	1.0	2.0	True
+Computer Science	M	False	0	False	2.0	1.0	True
+Computer Science	M	False	0	False	1.0	1.0	True
+Computer Science	M	False	0	False	4.0	1.0	True
+Computer Science	M	False	0	False	4.0	0.0	True
+Computer Science	M	False	0	False	2.0	1.0	True
+Computer Science	M	False	0	False	1.0		False
+Computer Science	M	False	0	False	1.0		False
+Computer Science	M	False	0	False	4.0	1.0	True
+Computer Science	M	False	1	True	1.0	2.0	True
+Computer Science	M	False	0	False	1.0	0.0	True
+Computer Science	M	False	2	True	1.0	2.0	True
+Computer Science	M	False	0	False	1.0		False
+Computer Science	M	False	1	True	3.0	2.0	True
+Computer Science	F	False	1	False	2.0	1.0	True
+Computer Science	F	False	2	True	3.0	2.0	True
+Computer Science	M	False	0	False	1.0	1.0	True
+Computer Science	M	False	2	True	2.0	2.0	True
+Computer Science	M	False	0	False	1.0	1.0	True
+Computer Science	M	False	2	True	2.0	1.0	True
+Computer Science	M	False	2	True	1.0	2.0	True
+Computer Science	M	False	1	True	3.0	2.0	True
+Computer Science	F	False	0	False	4.0	1.0	True
+Computer Science	M	False	1	True	1.0	1.0	True
+Computer Science	M	False	0	False	1.0	0.0	True
+Computer Science	M	False	0	False	4.0	1.0	True
+Computer Science	M	False	0	False	1.0	1.0	True
+Computer Science	F	False	0	False	1.0	0.0	True
+Computer Science	M	False	0	False	4.0		False
+Computer Science	M	False	0	False	1.0	1.0	True
+Computer Science	M	False	0	False	1.0	1.0	True
+Computer Science	M	False	3	False	1.0	2.0	True
+Computer Science	M	False	2	True	1.0	0.0	True
+Computer Science	M	False	0	False	1.0	1.0	True
+Computer Science	M	False	1	True	3.0	0.0	True
+Computer Science	M	False	0	False	1.0		False
+Computer Science	M	False	0	False	1.0	0.0	True
+Computer Science	F	False	2	True	4.0	2.0	True
+Computer Science	F	False	2	True	1.0	2.0	True
+Computer Science	M	False	0	False	4.0	1.0	True
+Computer Science	M	False	0	False	1.0	1.0	True
+Computer Science	M	False	0	False	1.0	0.0	True
+Computer Science	M	False	0	False	2.0	0.0	True
+Computer Science	M	False	0	False	2.0	0.0	True
+Computer Science	M	False	0	False	4.0	0.0	True
+Computer Science	M	False	1	False	1.0	2.0	True
+Computer Science	F	False	1	True	1.0	2.0	True
+Computer Science	F	False	0	False	4.0		False
+Computer Science	M	False	0	False	1.0	0.0	True
+Computer Science	F	False	0	False	4.0	0.0	True
+Computer Science	M	False	0	False	1.0		False
+Computer Science	M	False	2	True	1.0	2.0	True
+Computer Science	M	False	0	False	1.0		False
+Computer Science	M	False	1	False	1.0	2.0	True
+Computer Science	M	False	1	True	1.0	2.0	True
+Computer Science	M	False	0	False	4.0		False
+Computer Science	M	False	0	False	2.0	0.0	True
+Computer Science	M	False	0	False	1.0	1.0	True
+Computer Science	M	False	0	False	1.0	0.0	True
+Computer Science	F	False	0	False	4.0		False
+Computer Science	M	False	0	False	4.0	1.0	True
+Computer Science	M	False	2	True	4.0	2.0	True
+Computer Science	M	False	0	False	1.0	1.0	True
+Computer Science	M	False	0	False	1.0	1.0	True
+Computer Science	F	False	1	True	1.0	2.0	True
+Computer Science	F	False	3	True	2.0	2.0	True
+Computer Science	F	False	2	True	3.0	2.0	True
+Computer Science	M	False	0	False	1.0	1.0	True
+Computer Science	F	False	1	True	1.0	2.0	True
+Computer Science	M	False	0	False	1.0	1.0	True
+Computer Science	F	False	2	True	3.0	2.0	True
+Computer Science	M	False	0	False	1.0	1.0	True
+Computer Science	M	False	1	True	1.0	2.0	True
+Computer Science	M	False	1	True	2.0	2.0	True
+Computer Science	F	False	2	True	1.0	1.0	True
+Computer Science	F	False	0	False	2.0	1.0	True
+Computer Science	M	False	1	False	1.0	1.0	True
+Computer Science	M	False	1	False	1.0	1.0	True
+Computer Science	M	False	0	False	1.0	1.0	True
+Computer Science	M	False	0	False	1.0	1.0	True
+Computer Science	F	False	1	True	2.0	2.0	True
+Computer Science	M	False	0	False	1.0		False
+Computer Science	M	False	0	False	1.0	0.0	True
+Computer Science	M	False	0	False	3.0	1.0	True
+Computer Science	M	False	2	True	1.0	0.0	True
+Computer Science	M	False	2	True	1.0	2.0	True
+Computer Science	M	False	2	True	1.0	2.0	True
+Computer Science	M	False	0	False	1.0		False
+Computer Science	M	False	0	False		1.0	True
+Computer Science	M	False	0	False	1.0		False
+Computer Science	M	False	0	False	1.0	1.0	True
+Computer Science	F	False	1	False	4.0	2.0	True
+Computer Science	M	False	2	True	2.0	2.0	True
+Computer Science	M	False	0	False	2.0		False
+Computer Science	M	False	2	False	1.0	2.0	True
+Computer Science	M	False	0	False	4.0	1.0	True
+Computer Science	M	False	0	False	4.0		False
+Computer Science	F	False	0	False	1.0		False
+Computer Science	F	False	2	True	4.0	2.0	True
+Computer Science	M	False	0	False	1.0		False
+Computer Science	M	False	1	True	1.0	0.0	True
+Computer Science	F	False	3	True	1.0	2.0	True
+Computer Science	M	False	0	False	1.0	1.0	True
+Computer Science	M	False	1	True	1.0	2.0	True
+Computer Science	M	False	0	False	1.0	0.0	True
+Computer Science	F	False	0	False	4.0		False
+Computer Science	M	False	0	False	1.0		False
+Computer Science	M	False	2	True	2.0	0.0	True
+Computer Science	F	False	2	True	2.0	2.0	True
+Computer Science	M	False	0	False	1.0		False
+Computer Science	M	False	2	False	1.0	2.0	True
+Computer Science	F	False	2	True	2.0	2.0	True
+Computer Science	M	False	2	False	1.0	2.0	True
+Computer Science	F	False	2	True	1.0	2.0	True
+Computer Science	M	False	2	True	1.0	2.0	True
+Computer Science	F	False	2	True	2.0	2.0	True
+Computer Science	M	False	0	False	1.0		False
+Computer Science	M	False	0	False	1.0	0.0	True
+Computer Science	M	False	2	True	1.0	2.0	True
+Computer Science	M	False	2	True	2.0	2.0	True
+Computer Science	M	False	0	False	2.0	1.0	True
+Computer Science	M	False	1	True	1.0	2.0	True
+Computer Science	M	False	2	True	3.0	2.0	True
+Computer Science	F	False	0	False	2.0		False
+Computer Science	F	False	1	True	1.0	2.0	True
+Computer Science	M	False	0	False	1.0	0.0	True
+Computer Science	M	False	0	False	2.0	0.0	True
+Computer Science	F	False	1	True	2.0	2.0	True
+Computer Science	F	False	0	False	1.0	1.0	True
+Computer Science	M	False	1	True	2.0	2.0	True
+Computer Science	M	False	0	False	1.0	1.0	True
+Computer Science	M	False	0	False	1.0	1.0	True
+Computer Science	M	False	2	True	1.0	2.0	True
+Computer Science	M	False	0	False	1.0		False
+Computer Science	M	False	0	False	4.0		False
+Computer Science	M	False	0	False	1.0	1.0	True
+Computer Science	F	False	2	True	3.0	2.0	True
+Computer Science	M	False	0	False	1.0		False
+Computer Science	F	False	2	True	2.0	2.0	True
+Computer Science	F	False	0	False	1.0	0.0	True
+Computer Science	M	False	2	True	1.0	2.0	True
+Computer Science	M	False	0	False	2.0	1.0	True
+Computer Science	M	False	1	True	1.0	2.0	True
+Computer Science	F	False	0	False	4.0	0.0	True
+Computer Science	M	False	0	False	1.0		False
+Computer Science	F	False	2	True	2.0	2.0	True
+Computer Science	M	False	0	False	1.0	1.0	True
+Computer Science	M	False	1	False	1.0	2.0	True
+Computer Science	M	False	0	False	2.0	0.0	True
+Computer Science	M	False	1	True	2.0	2.0	True
+Computer Science	M	False	1	True	1.0	0.0	True
+Computer Science	M	False	3	False	1.0	2.0	True
+Computer Science	M	False	0	False	2.0		False
+Computer Science	F	False	1	True	1.0	2.0	True
+Computer Science	M	False	0	False	4.0	1.0	True
+Computer Science	F	False	0	False	2.0	0.0	True
+Computer Science	M	False	4	True	1.0	2.0	True
+Computer Science	M	False	1	True	2.0	2.0	True
+Computer Science	M	False	2	True	1.0	2.0	True
+Computer Science	F	False	2	True	3.0	2.0	True
+Computer Science	M	False	0	False	1.0	0.0	True
+Computer Science	M	False	2	False	2.0	2.0	True
+Computer Science	M	False	1	True	4.0	1.0	True
+Computer Science	F	False	0	False	1.0		False
+Computer Science	M	False	2	True	1.0	2.0	True
+Computer Science	M	False	0	False	4.0	1.0	True
+Computer Science	F	False	2	True	3.0	2.0	True
+Computer Science	F	False	2	True	2.0	2.0	True
+Computer Science	F	False	2	True	2.0	2.0	True
+Computer Science	F	False	1	True	1.0	2.0	True
+Computer Science	M	False	0	False	1.0	1.0	True
+Computer Science	F	False	0	False	4.0		False
+Computer Science	M	False	0	False	4.0	0.0	True
+Computer Science	M	False	0	False	4.0		False
+Computer Science	M	False	0	False	4.0		False
+Computer Science	M	False	0	False	1.0		False
+Computer Science	M	False	1	False	1.0	1.0	True
+Computer Science	M	False	0	False	1.0		False
+Computer Science	M	False	0	False	1.0		False
+Computer Science	M	False	0	False	1.0		False
+Computer Science	M	False	0	False	1.0		False
+Computer Science	M	False	0	False	2.0	1.0	True
+Computer Science	F	False	0	False	4.0		False
+Computer Science	F	False	1	True	3.0	2.0	True
+Computer Science	M	False	1	True	2.0	2.0	True
+Computer Science	F	False	1	True	2.0	2.0	True
+Computer Science	M	False	0	False	1.0		False
+Computer Science	M	False	0	False	1.0	0.0	True
+Computer Science	F	False	1	True	2.0	2.0	True
+Computer Science	M	False	1	True	1.0	2.0	True
+Computer Science	F	False	1	False	1.0	2.0	True
+Computer Science	M	False	0	False	1.0	0.0	True
+Computer Science	F	False	1	True	3.0	2.0	True
+Computer Science	M	False	0	False	1.0	1.0	True
+Computer Science	M	False	1	True	1.0	2.0	True
+Computer Science	M	False	0	False	1.0	0.0	True
+Computer Science	M	False	1	False	1.0	2.0	True
+Computer Science	M	False	2	True	2.0	2.0	True
+Computer Science	M	False	2	True	4.0	2.0	True
+Computer Science	F	True	0	False	1.0	0.0	True
+Computer Science	M	True	0	False		1.0	True
+Computer Science	M	True	0	False	1.0		False
+Computer Science	M	True	1	True	3.0	2.0	True
+Computer Science	M	True	0	False	3.0		False
+Computer Science	M	True	0	False	4.0	1.0	True
+Computer Science	M	True	0	False	4.0	1.0	True
+Computer Science	M	True	0	False	2.0		False
+Computer Science	M	True	2	False	1.0	2.0	True
+Computer Science	M	True	1	True	4.0	2.0	True
+Computer Science	M	True	2	True	2.0	2.0	True
+Computer Science	F	True	0	False	1.0	0.0	True
+Computer Science	M	True	0	False	1.0		False
+Computer Science	M	True	0	False	1.0	1.0	True
+Computer Science	M	True	0	False	1.0	1.0	True
+Computer Science	M	True	2	True	1.0	2.0	True
+Computer Science	F	True	1	False	1.0	2.0	True
+Computer Science	M	True	0	False	1.0	0.0	True
+Computer Science	M	True	2	True	2.0	1.0	True
+Computer Science	M	True	0	False	1.0		False
+Computer Science	M	True	1	True	2.0	2.0	True
+Computer Science	M	True	0	False	3.0	1.0	True
+Computer Science	M	True	2	True	4.0	2.0	True
+Computer Science	M	True	2	False	1.0	2.0	True
+Computer Science	M	True	0	False	3.0	0.0	True
+Computer Science	M	True	0	False	1.0		False
+Computer Science	F	True	2	True	3.0	2.0	True
+Computer Science	M	True	1	False	2.0	2.0	True
+Computer Science	M	True	1	False	1.0	2.0	True
+Computer Science	F	True	0	False	1.0	0.0	True
+Computer Science	M	True	0	False	4.0	1.0	True
+Computer Science	M	True	2	True	2.0	2.0	True
+Computer Science	F	True	0	False	2.0		False
+Computer Science	F	True	0	False	2.0		False
+Computer Science	M	True	0	False	1.0	1.0	True
+Computer Science	M	True	0	False	1.0		False
+Computer Science	M	True	0	False	4.0	1.0	True
+Computer Science	M	True	2	True	1.0	2.0	True
+Computer Science	F	True	0	False	4.0	1.0	True
+Computer Science	M	True	1	True	2.0	2.0	True
+Computer Science	M	True	0	False	2.0		False
+Computer Science	M	True	0	False	1.0	0.0	True
+Computer Science	M	True	0	False	1.0	1.0	True
+Computer Science	M	True	1	False	1.0	2.0	True
+Computer Science	M	True	0	False	1.0		False
+Computer Science	F	True	1	True	3.0	2.0	True
+Computer Science	M	True	0	False	1.0	0.0	True
+Computer Science	M	True	1	True	1.0	2.0	True
+Computer Science	M	True	0	False	1.0		False
+Computer Science	M	True	1	True	4.0	2.0	True
+Computer Science	M	True	0	False	4.0		False
+Computer Science	F	True	1	True	2.0	2.0	True
+Computer Science	F	True	1	True	2.0	2.0	True
+Computer Science	M	True	1	False	2.0	1.0	True
+Computer Science	M	True	0	False	2.0		False
+Computer Science	M	True	2	True	2.0	2.0	True
+Computer Science	M	True	0	False	4.0	1.0	True
+Computer Science	M	True	0	False	2.0	1.0	True
+Computer Science	M	True	0	False	2.0		False
+Computer Science	F	True	0	False	3.0		False
+Computer Science	M	True	0	False	1.0	0.0	True
+Computer Science	M	True	0	False	4.0	0.0	True
+Computer Science	M	True	0	False	1.0		False
+Computer Science	M	True	0	False	4.0		False
+Computer Science	F	True	0	False	3.0		False
+Computer Science	M	True	0	False	1.0		False
+Computer Science	M	True	2	True	2.0	2.0	True
+Computer Science	M	True	0	False	1.0	0.0	True
+Computer Science	F	True	0	False	2.0		False
+Computer Science	M	True	0	False	1.0	1.0	True
+Computer Science	F	True	1	True	1.0	2.0	True
+Computer Science	M	True	1	True	2.0	2.0	True
+Computer Science	M	True	0	False	1.0		False
+Computer Science	F	True	0	False	2.0		False
+Computer Science	M	True	1	True	1.0	2.0	True
+Computer Science	M	True	0	False	4.0		False
+Computer Science	M	True	0	False	4.0	0.0	True
+Computer Science	M	True	0	False	1.0		False
+Computer Science	M	True	0	False	3.0		False
+Computer Science	M	True	1	False	2.0	0.0	True
+Computer Science	M	True	0	False	2.0	0.0	True
+Computer Science	F	True	0	False	2.0		False
+Computer Science	M	True	0	False	4.0		False
+Computer Science	M	True	0	False	1.0		False
+Computer Science	M	True	0	False	4.0	1.0	True
+Computer Science	F	True	0	False	1.0		False
+Computer Science	M	True	0	False	2.0	0.0	True
+Computer Science	M	True	1	True	2.0	2.0	True
+Computer Science	M	True	0	False	4.0		False
+Computer Science	M	True	0	False	2.0		False
+Computer Science	M	True	2	True	4.0	2.0	True
+Computer Science	M	True	2	False	1.0	2.0	True
+Computer Science	M	True	1	True	2.0	2.0	True
+Computer Science	M	True	0	False	1.0		False
+Computer Science	F	True	0	False	1.0		False
+Computer Science	M	True	0	False	1.0		False
+Computer Science	F	True	1	True	4.0	2.0	True
+Computer Science	M	True	0	False	4.0		False
+Computer Science	M	True	0	False	1.0		False
+Computer Science	M	True	1	True	1.0	0.0	True
+Computer Science	M	True	0	False	1.0		False
+Computer Science	F	True	0	False	1.0		False
+Computer Science	F	True	0	False	1.0		False
+Computer Science	M	True	0	False	4.0	1.0	True
+Computer Science	F	True	0	False	4.0		False
+Computer Science	M	True	0	False	3.0		False
+Computer Science	F	True	0	False	3.0		False
+Computer Science	M	True	3	False	1.0	2.0	True
+Computer Science	M	True	1	True	2.0	1.0	True
+Computer Science	M	True	0	False	4.0		False
+Computer Science	M	True	0	False	1.0	0.0	True
+Computer Science	F	True	0	False	2.0	1.0	True
+Computer Science	M	True	0	False	1.0	0.0	True
+Computer Science	M	True	1	False	3.0	2.0	True
+Computer Science	M	True	0	False	1.0	0.0	True
+Computer Science	M	True	0	False	1.0		False
+Computer Science	M	True	1	True	1.0	0.0	True
+Computer Science	M	True	0	False	2.0		False
+Computer Science	F	True	0	False	2.0	1.0	True
+Computer Science	M	True	2	False	1.0	2.0	True
+Computer Science	M	True	1	True	2.0	2.0	True
+Computer Science	M	True	0	False	2.0		False
+Computer Science	F	True	0	False	4.0		False
+Computer Science	M	True	2	True	1.0	2.0	True
+Computer Science	F	True	1	True	2.0	2.0	True
+Computer Science	M	True	0	False	4.0	0.0	True
+Computer Science	M	True	0	False	1.0	1.0	True
+Computer Science	M	True	2	True	3.0	2.0	True
+Computer Science	M	True	0	False	4.0		False
+Computer Science	M	True	0	False	1.0		False
+Computer Science	M	True	0	False	3.0		False
+Computer Science	M	True	0	False	4.0		False
+Computer Science	F	True	1	True	3.0	2.0	True
+Computer Science	M	True	0	False	2.0	1.0	True
+Computer Science	M	True	1	True	1.0	0.0	True
+Computer Science	M	True	0	False	2.0	0.0	True
+Computer Science	M	True	1	True	2.0	0.0	True
+Computer Science	F	True	0	False	1.0		False
+Computer Science	M	True	1	True	1.0	1.0	True
+Computer Science	M	True	0	False	2.0		False
+Computer Science	F	True	0	False	2.0		False
+Computer Science	F	True	0	False	1.0		False
+Computer Science	M	True	0	False	1.0		False
+Computer Science	M	True	0	False	4.0		False
+Computer Science	M	True	0	False	2.0		False
+Computer Science	M	True	0	False	2.0	0.0	True
+Computer Science	F	True	0	False	4.0		False
+Computer Science	M	True	0	False	1.0		False
+Computer Science	M	True	0	False	1.0		False
+Computer Science	M	True	0	False	2.0	1.0	True
+Computer Science	M	True	1	False	4.0	0.0	True
+Computer Science	M	True	0	False	1.0		False
+Computer Science	M	True	1	False	1.0	2.0	True
+Computer Science	M	True	0	False	2.0	0.0	True
+Computer Science	F	True	1	True	2.0	2.0	True
+Computer Science	M	True	0	False			False
+Computer Science	F	True	0	False	4.0		False
+Computer Science	M	True	0	False	1.0	1.0	True
+Computer Science	F	True	0	False	2.0		False
+Computer Science	M	True	0	False	2.0		False
+Computer Science	M	True	0	False	2.0		False
+Computer Science	M	True	0	False	2.0		False
+Computer Science	M	True	0	False	4.0	1.0	True
+Computer Science	F	True	0	False		0.0	True
+Computer Science	M	True	0	False	1.0	1.0	True
+Computer Science	M	True	0	False	2.0		False
+Computer Science	M	True	0	False	1.0	1.0	True
+Computer Science	M	True	0	False	2.0	1.0	True
+Computer Science	M	True	0	False	1.0		False
+Computer Science	M	True	0	False	1.0	0.0	True
+Computer Science	M	True	0	False	1.0		False
+Computer Science	F	True	0	False	2.0		False
+Computer Science	M	True	1	False	2.0	2.0	True
+Computer Science	M	True	0	False	2.0		False
+Computer Science	M	True	0	False	1.0		False
+Computer Science	F	True	0	False	1.0		False
+Computer Science	M	True	0	False	2.0	0.0	True
+Computer Science	M	True	0	False	1.0	1.0	True
+Computer Science	M	True	0	False			False
+Computer Science	M	True	0	False	1.0		False
+Computer Science	M	True	0	False	1.0		False
+Computer Science	M	True	1	True	2.0	2.0	True
+Computer Science	F	True	0	False	2.0		False
+Computer Science	F	True	0	False	1.0		False
+Computer Science	M	True	0	False	2.0		False
+Computer Science	M	True	0	False	2.0		False
+Computer Science	M	True	0	False	4.0		False
+Computer Science	M	True	1	True	3.0	1.0	True
+Computer Science	M	True	0	False	3.0		False
+Computer Science	M	True	0	False	2.0		False
+Computer Science	M	True	0	False	1.0		False
+Computer Science	M	True	0	False	1.0		False
+Computer Science	F	True	0	False	3.0		False
+Computer Science	F	True	1	True	4.0	2.0	True
+Computer Science	M	True	0	False	1.0		False
+Computer Science	M	True	2	False	1.0	2.0	True
+Computer Science	M	True	0	False	1.0		False
+Computer Science	M	True	0	False	1.0		False
+Computer Science	M	True	0	False	4.0		False
+Computer Science	M	True	0	False	2.0		False
+Computer Science	M	True	2	True	1.0	2.0	True
+Computer Science	M	True	0	False	4.0		False
+Computer Science	M	True	0	False	2.0	0.0	True
+Computer Science	M	True	0	False	2.0		False
+Computer Science	M	True	2	True	3.0	2.0	True
+Computer Science	M	True	1	False	1.0	2.0	True
+Computer Science	M	True	0	False	1.0		False
+Computer Science	M	True	0	False	2.0		False
+Computer Science	M	True	4	False	1.0	2.0	True
+Computer Science	M	True	0	False	4.0		False
+Computer Science	F	True	0	False	3.0	1.0	True
+Computer Science	M	True	0	False	2.0		False
+Computer Science	M	True	0	False	1.0	1.0	True
+Computer Science	M	True	0	False	1.0		False
+Computer Science	M	True	0	False	1.0		False
+Computer Science	M	True	0	False	1.0		False
+Computer Science	M	True	0	False	1.0		False
+Computer Science	M	True	0	False	1.0		False
+Computer Science	M	True	0	False	2.0		False
+Computer Science	M	True	0	False	4.0		False
+Computer Science	M	True	0	False	1.0	0.0	True
+Computer Science	M	True	0	False	1.0		False
+Computer Science	M	True	1	True	2.0	1.0	True
+Computer Science	F	True	0	False	2.0		False
+Computer Science	M	True	0	False	2.0		False
+Computer Science	F	True	0	False	1.0	1.0	True
+Computer Science	M	True	0	False	1.0	1.0	True
+Computer Science	M	True	0	False	1.0		False
+Computer Science	M	True	0	False	4.0		False
+Computer Science	M	True	0	False	2.0		False
+Computer Science	M	True	0	False	3.0		False
+Computer Science	M	True	0	False	1.0		False
+Computer Science	M	True	0	False	1.0		False
+Computer Science	M	True	0	False	1.0		False
+Computer Science	M	True	0	False	2.0		False
+Computer Science	F	True	0	False	1.0		False
+Computer Science	F	True	0	False	1.0		False
+Computer Science	M	True	0	False	2.0	0.0	True
+Computer Science	M	True	0	False	4.0		False
+Computer Science	F	True	0	False	1.0		False
+Computer Science	M	True	0	False	1.0		False
+Computer Science	M	True	0	False			False
+Computer Science	M	True	0	False	1.0		False
+Computer Science	M	True	0	False	4.0		False
+Computer Science	M	True	0	False	1.0		False
+Computer Science	M	True	0	False	2.0	1.0	True
+Computer Science	M	True	0	False	2.0		False
+Computer Science	M	True	0	False	2.0		False
+Computer Science	M	True	0	False	1.0		False
+Computer Science	F	True	0	False	1.0		False
+Computer Science	M	True	0	False	1.0		False
+Computer Science	M	True	0	False	4.0		False
+Computer Science	M	True	0	False	1.0		False
+Computer Science	M	True	0	False	2.0		False
+Computer Science	M	True	0	False	1.0		False
+Computer Science	M	True	0	False	3.0		False
+Computer Science	M	True	0	False	1.0		False
+Computer Science	F	True	0	False	1.0		False
+Computer Science	F	True	0	False	2.0		False
+Computer Science	M	True	0	False	2.0		False
+Computer Science	M	True	0	False	2.0		False
+Computer Science	M	True	0	False	4.0		False
+Computer Science	M	True	0	False	1.0		False
+Computer Science	M	True	0	False	1.0		False
+Computer Science	M	True	0	False	1.0		False
+Computer Science	F	True	1	False	1.0	1.0	True
+Computer Science	M	True	0	False	2.0		False
+Computer Science	M	True	0	False	2.0		False
+Computer Science	M	False	0	False			True
+Computer Science	M	False	0	False			True
+Computer Science	M	False	0	False	1.0	1.0	True
+Computer Science	M	False	0	False		1.0	True
+Computer Science	M	False	0	False		1.0	True
+Computer Science	M	False	0	False		0.0	True
+Computer Science	M	False	0	False		1.0	True
+Computer Science	M	False	0	False			True
+Computer Science	M	False	0	False		1.0	True
+Computer Science	M	False	0	False			True
+Computer Science	M	False	0	False			True
+Computer Science	F	False	0	False			True
+Computer Science	M	False	3	False		2.0	True
+Computer Science	M	False	0	False			True
+Computer Science	M	False	2	True		2.0	True
+Computer Science	M	False	0	False		1.0	True
+Computer Science	M	False	0	False			True
+Computer Science	M	False	3	False		2.0	True
+Computer Science	M	False	0	False			True
+Computer Science	M	False	0	False			True
+Computer Science	M	False	0	False			False
+Computer Science	M	False	0	False	1.0	1.0	True
+Computer Science	M	False	0	False			False
+Computer Science	M	False	1	False		2.0	True
+Computer Science	M	False	0	False			True
+Computer Science	F	False	1	True		2.0	True
+Computer Science	M	False	0	False			False
+Computer Science	M	False	0	False		1.0	True
+Computer Science	M	False	0	False		0.0	True
+Computer Science	M	False	0	False			True
+Computer Science	M	False	0	False			True
+Computer Science	M	False	0	False			True
+Computer Science	M	False	0	False			False
+Computer Science	M	False	0	False		0.0	True
+Computer Science	M	False	0	False		1.0	True
+Computer Science	M	False	0	False			True
+Computer Science	F	False	0	False			True
+Computer Science	M	False	0	False			False
+Computer Science	M	False	0	False		0.0	True
+Computer Science	M	False	0	False			True
+Computer Science	M	False	0	False		1.0	True
+Computer Science	M	False	2	True		2.0	True
+Computer Science	F	False	0	False			False
+Computer Science	M	False	0	False			True
+Computer Science	F	False	0	False			True
+Computer Science	M	False	0	False			True
+Computer Science	M	False	0	False			False
+Computer Science	F	False	0	False	2.0	1.0	True
+Computer Science	F	False	0	False			False
+Computer Science	M	False	0	False		1.0	True
+Computer Science	F	False	0	False			True
+Computer Science	F	False	0	False			True
+Computer Science	F	False	2	True		2.0	True
+Computer Science	F	False	1	True	3.0	2.0	True
+Computer Science	M	False	2	True		2.0	True
+Computer Science	M	False	2	False		2.0	True
+Computer Science	M	False	0	False			False
+Computer Science	M	False	0	False			True
+Computer Science	M	False	1	True		2.0	True
+Computer Science	M	False	0	False			True
+Computer Science	F	False	0	False			True
+Computer Science	M	False	0	False			True
+Computer Science	F	True	0	False		0.0	True
+Computer Science	M	True	0	False			True
+Computer Science	M	True	0	False			True
+Computer Science	M	True	0	False			True
+Computer Science	M	True	0	False			False
+Computer Science	M	True	0	False	2.0		False
+Computer Science	M	True	0	False			True
+Computer Science	M	True	0	False			False
+Computer Science	M	True	0	False			True
+Computer Science	F	True	0	False			False
+Computer Science	M	True	0	False			False
+Computer Science	F	True	0	False			False
+Computer Science	M	True	0	False			False
+Computer Science	M	True	0	False			False
+Computer Science	F	True	0	False			False
+Computer Science	M	True	0	False		0.0	True
+Computer Science	M	True	0	False		1.0	True
+Computer Science	M	True	0	False			False
+Computer Science	M	True	0	False			False
+Computer Science	M	True	0	False		0.0	True
+Computer Science	M	True	0	False			False
+Computer Science	M	True	0	False			False
+Computer Science	M	True	0	False			False
+Computer Science	M	True	0	False			False
+Computer Science	M	False	0	False			True
+Computer Science	M	False	0	False			False
+Computer Science	M	False	0	False	4.0		False
+Computer Science	M	False	0	False	1.0	1.0	True
+Computer Science	F	False	0	False	1.0	0.0	True
+Computer Science	M	False	1	False	1.0	0.0	True
+Computer Science	M	False	2	False	2.0	2.0	True
+Computer Science	M	False	0	False	1.0	0.0	True
+Computer Science	F	True	0	False	3.0		False
+Computer Science	M	False	1	True	1.0	2.0	True
+Computer Science	M	True	0	False	1.0		False
+Computer Science	M	False	2	True	3.0	2.0	True
+Computer Science	M	False	0	False	4.0	1.0	True
+Computer Science	M	False	0	False	1.0	1.0	True
+Computer Science	F	True	0	False	2.0	1.0	True
+Computer Science	F	True	0	False	1.0	0.0	True
+Computer Science	M	False	3	False	1.0	2.0	True
+Computer Science	M	False	0	False	3.0	1.0	True
+Computer Science	M	False	0	False	1.0	1.0	True
+Computer Science	M	False	0	False	4.0	0.0	True
+Computer Science	M	False	0	False	2.0		False
+Computer Science	M	False	0	False	1.0	1.0	True
+Computer Science	M	False	0	False	4.0		False
+Computer Science	M	False	0	False	1.0	0.0	True
+Computer Science	M	True	0	False	1.0		False
+Computer Science	M	True	0	False	1.0		False
+Computer Science	M	False	0	False	1.0	1.0	True
+Computer Science	M	False	0	False	1.0	0.0	True
+Computer Science	M	False	2	False	1.0	2.0	True
+Computer Science	M	False	0	False	4.0	1.0	True
+Computer Science	M	False	0	False	1.0		False
+Computer Science	M	False	0	False		1.0	True
+Computer Science	M	False	0	False	4.0	1.0	True
+Computer Science	F	False	2	True	4.0	2.0	True
+Computer Science	M	False	0	False	1.0	1.0	True
+Computer Science	F	False	0	False	4.0		False
+Computer Science	F	False	2	True	2.0	2.0	True
+Computer Science	M	False	0	False		0.0	True
+Computer Science	M	False	2	False	2.0	2.0	True
+Computer Science	M	False	0	False	1.0	1.0	True
+Computer Science	M	False	0	False	4.0	0.0	True
+Computer Science	F	False	1	True	4.0	1.0	True

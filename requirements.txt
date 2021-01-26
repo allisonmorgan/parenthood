@@ -1,0 +1,15 @@
+matplotlib
+pandas
+xlrd
+numpy
+scipy
+statsmodels
+seaborn
+levenshtein
+fuzzywuzzy
+bs4
+rpy2
+tzlocal
+networkx
+genderize
+sklearn
